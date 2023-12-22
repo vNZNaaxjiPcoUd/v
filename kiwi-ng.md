@@ -14,3 +14,7 @@ move to linux base
 build live os
 - kiwi-ng --debug --profile XX_live_SLE_15 --type iso system build --description xxx/configuration --target-dir ${Dir_Output}
 - cp -af ${Dir_Output}
+
+wiki
+- https://documentation.suse.com/appliance/kiwi-9/single-html/kiwi/index.html
+- 
