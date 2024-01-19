@@ -60,7 +60,7 @@
 [English Listen](./englishListen.md)
 [Shortcut](./shortcut.md)
 [xbook](./xbook.md)
-[git story](https://www.protectedtext.com/gitprwp)
+[git story](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
 
 
 
