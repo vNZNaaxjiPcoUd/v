@@ -1,2 +1,3 @@
 - [xbook](https://hkqbohnzfmvn.github.io/LumN9YcVAMhwD/app/contents/app/app/contents/js/contents/sha3_x.html)
+- [code set change in chrome](https://chromewebstore.google.com/detail/set-character-encoding/bpojelgakakmcfmjfilgdlmhefphglae)
 - No other
