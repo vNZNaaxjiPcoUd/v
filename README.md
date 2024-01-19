@@ -59,6 +59,6 @@
 [Chrome config](chrome://net-internals/#dns)
 [English Listen](./englishListen.md)
 [Shortcut](./shortcut.md)
-[xbook](.xbook.md)
+[xbook](./xbook.md)
 
 
