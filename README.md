@@ -63,6 +63,6 @@
 Jupiter0420{[netflix](https://www.netflix.com/)
 [spotify,jupiter0420](https://open.spotify.com/)}
 [git story](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
-
+[pchome](https://24h.pchome.com.tw/)
 
 
