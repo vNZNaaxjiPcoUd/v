@@ -66,5 +66,4 @@ Jupiter0420{[netflix](https://www.netflix.com/)
 [pchome](https://24h.pchome.com.tw/)
 
 car in usa
-- https://www.carvana.com/
-- https://www.cars.com/
+- [carvana](https://www.carvana.com/), [cars](https://www.cars.com/)
