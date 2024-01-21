@@ -1,6 +1,6 @@
 Tech Specs
 ==========
-Inspiron 15 Laptop
+Dell Inspiron 15 Laptop 3520
 
 $329.99
 
