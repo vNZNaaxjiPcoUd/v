@@ -1,5 +1,9 @@
 Tech Specs
 ==========
+Inspiron 15 Laptop
+
+$329.99
+
 Processor
 12th Gen Intel® Core™ i5-1235U (12 MB cache, 10 cores, 12 threads, up to 4.40 GHz Turbo)
 
@@ -38,7 +42,7 @@ Keyboard
 English US non-backlit keyboard
 
 Ports
-1 USB 3.2 Gen 1 Type-C® port with DisplayPort 1.4 (on 12th Gen Processor configured with Type-C®)
+XX 1 USB 3.2 Gen 1 Type-C® port with DisplayPort 1.4 (on 12th Gen Processor configured with Type-C®)
 2 USB 3.2 Gen 1 ports (on systems configured with non Type-C®)
 1 USB 2.0 port
 1 Power Jack
@@ -80,3 +84,6 @@ Energy Star
 Product Safety, EMC and Environmental Datasheets
 Dell Regulatory Compliance Home Page
 Dell and the Environment
+
+
+
