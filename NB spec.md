@@ -88,7 +88,9 @@ Regulatory
 Intel Core i5-1235U
 -------------------
 
-***13568***
+Average CPU Mark ***13568***
+
+Single Thread Rating: 3272
 
 Description: Intel Iris Xe Graphics
 
