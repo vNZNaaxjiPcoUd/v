@@ -17,10 +17,10 @@ Display
 15.6", FHD 1920x1080, 120Hz, WVA, Non-Touch, Anti-Glare, 250 nit, Narrow Border, LED-Backlit
 
 Memory 
-8 GB: 1 x 8 GB, DDR4, 2666 MT/s
+8 GB: 1 x 8 GB, DDR4, 2666 MT/s --> 16 GB 
 
 Storage
-256 GB, M.2, PCIe NVMe, SSD
+256 GB, M.2, PCIe NVMe, SSD --> 1TB
 
 Case
 Carbon Black (Plastic)
