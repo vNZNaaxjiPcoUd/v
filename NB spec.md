@@ -88,7 +88,7 @@ Regulatory
 Intel Core i5-1235U
 -------------------
 
-#13568#
+*13568*
 
 Description: Intel Iris Xe Graphics
 
