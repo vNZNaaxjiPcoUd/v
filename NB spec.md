@@ -85,4 +85,40 @@ Regulatory
 - Dell and the Environment
 
 
+Intel Core i5-1235U
+-------------------
 
+#13568#
+
+Description: Intel Iris Xe Graphics
+
+Class: Laptop, Mobile/Embedded
+
+Socket: FCBGA1744
+
+Total Cores: 10 Cores, 12 Threads
+
+Performance Cores: 2 Cores, 4 Threads, 1.3 GHz Base, 4.4 GHz Turbo
+
+Efficient Cores: 8 Cores, 8 Threads, 0.9 GHz Base, 3.3 GHz Turbo
+
+Typical TDP: 15 W
+
+TDP Up: 55 W
+
+Cache per CPU Package:
+- L1 Instruction Cache: 2 x 32 KB
+- L1 Data Cache: 2 x 48 KB
+- L2 Cache: 2 x 1280 KB
+- L3 Cache: 12 MB
+
+Cache per Eff. CPU Package:
+- Eff. L1 Instruction Cache: 8 x 64 KB
+- Eff. L1 Data Cache: 8 x 32 KB
+- Eff. L2 Cache: 2 x 2048 KB
+
+Memory Support: Max. Memory Size: 64 GB (Up to DDR5 4800 MT/s, Up to DDR4 3200 MT/s, Up to )
+
+Other names: 12th Gen Intel(R) Core(TM) i5-1235U, 12th Gen Intel Core i5-1235U
+
+CPU First Seen on Charts: Q1 2022
