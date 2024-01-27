@@ -66,6 +66,7 @@ Jupiter0420{[netflix](https://www.netflix.com/)
 [pchome](https://24h.pchome.com.tw/)
 
 - [book](https://www.haodoo.net/)
+- [GVoice](https://voice.google.com/)
 
 car in usa
 - [carvana](https://www.carvana.com/), [cars](https://www.cars.com/)
