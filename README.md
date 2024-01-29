@@ -54,6 +54,12 @@
 [WuBai](https://500.jwint.net/) 
 [Youtube](https://youtube.jwint.net/) 
 
+[qn](https://www.protectedtext.com/r61PFT8bLumN9YcVAMhwD6H2U4HHJiheBtYAdH1ZjM?DB79vI46GlgXrjw5nda5NSFZ9Aay9bQWZHopqwjZPGOHjdWAmstBw5N77ncTEkdMiWKUEXZN8GXlUM6ccmsUL9qK9ZHdC3CghI1wB5lxlxyW7rEUiR3cI6UjaL270yOcJUKXDCASgVipCxxuPK1JBTZ0ZQ2Y5u2FRhGE2SAq92mEGirLKnfupfum9FtqmluCIypEVcu8yQVoxysvlvYtLMB52d3AODHHQjJHEj4jHkqbohNzfmvNZNaaxjiPcoUdRqosTY2zwY4pzmz9mKS4Ny6hrOuOfJ6z3CwbsqtjAerDjDrYx1UvideKoNHPLkd3uQcTi3eyzZKxSPJpGYFDw2B)
+[github](https://github.com/vNZNaaxjiPcoUd/Log)
+[youtube](https://www.youtube.com/)
+[google translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
+[git V](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
+[keep](https://keep.google.com/u/0/)
 
 [NewOne](./newone.md)
 [Chrome config](chrome://net-internals/#dns)
