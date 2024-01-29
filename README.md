@@ -55,21 +55,21 @@
 [Youtube](https://youtube.jwint.net/) 
 🍀
 
-[NewOne](./newone.md)
-[Chrome config](chrome://net-internals/#dns)
-[English Listen](./englishListen.md)
-[Shortcut](./shortcut.md)
-[xbook](./xbook.md)
-Jupiter0420{[netflix](https://www.netflix.com/)
-[spotify](https://open.spotify.com/)}
-[git story](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
-[pchome](https://24h.pchome.com.tw/)
-
+- [NewOne](./newone.md)
+- [Chrome config](chrome://net-internals/#dns)
+- [English Listen](./englishListen.md)
+- [Shortcut](./shortcut.md)
+- [xbook](./xbook.md)
+- [netflix](https://www.netflix.com/)
+- [spotify](https://open.spotify.com/)
+- [git story](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
+- [pchome](https://24h.pchome.com.tw/)
 - [book](https://www.haodoo.net/)
 - [GVoice](https://voice.google.com/)
 - car in usa
   - [carvana](https://www.carvana.com/), [cars](https://www.cars.com/)
 - [office365](https://www.microsoft365.com/)
 - [google office](https://about.google/intl/zh-TW/products/)
+- [font](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
 
 
