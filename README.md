@@ -53,7 +53,7 @@
 [Windy](https://windy.jwint.net/) 
 [WuBai](https://500.jwint.net/) 
 [Youtube](https://youtube.jwint.net/) 
-🍀
+
 
 [NewOne](./newone.md)
 [Chrome config](chrome://net-internals/#dns)
@@ -74,4 +74,16 @@ car in usa {
 [google produce](https://about.google/intl/zh-TW/products/)
 [chinese font](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
 
+
+
+
+
+
+
+
+
+
+
+
+🍀
 
