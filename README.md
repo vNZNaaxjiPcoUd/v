@@ -82,6 +82,7 @@ car in usa {
 [office365](https://www.microsoft365.com/)
 [google produce](https://about.google/intl/zh-TW/products/)
 [chinese font in git](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
+[LinkedIn](https://www.linkedin.com/feed/)
 
 
 
