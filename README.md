@@ -97,7 +97,7 @@ car in usa {
 [愛情公寓](https://www.youtube.com/playlist?list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5)
 [Read stuff save](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
 [byte byte go in youtube](https://www.youtube.com/@ByteByteGo/community)
-
+[my study stuff](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
 
 
 
