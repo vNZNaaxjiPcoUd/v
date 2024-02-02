@@ -69,8 +69,6 @@ G
 [voice](https://voice.google.com/)
 
 [qn](https://www.protectedtext.com/r61PFT8bLumN9YcVAMhwD6H2U4HHJiheBtYAdH1ZjM?DB79vI46GlgXrjw5nda5NSFZ9Aay9bQWZHopqwjZPGOHjdWAmstBw5N77ncTEkdMiWKUEXZN8GXlUM6ccmsUL9qK9ZHdC3CghI1wB5lxlxyW7rEUiR3cI6UjaL270yOcJUKXDCASgVipCxxuPK1JBTZ0ZQ2Y5u2FRhGE2SAq92mEGirLKnfupfum9FtqmluCIypEVcu8yQVoxysvlvYtLMB52d3AODHHQjJHEj4jHkqbohNzfmvNZNaaxjiPcoUdRqosTY2zwY4pzmz9mKS4Ny6hrOuOfJ6z3CwbsqtjAerDjDrYx1UvideKoNHPLkd3uQcTi3eyzZKxSPJpGYFDw2B)
-[github](https://github.com/vNZNaaxjiPcoUd/Log)
-[git V](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
 [NewOne](./newone.md)
 [chrome config](chrome://net-internals/#dns)
 [English Listen](./englishListen.md)
@@ -93,6 +91,8 @@ car in usa {
 [Web Editor](https://onlinehtmleditor.dev/)
 [HTML to Markdown](https://www.convertsimple.com/convert-html-to-markdown/)
 [icloud](https://www.icloud.com/)
+[quick note in git](https://github.com/vNZNaaxjiPcoUd/Log)
+[git V](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
 [markdown syntax](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [愛情公寓](https://www.youtube.com/playlist?list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5)
 [Read stuff save](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
