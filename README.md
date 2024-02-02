@@ -62,6 +62,7 @@ G
 [home](https://home.google.com/)
 [keep](https://keep.google.com/)
 [mail](https://mail.google.com/)
+[map](https://www.google.com.tw/maps/@23.7574949,121.200516,8z?hl=zh-TW)
 [news](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
 [photo](https://photos.google.com/)
 [translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
