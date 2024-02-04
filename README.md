@@ -1,3 +1,5 @@
+
+[big company repository](https://jj.jwint.net/ReadStuffSave/all%20of%20their%20code%20in%20one%20repository)
 [qn](https://www.protectedtext.com/r61PFT8bLumN9YcVAMhwD6H2U4HHJiheBtYAdH1ZjM?DB79vI46GlgXrjw5nda5NSFZ9Aay9bQWZHopqwjZPGOHjdWAmstBw5N77ncTEkdMiWKUEXZN8GXlUM6ccmsUL9qK9ZHdC3CghI1wB5lxlxyW7rEUiR3cI6UjaL270yOcJUKXDCASgVipCxxuPK1JBTZ0ZQ2Y5u2FRhGE2SAq92mEGirLKnfupfum9FtqmluCIypEVcu8yQVoxysvlvYtLMB52d3AODHHQjJHEj4jHkqbohNzfmvNZNaaxjiPcoUdRqosTY2zwY4pzmz9mKS4Ny6hrOuOfJ6z3CwbsqtjAerDjDrYx1UvideKoNHPLkd3uQcTi3eyzZKxSPJpGYFDw2B)
 [NewOne](./newone.md)
 [chrome config](chrome://net-internals/#dns)
