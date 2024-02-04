@@ -1,3 +1,34 @@
+[qn](https://www.protectedtext.com/r61PFT8bLumN9YcVAMhwD6H2U4HHJiheBtYAdH1ZjM?DB79vI46GlgXrjw5nda5NSFZ9Aay9bQWZHopqwjZPGOHjdWAmstBw5N77ncTEkdMiWKUEXZN8GXlUM6ccmsUL9qK9ZHdC3CghI1wB5lxlxyW7rEUiR3cI6UjaL270yOcJUKXDCASgVipCxxuPK1JBTZ0ZQ2Y5u2FRhGE2SAq92mEGirLKnfupfum9FtqmluCIypEVcu8yQVoxysvlvYtLMB52d3AODHHQjJHEj4jHkqbohNzfmvNZNaaxjiPcoUdRqosTY2zwY4pzmz9mKS4Ny6hrOuOfJ6z3CwbsqtjAerDjDrYx1UvideKoNHPLkd3uQcTi3eyzZKxSPJpGYFDw2B)
+[NewOne](./newone.md)
+[chrome config](chrome://net-internals/#dns)
+[English Listen](./englishListen.md)
+[Shortcut](./shortcut.md)
+[xbook](./xbook.md)
+[netflix](https://www.netflix.com/)
+[spotify](https://open.spotify.com/)
+[pchome](https://24h.pchome.com.tw/)
+[book](https://www.haodoo.net/)
+[GVoice](https://voice.google.com/)
+car in usa {
+  [carvana](https://www.carvana.com/)
+  [cars](https://www.cars.com/)
+  }
+[office365](https://www.microsoft365.com/)
+[git](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
+[chinese font](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
+[LinkedIn](https://www.linkedin.com/feed/)
+[書](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan/tree/main/%E6%9B%B8)
+[Web Editor](https://onlinehtmleditor.dev/)
+[HTML to Markdown](https://www.convertsimple.com/convert-html-to-markdown/)
+[icloud](https://www.icloud.com/)
+[log](https://github.com/vNZNaaxjiPcoUd/Log)
+[Read stuff save](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
+[edit V](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
+[markdown syntax](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[愛情公寓](https://www.youtube.com/playlist?list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5)
+[byte byte go](https://www.youtube.com/@ByteByteGo/community)
+[geohack map](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
+
 🍀 
 [AES](https://aes.jwint.net/) 
 [Calculate](https://cal.jwint.net/) 
@@ -69,36 +100,7 @@ G
 [youtube](https://www.youtube.com/)
 [voice](https://voice.google.com/)
 
-[qn](https://www.protectedtext.com/r61PFT8bLumN9YcVAMhwD6H2U4HHJiheBtYAdH1ZjM?DB79vI46GlgXrjw5nda5NSFZ9Aay9bQWZHopqwjZPGOHjdWAmstBw5N77ncTEkdMiWKUEXZN8GXlUM6ccmsUL9qK9ZHdC3CghI1wB5lxlxyW7rEUiR3cI6UjaL270yOcJUKXDCASgVipCxxuPK1JBTZ0ZQ2Y5u2FRhGE2SAq92mEGirLKnfupfum9FtqmluCIypEVcu8yQVoxysvlvYtLMB52d3AODHHQjJHEj4jHkqbohNzfmvNZNaaxjiPcoUdRqosTY2zwY4pzmz9mKS4Ny6hrOuOfJ6z3CwbsqtjAerDjDrYx1UvideKoNHPLkd3uQcTi3eyzZKxSPJpGYFDw2B)
-[NewOne](./newone.md)
-[chrome config](chrome://net-internals/#dns)
-[English Listen](./englishListen.md)
-[Shortcut](./shortcut.md)
-[xbook](./xbook.md)
-[netflix](https://www.netflix.com/)
-[spotify](https://open.spotify.com/)
-[pchome](https://24h.pchome.com.tw/)
-[book](https://www.haodoo.net/)
-[GVoice](https://voice.google.com/)
-car in usa {
-  [carvana](https://www.carvana.com/)
-  [cars](https://www.cars.com/)
-  }
-[office365](https://www.microsoft365.com/)
-[git](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
-[chinese font](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
-[LinkedIn](https://www.linkedin.com/feed/)
-[書](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan/tree/main/%E6%9B%B8)
-[Web Editor](https://onlinehtmleditor.dev/)
-[HTML to Markdown](https://www.convertsimple.com/convert-html-to-markdown/)
-[icloud](https://www.icloud.com/)
-[log](https://github.com/vNZNaaxjiPcoUd/Log)
-[Read stuff save](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
-[edit V](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
-[markdown syntax](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-[愛情公寓](https://www.youtube.com/playlist?list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5)
-[byte byte go](https://www.youtube.com/@ByteByteGo/community)
-[geohack map](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
+
 
 
 
