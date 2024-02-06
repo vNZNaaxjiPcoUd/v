@@ -95,6 +95,7 @@ car in usa {
 🍀 
 
 G
+[bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
 [drive](https://drive.google.com/)
