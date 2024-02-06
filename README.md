@@ -1,4 +1,6 @@
 
+
+[Year log](https://github.com/vNZNaaxjiPcoUd/Log/blob/newnote/life/yearlog.md)
 [Linkedin friend](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/linkedin%20friend.md)
 [Visible earth](https://visibleearth.nasa.gov/)
 [Sea](https://jj.jwint.net/ReadStuffSave/NewBook/%E6%B5%B7)
