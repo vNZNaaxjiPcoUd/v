@@ -1,4 +1,5 @@
 
+[Twitter](https://twitter.com/)
 [Python fastapi](https://fastapi.tiangolo.com/tutorial/first-steps/)
 [Tech news](https://technews.tw/)
 [Year log](https://github.com/vNZNaaxjiPcoUd/Log/blob/newnote/life/yearlog.md)
