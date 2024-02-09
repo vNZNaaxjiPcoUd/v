@@ -1,4 +1,7 @@
 
+
+
+[Squarex](https://public.sqrx.com/web/)
 [Twitter](https://twitter.com/)
 [Python fastapi](https://fastapi.tiangolo.com/tutorial/first-steps/)
 [Tech news](https://technews.tw/)
