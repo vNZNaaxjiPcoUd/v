@@ -104,6 +104,7 @@ G
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
 [drive](https://drive.google.com/)
+[gemini](https://gemini.google.com/app)
 [home](https://home.google.com/)
 [keep](https://keep.google.com/)
 [mail](https://mail.google.com/)
