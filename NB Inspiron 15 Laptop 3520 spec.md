@@ -2,7 +2,7 @@ Tech Specs
 ==========
 Dell Inspiron 15 Laptop 3520
 
-$329.99, with tax is $355
+$329.99, with tax is $355, 11,146.64 TWD
 
 Processor
 12th Gen Intel® Core™ i5-1235U (12 MB cache, 10 cores, 12 threads, up to 4.40 GHz Turbo)
