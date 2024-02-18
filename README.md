@@ -1,6 +1,7 @@
 
 
 
+[Notion](https://www.notion.so/)
 [Hulu](https://www.hulu.com/content?tab=tv)
 [Squarex is virtual browser for private](https://public.sqrx.com/web/)
 [Twitter](https://twitter.com/)
