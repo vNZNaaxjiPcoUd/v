@@ -1,6 +1,8 @@
 
 
 
+
+[Masr chinese reg tool in python](https://github.com/nobody132/masr/blob/master/docs/train.md)
 [Notion](https://www.notion.so/)
 [Hulu](https://www.hulu.com/content?tab=tv)
 [Squarex is virtual browser for private](https://public.sqrx.com/web/)
