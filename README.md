@@ -106,7 +106,9 @@ G
 [chat](https://mail.google.com/chat/)
 [drive](https://drive.google.com/)
 [flight](https://www.google.com/travel/flights)
+[flight cheap](https://www.google.com/travel/explore)
 [gemini](https://gemini.google.com/app)
+[hotel](https://www.google.com/travel/search)
 [home](https://home.google.com/)
 [keep](https://keep.google.com/)
 [mail](https://mail.google.com/)
@@ -115,6 +117,7 @@ G
 [notebooklm](https://notebooklm.google.com/)
 [photo](https://photos.google.com/)
 [translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
+[travel](https://www.google.com/travel/)
 [youtube](https://www.youtube.com/)
 [voice](https://voice.google.com/)
 
