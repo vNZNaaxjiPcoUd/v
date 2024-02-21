@@ -1,7 +1,7 @@
 
 
 
-
+[Windows 95 vdi from archive org](https://archive.org/search?query=windows+7+vdi)
 [AGT web](https://agt.jwint.net/)
 [DISC 性格分析](https://share.jwint.net/NewBook/DISC%E5%80%8B%E6%80%A7%E5%88%86%E6%9E%90)
 [Share in notion](https://todaynews.jwint.net/news/Favorite%20&%20Share%2049914338890b46ba9dbc206b349666d9)
