@@ -47,7 +47,7 @@ car in usa {
 [Url of public note](https://share.jwint.net/)
 [Public note in github](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
 [Edit v](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
-[keep1](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
+[Private keep note](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
 [Markdown syntax in github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [愛情公寓 all in youtube](https://www.youtube.com/playlist?list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
