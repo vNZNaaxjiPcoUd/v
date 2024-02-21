@@ -1,7 +1,7 @@
 
 
 
-
+[DISC 性格分析](https://share.jwint.net/NewBook/DISC%E5%80%8B%E6%80%A7%E5%88%86%E6%9E%90)
 [Share in notion](https://todaynews.jwint.net/news/Favorite%20&%20Share%2049914338890b46ba9dbc206b349666d9)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [PDF of rule bike in florida](./佛羅裡達州自行車法_%20自行車法.pdf)
