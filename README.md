@@ -38,7 +38,6 @@ car in usa {
   [Cars](https://www.cars.com/)
   }
 [書 ebook save](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan/tree/main/%E6%9B%B8)
-[Wodegerenjilu](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/tree/etc)
 [Web editor tool, can copy web to html](https://onlinehtmleditor.dev/)
 [HTML to markdown translate](https://www.convertsimple.com/convert-html-to-markdown/)
 [Icloud](https://www.icloud.com/)
@@ -47,8 +46,8 @@ car in usa {
 [Log](https://github.com/vNZNaaxjiPcoUd/Log)
 [Url of public note](https://share.jwint.net/)
 [Public note in github](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
+[Wodegerenjilu](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
 [Edit v](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
-[Private keep note](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
 [Markdown syntax in github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [愛情公寓 all in youtube](https://www.youtube.com/watch?v=PoxpC5abUc4&list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5&index=2&t=1629s)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
