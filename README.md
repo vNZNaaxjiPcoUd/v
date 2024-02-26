@@ -134,7 +134,7 @@ car in usa {
 [home](https://home.google.com/)
 [keep](https://keep.google.com/)
 [mail](https://mail.google.com/)
-[map](https://www.google.com.tw/maps/@23.7574949,121.200516,8z?hl=zh-TW)
+[map](https://www.google.com.tw/maps/)
 [news](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
 [notebooklm](https://notebooklm.google.com/)
 [photo](https://photos.google.com/)
