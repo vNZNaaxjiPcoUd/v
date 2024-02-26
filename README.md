@@ -54,7 +54,7 @@ car in usa {
 [Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
 
 ### app
-[Ｒeddit](https://www.reddit.com/)
+[Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Office365](https://www.microsoft365.com/)
 [Linkedin](https://www.linkedin.com/feed/)
