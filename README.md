@@ -34,10 +34,8 @@
 [Pchome shopping in tw](https://24h.pchome.com.tw/)
 [Book download ebook](https://www.haodoo.net/)
 [GVoice](https://voice.google.com/)
-car in usa {
-  [Carvana](https://www.carvana.com/)
-  [Cars](https://www.cars.com/)
-  }
+[Carvana car in usa](https://www.carvana.com/)
+[Carsin usa](https://www.cars.com/)
 [Web editor tool, can copy web to html](https://onlinehtmleditor.dev/)
 [HTML to markdown translate](https://www.convertsimple.com/convert-html-to-markdown/)
 [Git list](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
@@ -46,15 +44,16 @@ car in usa {
 [Url of public note](https://share.jwint.net/note/NB%20Inspiron%2015%20Laptop%203520%20spec)
 [Public note in github](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
 [Wodegerenjilu](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
-[Edit v](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
+[Ｖ edit](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
 [Ebook save](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan/tree/main/%E6%9B%B8)
 [Year log](https://github.com/vNZNaaxjiPcoUd/Log/blob/newnote/life/yearlog.md)
 [Markdown syntax in github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [愛情公寓 all in youtube](https://www.youtube.com/watch?v=PoxpC5abUc4&list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5&index=2&t=1629s)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
-[Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
+[Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)🍀
 
 ### app
+🍀
 [Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Office365](https://www.microsoft365.com/)
@@ -64,7 +63,7 @@ car in usa {
 [Spotify](https://open.spotify.com/)
 [Icloud](https://www.icloud.com/)
 [Zillow](https://www.zillow.com/)
-
+🍀
 ### old
 🍀 
 [AES](https://aes.jwint.net/) 
@@ -121,9 +120,10 @@ car in usa {
 [Windy](https://windy.jwint.net/) 
 [WuBai](https://500.jwint.net/) 
 [Youtube](https://youtube.jwint.net/) 
-🍀 
+ 🍀 
 
 ### G
+🍀
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
