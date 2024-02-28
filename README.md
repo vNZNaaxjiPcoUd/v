@@ -1,6 +1,6 @@
 
 ### note
-[Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
+
 [太極八式](https://www.youtube.com/watch?v=j7zKkcVMaq8&list=PL9P9juNnx4d5BEVz35W4qPUZ2bkHi115P)
 [玉山之頂](https://www.google.com.tw/maps/@23.4699967,120.957445,3a,75y,90t/data=!3m8!1e1!3m6!1sAF1QipPw4pGsmPLHx48PLzTIudX0PmDEW1wFJ6MTTk6w!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPw4pGsmPLHx48PLzTIudX0PmDEW1wFJ6MTTk6w%3Dw203-h100-k-no-pi0-ya261.18533-ro0-fo100!7i8192!8i4096?hl=zh-TW&entry=ttu)
 [Ｍap to taiwan](https://www.google.com.tw/maps/@23.7574949,121.200516,8z?hl=zh-TW)
@@ -27,7 +27,6 @@
 [Sea](https://jj.jwint.net/ReadStuffSave/NewBook/%E6%B5%B7)
 [Big company repository usage by one or multi](https://jj.jwint.net/ReadStuffSave/all%20of%20their%20code%20in%20one%20repository)
 [Newone](./newone.md)
-[Chrome configuration](chrome://net-internals/#dns)
 [English Listen](./englishListen.md)
 [Shortcut collection of url](./shortcut.md)
 [Xbook](./xbook.md)
@@ -50,7 +49,14 @@
 [Markdown syntax in github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [愛情公寓 all in youtube](https://www.youtube.com/watch?v=PoxpC5abUc4&list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5&index=2&t=1629s)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
-[Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)🍀
+[Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
+🍀
+
+### chrome setup
+🍀
+[Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
+[Chrome dns configuration](chrome://net-internals/#dns)
+🍀
 
 ### app
 🍀
