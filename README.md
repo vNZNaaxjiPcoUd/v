@@ -71,7 +71,7 @@
 [Zillow](https://www.zillow.com/)
 🍀
 ### old
-🍀 
+🍀
 [AES](https://aes.jwint.net/) 
 [Calculate](https://cal.jwint.net/) 
 [Calendar](https://calendar.jwint.net/) 
@@ -126,9 +126,9 @@
 [Windy](https://windy.jwint.net/) 
 [WuBai](https://500.jwint.net/) 
 [Youtube](https://youtube.jwint.net/) 
- 🍀 
+🍀 
 
-### G
+### g
 🍀
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
@@ -149,17 +149,10 @@
 [travel](https://www.google.com/travel/)
 [youtube](https://www.youtube.com/)
 [voice](https://voice.google.com/)
-
-
-
-
-
-
-
-
-
-
-
-
 🍀
+
+
+
+
+
 
