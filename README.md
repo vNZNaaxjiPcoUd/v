@@ -128,6 +128,7 @@
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
+[contact](https://contacts.google.com/)
 [drive](https://drive.google.com/)
 [flight](https://www.google.com/travel/flights)
 [flight cheap](https://www.google.com/travel/explore)
