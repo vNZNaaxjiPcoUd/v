@@ -40,7 +40,7 @@
 [Git list](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
 [Chinese font collection](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
 [Log](https://github.com/vNZNaaxjiPcoUd/Log)
-[Url of public note](https://share.jwint.net/note/NB%20Inspiron%2015%20Laptop%203520%20spec)
+[Public note url](https://share.jwint.net/note/NB%20Inspiron%2015%20Laptop%203520%20spec)
 [Public note in github](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
 [Wodegerenjilu](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
 [Ｖ edit](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
