@@ -41,7 +41,6 @@
 [Chinese font collection](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
 [Log](https://github.com/vNZNaaxjiPcoUd/Log)
 [Public note url](https://share.jwint.net/note/NB%20Inspiron%2015%20Laptop%203520%20spec)
-[Public note in github](https://github.com/vNZNaaxjiPcoUd/ReadStuffSave/blob/MyStudy/README.md)
 [Wodegerenjilu](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/keep1.md)
 [Ｖ edit](https://github.com/vNZNaaxjiPcoUd/www/blob/etc/README.md)
 [Ebook save](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan/tree/main/%E6%9B%B8)
