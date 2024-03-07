@@ -1,3 +1,5 @@
+build iso file
+
 compileall of python
 - compileall is compile py to pyc
 - python3 -m compileall pyc -b
