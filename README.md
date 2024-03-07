@@ -38,7 +38,7 @@
 [Web editor tool, can copy web to html](https://onlinehtmleditor.dev/)
 [HTML to markdown translate](https://www.convertsimple.com/convert-html-to-markdown/)
 [Git list](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
-[Chinese font collection](https://github.com/vNZNaaxjiPcoUd/Chinese-Font-From-Taiwan)
+[Chinese font collection](https://jj.jwint.net/Chinese-Font-From-Taiwan/)
 [Public note url](https://share.jwint.net/note/NB%20Inspiron%2015%20Laptop%203520%20spec)
 [Wodegerenjilu](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/README.md)
 [Markdown syntax in github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
