@@ -1,6 +1,7 @@
 
 ### note
 
+[日本直播](https://www.youtube.com/playlist?list=PLtPJtE4_gezc20D5xv6MYtjPIti8xLWRZ)
 [~ md5 outside](https://emn178.github.io/online-tools/md5.html)
 [~ freelance fiverr](https://www.fiverr.com/)
 [~ Free lancer](https://www.freelancer.com/job/)
