@@ -4,7 +4,7 @@
 
 [三仙台](https://www.youtube.com/watch?v=dQ7Sd6PGLdA&list=PL9P9juNnx4d6iHss2KTaN-yu50iN6K_2a&index=1)
 [J](https://j.jwint.net/)
-[www.jwint.net](https://www.jwint.net/)
+[WWW](https://www.jwint.net/)
 [V](https://v.jwint.net/)
 [函館半島](https://www.youtube.com/watch?v=s--MDmshT3I)
 [日本直播](https://www.youtube.com/playlist?list=PLtPJtE4_gezc20D5xv6MYtjPIti8xLWRZ)
