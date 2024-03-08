@@ -60,7 +60,7 @@
 [HTML to markdown...](https://www.convertsimple.com/convert-html-to-markdown/)
 [AES ...](https://aes.jwint.net)
 [MD5 ...](https://md5.jwint.net/)
-[Random ...](https://ran.jwint.net/)
+[Random ...](https://random.jwint.net/)
 
 ### chrome setup
 🍀
