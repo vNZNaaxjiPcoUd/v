@@ -2,7 +2,7 @@
 
 ### information
 
-[Bing map](https://www.bing.com/maps?cp=30.309115%7E120.130897&lvl=16.4)
+[Bing map](https://www.bing.com/maps?cp=30.309276%7E120.131001&lvl=17.3&setlang=zh-Hant)
 [三仙台](https://www.youtube.com/watch?v=dQ7Sd6PGLdA&list=PL9P9juNnx4d6iHss2KTaN-yu50iN6K_2a&index=1)
 [J](https://j.jwint.net/)
 [WWW](https://www.jwint.net/)
