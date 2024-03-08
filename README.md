@@ -54,6 +54,7 @@
 [愛情公寓 all in youtube](https://www.youtube.com/watch?v=PoxpC5abUc4&list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5&index=2&t=1629s)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
 [Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
+
 🍀
 
 ### tool
@@ -63,6 +64,7 @@
 
 ### app
 🍀
+
 [Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Office365](https://www.microsoft365.com/)
@@ -72,11 +74,13 @@
 [Spotify](https://open.spotify.com/)
 [Icloud](https://www.icloud.com/)
 [Zillow](https://www.zillow.com/)
+
 🍀 
 
 
 ### tool
 🍀
+
 [AES](https://aes.jwint.net/) 
 [Calculate](https://cal.jwint.net/) 
 [Calendar](https://calendar.jwint.net/) 
@@ -131,10 +135,12 @@
 [Windy](https://windy.jwint.net/) 
 [WuBai](https://500.jwint.net/) 
 [Youtube](https://youtube.jwint.net/) 
+
 🍀 
 
 ### g
 🍀
+
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
@@ -155,6 +161,7 @@
 [travel](https://www.google.com/travel/)
 [voice](https://voice.google.com/)
 [youtube](https://www.youtube.com/)
+
 🍀
 
 ### chrome setup
