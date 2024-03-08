@@ -1,6 +1,8 @@
 
 ### note
 
+[www.jwint.net](https://www.jwint.net/)
+[v.jwint](https://v.jwint.net/)
 [函館半島](https://www.youtube.com/watch?v=s--MDmshT3I&list=PLtPJtE4_gezc20D5xv6MYtjPIti8xLWRZ&index=2)
 [日本直播](https://www.youtube.com/playlist?list=PLtPJtE4_gezc20D5xv6MYtjPIti8xLWRZ)
 [~ md5 outside](https://emn178.github.io/online-tools/md5.html)
