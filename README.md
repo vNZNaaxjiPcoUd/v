@@ -1,3 +1,4 @@
+# 🍀 
 
 ### information
 
@@ -60,12 +61,6 @@
 [HTML to markdown...](https://www.convertsimple.com/convert-html-to-markdown/)
 
 
-### chrome setup
-🍀
-[Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
-[Chrome dns configuration](chrome://net-internals/#dns)
-🍀
-
 ### app
 🍀
 [Reddit](https://www.reddit.com/)
@@ -77,7 +72,9 @@
 [Spotify](https://open.spotify.com/)
 [Icloud](https://www.icloud.com/)
 [Zillow](https://www.zillow.com/)
-🍀
+🍀 
+
+
 ### tool
 🍀
 [AES](https://aes.jwint.net/) 
@@ -158,6 +155,12 @@
 [travel](https://www.google.com/travel/)
 [voice](https://voice.google.com/)
 [youtube](https://www.youtube.com/)
+🍀
+
+### chrome setup
+🍀
+[Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
+[Chrome dns configuration](chrome://net-internals/#dns)
 🍀
 
 
