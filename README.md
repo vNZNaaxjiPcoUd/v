@@ -64,7 +64,6 @@
 
 ### app
 🍀
-
 [Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Office365](https://www.microsoft365.com/)
@@ -74,13 +73,11 @@
 [Spotify](https://open.spotify.com/)
 [Icloud](https://www.icloud.com/)
 [Zillow](https://www.zillow.com/)
-
 🍀 
 
 
 ### tool
 🍀
-
 [AES](https://aes.jwint.net/) 
 [Calculate](https://cal.jwint.net/) 
 [Calendar](https://calendar.jwint.net/) 
@@ -135,12 +132,10 @@
 [Windy](https://windy.jwint.net/) 
 [WuBai](https://500.jwint.net/) 
 [Youtube](https://youtube.jwint.net/) 
-
 🍀 
 
 ### g
 🍀
-
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
@@ -161,7 +156,6 @@
 [travel](https://www.google.com/travel/)
 [voice](https://voice.google.com/)
 [youtube](https://www.youtube.com/)
-
 🍀
 
 ### chrome setup
