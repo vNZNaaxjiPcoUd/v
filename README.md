@@ -2,6 +2,7 @@
 
 ### information
 
+[milanote in lt@jwint](https://milanote.com/)
 [Github activity configure](https://docs.github.com/zh/actions/using-workflows/about-workflows)
 [ffmpeg command](https://blog.miniasp.com/post/2022/10/08/Useful-tool-FFmpeg)
 [Oracle free cloud](https://www.oracle.com/cloud/free/)
