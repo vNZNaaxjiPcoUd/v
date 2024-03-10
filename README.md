@@ -2,6 +2,7 @@
 
 ### information
 
+[Movie list](https://share.jwint.net/doc/movie%20list)
 [emoji](https://share.jwint.net/doc/emoji)
 [milanote](https://milanote.com/)
 [Github activity configure](https://docs.github.com/zh/actions/using-workflows/about-workflows)
