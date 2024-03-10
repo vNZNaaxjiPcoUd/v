@@ -2,6 +2,7 @@
 
 ### information
 
+[emoji](https://share.jwint.net/doc/emoji)
 [milanote](https://milanote.com/)
 [Github activity configure](https://docs.github.com/zh/actions/using-workflows/about-workflows)
 [ffmpeg command](https://blog.miniasp.com/post/2022/10/08/Useful-tool-FFmpeg)
