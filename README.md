@@ -47,7 +47,7 @@
 [Newone](./newone.md)
 [English Listen](./englishListen.md)
 [Shortcut collection of url](./shortcut.md)
-[Xbook](https://share.jwint.net/doc/xbook)
+[Xin book](https://share.jwint.net/doc/xbook)
 [Pchome shopping in tw](https://24h.pchome.com.tw/)
 [Book download ebook](https://www.haodoo.net/)
 [GVoice](https://voice.google.com/)
