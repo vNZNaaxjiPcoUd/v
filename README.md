@@ -2,6 +2,7 @@
 
 ### information
 
+[Coffee type](https://share.jwint.net/doc/cofetype)
 [Movie list](https://share.jwint.net/doc/movie%20list)
 [Emoji](https://share.jwint.net/doc/emoji)
 [Milanote](https://milanote.com/)
