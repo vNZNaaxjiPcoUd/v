@@ -2,6 +2,7 @@
 
 ### information
 
+[Resume](https://docs.google.com/document/d/1dBDE4nRNdcYLgyxhZDdQnjk-DWqoU0nGJ-oAzrHxp1I/edit)
 [唐詩三百首](https://share.jwint.net/doc/%E5%94%90%E8%A9%A9%E4%B8%89%E7%99%BE%E9%A6%96.pdf)
 [宋詞三百首](https://share.jwint.net/doc/%E5%AE%8B%E8%A9%9E%E4%B8%89%E7%99%BE%E9%A6%96.pdf)
 [Tsm stock](https://www.google.com/search?q=stock+tsm&oq=stock+tsm)
