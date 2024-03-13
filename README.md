@@ -50,7 +50,7 @@
 [Visible earth can see some good picture in earth](https://visibleearth.nasa.gov/)
 [Sea](https://jj.jwint.net/ReadStuffSave/doc/%E6%B5%B7)
 [Big company repository usage by one or multi](https://jj.jwint.net/ReadStuffSave/all%20of%20their%20code%20in%20one%20repository)
-[Xin book](https://share.jwint.net/doc/xbook)
+[Sejie](https://share.jwint.net/doc/xbook)
 [Pchome shopping in tw](https://24h.pchome.com.tw/)
 [Book download ebook](https://www.haodoo.net/)
 [GVoice](https://voice.google.com/)
