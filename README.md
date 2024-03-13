@@ -2,6 +2,7 @@
 
 ### information
 
+[一些有趣的房產](https://share.jwint.net/doc/nicehouse)
 [海底電纜圖](https://www.submarinecablemap.com/)
 [Resume](https://docs.google.com/document/d/1dBDE4nRNdcYLgyxhZDdQnjk-DWqoU0nGJ-oAzrHxp1I/edit)
 [唐詩三百首](https://share.jwint.net/doc/%E5%94%90%E8%A9%A9%E4%B8%89%E7%99%BE%E9%A6%96.pdf)
