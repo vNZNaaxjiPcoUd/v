@@ -2,6 +2,7 @@
 
 ### information
 
+[Coffee roast level](https://github.com/vNZNaaxjiPcoUd/Notes/blob/www/doc/CofeRoast.md)
 [一些有趣的房產](https://share.jwint.net/doc/nicehouse)
 [海底電纜圖](https://www.submarinecablemap.com/)
 [Resume](https://docs.google.com/document/d/1dBDE4nRNdcYLgyxhZDdQnjk-DWqoU0nGJ-oAzrHxp1I/edit)
