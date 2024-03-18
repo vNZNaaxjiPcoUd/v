@@ -2,6 +2,7 @@
 
 ### information
 
+[Upwork](https://www.upwork.com/freelance-jobs/python/)
 [佛羅裡達自行車法規](https://share.jwint.net/doc/%E4%BD%9B%E7%BE%85%E8%A3%A1%E9%81%94%E5%B7%9E%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%B3%95_%20%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%B3%95.pdf)
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
 [Google font](https://fonts.google.com/specimen/Homemade+Apple)
