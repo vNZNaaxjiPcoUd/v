@@ -83,9 +83,9 @@
 🍀
 
 ### tool
-[Web editor tool...](https://onlinehtmleditor.dev/)
-[HTML to markdown...](https://www.convertsimple.com/convert-html-to-markdown/)
-
+[Web editor tool.](https://onlinehtmleditor.dev/)
+[HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
+[Geo IP.](https://tools.keycdn.com/geo)
 
 ### app
 🍀
