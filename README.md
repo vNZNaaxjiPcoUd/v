@@ -87,6 +87,8 @@
 [HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
 [Geo IP.](https://tools.keycdn.com/geo)
 [Copy Text to Markdown](https://mdxeditor.dev/editor/demo)
+[Sequence Diagram](https://share.jwint.net/doc/seqD)
+
 
 ### app
 🍀
