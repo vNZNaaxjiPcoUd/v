@@ -2,6 +2,8 @@
 
 ### information
 
+[Weee](https://www.sayweee.com/zht/search?keyword=unif)
+[Yamihouse](https://www.yamibuy.com/en/shop/unif-food)
 [Tech news from mashdigi](https://mashdigi.com/%e9%a0%ad%e6%a2%9d%e8%a9%b1%e9%a1%8c/)
 [Freelance websites pro and con](https://www.hostinger.com/tutorials/best-freelance-websites)
 [Freelance websites list](https://www.hostinger.com/tutorials/best-freelance-websites)
