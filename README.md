@@ -2,6 +2,7 @@
 
 ### information
 
+[Git reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 [Weee](https://www.sayweee.com/zht/search?keyword=unif)
 [Yamihouse](https://www.yamibuy.com/en/shop/unif-food)
 [Tech news from mashdigi](https://mashdigi.com/%e9%a0%ad%e6%a2%9d%e8%a9%b1%e9%a1%8c/)
