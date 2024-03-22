@@ -3,12 +3,13 @@
 ### information
 
 
-
-[PWA](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+[漸進式網路應用程式](https://zh.wikipedia.org/zh-tw/%E6%B8%90%E8%BF%9B%E5%BC%8F%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
+[PWA in mozilla](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+[PWA to android app](https://developers.google.com/codelabs/pwa-in-play)
+[卷積神經網路](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 [肉燥醬 in amazon](https://www.amazon.com/UNIF-Sauce-737g-can-UNI-PRESIDENT/dp/B07SCXHR9C)
 [RWD responsive web design 回應式網頁](https://www.ibest.tw/page02.php)
 [Web.dev](https://web.dev/learn/pwa/)
-[PWA to android app](https://developers.google.com/codelabs/pwa-in-play)
 [SW development](https://www.atlassian.com/software-development)
 [Git reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 [Weee](https://www.sayweee.com/zht/search?keyword=unif)
