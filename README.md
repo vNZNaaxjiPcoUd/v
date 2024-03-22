@@ -8,6 +8,7 @@
 [PWA in mozilla](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 [PWA in web.dev](https://web.dev/learn/pwa/)
 [PWA to android app](https://developers.google.com/codelabs/pwa-in-play)
+[PWA example](https://github.com/vaadin/expense-manager-demo)
 [卷積神經網路](https://en.wikipedia.org/wiki/Convolutional_neural_network)
 [肉燥醬 in amazon](https://www.amazon.com/UNIF-Sauce-737g-can-UNI-PRESIDENT/dp/B07SCXHR9C)
 [RWD responsive web design 回應式網頁](https://www.ibest.tw/page02.php)
