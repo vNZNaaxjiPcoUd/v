@@ -2,7 +2,7 @@
 
 ### information
 
-
+[類神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
 [漸進式網路應用程式](https://zh.wikipedia.org/zh-tw/%E6%B8%90%E8%BF%9B%E5%BC%8F%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
 [PWA in mozilla](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 [PWA in web.dev](https://web.dev/learn/pwa/)
