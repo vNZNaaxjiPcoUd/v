@@ -2,6 +2,13 @@
 
 ### information
 
+
+
+
+
+[RWD responsive web design 回應式網頁](https://www.ibest.tw/page02.php)
+[Web.dev](https://web.dev/learn/pwa/)
+[PWA to android app](https://developers.google.com/codelabs/pwa-in-play)
 [SW development](https://www.atlassian.com/software-development)
 [Git reset](https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 [Weee](https://www.sayweee.com/zht/search?keyword=unif)
