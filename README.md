@@ -2,7 +2,7 @@
 
 ### information
 
-
+[好讀二代](https://haodoo.blog/)
 [好讀](https://www.haodoo.net/?M=book&P=1657)
 [Kindle book library](https://www.amazon.com/hz/mycd/digital-console/contentlist/allcontent/dateDsc)
 [Post by Day](https://share.jwint.net/blog)
