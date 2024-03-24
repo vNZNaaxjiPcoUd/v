@@ -109,7 +109,7 @@
 [Geo IP.](https://tools.keycdn.com/geo)
 [Copy Text to Markdown](https://mdxeditor.dev/editor/demo)
 [Sequence Diagram](https://seq.jwint.net/)
-
+[Send To Kindle](https://www.amazon.com/sendtokindle)
 
 ### app
 🍀
