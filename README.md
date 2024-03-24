@@ -3,7 +3,7 @@
 ### information
 
 
-
+[Kindle book library](https://www.amazon.com/hz/mycd/digital-console/contentlist/allcontent/dateDsc)
 [Post by Day](https://share.jwint.net/blog)
 [News post](https://share.jwint.net/news)
 [PWA example in github](https://github.com/topics/pwa-example)
