@@ -18,8 +18,6 @@
 [銀行列表](https://share.jwint.net/docBKlist02016fa8873724beb807755e64d2b2b6b5)
 [好讀](https://www.haodoo.net/?M=book&P=1657)
 [Kindle book library](https://www.amazon.com/hz/mycd/digital-console/contentlist/allcontent/dateDsc)
-[Post by Day](https://share.jwint.net/blog)
-[News post](https://share.jwint.net/news)
 [PWA example in github](https://github.com/topics/pwa-example)
 [類神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
 [漸進式網路應用程式](https://zh.wikipedia.org/zh-tw/%E6%B8%90%E8%BF%9B%E5%BC%8F%E7%BD%91%E7%BB%9C%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F)
@@ -121,6 +119,7 @@
 ### share
 [news](https://share.jwint.net/news)
 [local sahre](https://share.jwint.net/localshare)
+[Post by Day](https://share.jwint.net/blog)
 
 
 🍀
