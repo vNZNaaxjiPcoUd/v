@@ -2,6 +2,11 @@
 
 ### information
 
+
+
+[Amazon health](https://health.amazon.com/)
+[Amazon pharmacy](https://pharmacy.amazon.com/)
+[Amazon clinic](https://clinic.amazon.com/)
 [Python example](https://github.com/dell/omivv/tree/master/Python/omevv/v1/omevv_apis_client)
 [Redfish ansible module](https://github.com/dell/redfish-ansible-module)
 [Golang example](https://github.com/dell/karavi-topology/blob/main/internal/k8s/k8sapi.go)
