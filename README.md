@@ -3,6 +3,8 @@
 ### information
 
 
+
+[vxrail](https://infohub.delltechnologies.com/en-US/l/protecting-workloads-with-dell-emc-vxrail-and-vmware-cloud-disaster-recovery-1/an-overview-vxrail/)
 [YAML](https://www.redhat.com/sysadmin/yaml-beginners)
 [Amazon health](https://health.amazon.com/)
 [Amazon pharmacy](https://pharmacy.amazon.com/)
