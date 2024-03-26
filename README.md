@@ -118,6 +118,13 @@
 
 🍀
 
+### share
+[news](https://share.jwint.net/news)
+[local sahre](https://share.jwint.net/localshare)
+
+
+🍀
+
 ### tool
 [Web editor tool.](https://onlinehtmleditor.dev/)
 [HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
