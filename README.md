@@ -2,6 +2,10 @@
 
 ### information
 
+
+[Redfish ansible module](https://github.com/dell/redfish-ansible-module)
+[Golang example](https://github.com/dell/karavi-topology/blob/main/internal/k8s/k8sapi.go)
+[iDrac redfish scripting](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master)
 [Vxrail ansible utility in github](https://github.com/dell/ansible-vxrail-utility)
 [Vxrail ansible in github](https://github.com/dell/ansible-vxrail)
 [銀行列表](https://share.jwint.net/docBKlist02016fa8873724beb807755e64d2b2b6b5)
