@@ -112,7 +112,7 @@
 [Markdown syntax in github](https://docs.github.com/zh/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [愛情公寓 all in youtube](https://www.youtube.com/watch?v=9f8yL5beEH4&list=PL9P9juNnx4d6Am-hJ4HtP0XqnzsUxJGK5&t=1845s)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
-[Wodegerenjilu](https://c73.jwint.net/blob/etc/README.md)
+[Wodegerenjilu](https://c73.jwint.net/README.md)
 [Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
 
 ### other
