@@ -120,7 +120,7 @@
 [Linkin list](https://c73.jwint.net/blob/etc/Ref/linkedin%20friend.md)
 [bk list](https://c73.jwint.net/blob/etc/Ref/bk%20list.md)
 [Note](https://c73.jwint.net/blob/etc/note/Note.md)
-[DHL fee](https://github.com/vNZNaaxjiPcoUd/privatee788c23d1c739241ad977bc5cb3344/blob/etc/Ref/DHL%20fee%20TPA%20to%20TPE.md)
+[DHL fee](https://c73.jwint.net/blob/etc/Ref/DHL%20fee%20TPA%20to%20TPE.md)
 🍀
 
 ### share
