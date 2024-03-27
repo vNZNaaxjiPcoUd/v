@@ -117,10 +117,10 @@
 
 ### other
 🍀
-[Linkin list](https://c73.jwint.net/blob/etc/Ref/linkedin%20friend.md)
-[bk list](https://c73.jwint.net/blob/etc/Ref/bk%20list.md)
-[Note](https://c73.jwint.net/blob/etc/note/Note.md)
-[DHL fee](https://c73.jwint.net/blob/etc/Ref/DHL%20fee%20TPA%20to%20TPE.md)
+[Linkin list](https://c73.jwint.net/Ref/linkedin%20friend.md)
+[bk list](https://c73.jwint.net/Ref/bk%20list.md)
+[Note](https://c73.jwint.net/note/Note.md)
+[DHL fee](https://c73.jwint.net/Ref/DHL%20fee%20TPA%20to%20TPE.md)
 🍀
 
 ### share
