@@ -127,6 +127,7 @@
 [news](https://share.jwint.net/news)
 [local sahre](https://share.jwint.net/localshareda10798f8b9bb16bd2baddba911c5c7)
 [Post by Day](https://share.jwint.net/blog)
+[Jeky configure](https://share.jwint.net/localshareda10798f8b9bb16bd2baddba911c5c7/jekyll%20setup)
 🍀
 
 
