@@ -4,7 +4,7 @@
 
 
 
-
+🍀
 [PWA in ms](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
 [vxrail](https://infohub.delltechnologies.com/en-US/l/protecting-workloads-with-dell-emc-vxrail-and-vmware-cloud-disaster-recovery-1/an-overview-vxrail/)
 [YAML](https://www.redhat.com/sysadmin/yaml-beginners)
@@ -114,6 +114,7 @@
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Geohack map, all the map in web](https://geohack.toolforge.org/geohack.php?language=zh&pagename=%E5%8C%97%E9%A9%AC%E9%87%8C%E4%BA%9A%E7%BA%B3%E7%BE%A4%E5%B2%9B&params=15_11_06_N_145_44_28_E_)
+🍀
 
 ### other
 🍀
@@ -124,6 +125,7 @@
 🍀
 
 ### share
+🍀
 [news](https://share.jwint.net/news)
 [local sahre](https://share.jwint.net/localshare)
 [Post by Day](https://share.jwint.net/blog)
@@ -133,6 +135,7 @@
 
 
 ### tool
+🍀
 [Web editor tool.](https://onlinehtmleditor.dev/)
 [HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
 [Geo IP.](https://tools.keycdn.com/geo)
