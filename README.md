@@ -5,6 +5,7 @@
 
 
 🍀
+[Short url example in share self](https://share.jwint.net/s/h)
 [Short url example in share self](https://h.jwint.net/s/s)
 [Short url example](https://short.jwint.net/oyF29)
 [Short url](https://short.jwint.net/)
