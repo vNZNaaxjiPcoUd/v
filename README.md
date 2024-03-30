@@ -20,7 +20,7 @@
 [iDrac redfish scripting](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master)
 [Vxrail ansible utility in github](https://github.com/dell/ansible-vxrail-utility)
 [Vxrail ansible in github](https://github.com/dell/ansible-vxrail)
-[銀行列表](https://share.jwint.net/docBKlist02016fa8873724beb807755e64d2b2b6b5)
+[銀行列表](https://s.jwint.net/docBKlist02016fa8873724beb807755e64d2b2b6b5)
 [好讀](https://www.haodoo.net/?M=book&P=1657)
 [Kindle book library](https://www.amazon.com/hz/mycd/digital-console/contentlist/allcontent/dateDsc)
 [PWA example in github](https://github.com/topics/pwa-example)
@@ -46,21 +46,21 @@
 [佛羅裡達自行車法規](https://short.jwint.net/uwHLU)
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
 [Google font](https://fonts.google.com/specimen/Homemade+Apple)
-[Coffee roast level](https://share.jwint.net/doc/CofeRoast)
-[一些有趣的房產](https://share.jwint.net/doc/nicehouse)
+[Coffee roast level](https://s.jwint.net/doc/CofeRoast)
+[一些有趣的房產](https://s.jwint.net/doc/nicehouse)
 [海底電纜圖](https://www.submarinecablemap.com/)
 [Resume](https://docs.google.com/document/d/1dBDE4nRNdcYLgyxhZDdQnjk-DWqoU0nGJ-oAzrHxp1I/edit)
-[唐詩三百首](https://share.jwint.net/doc/唐詩三百首)
-[行楷唐詩三百首](https://share.jwint.net/doc/唐詩三百首.pdf)
-[唐詩三百首 瘦金體](https://share.jwint.net/doc/唐詩三百首_瘦金體.pdf)
-[宋詞三百首](https://share.jwint.net/doc/宋詞三百首)
-[行楷宋詞三百首](https://share.jwint.net/doc/宋詞三百首.pdf)
-[瘦金體宋詞三百首](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
+[唐詩三百首](https://s.jwint.net/doc/唐詩三百首)
+[行楷唐詩三百首](https://s.jwint.net/doc/唐詩三百首.pdf)
+[唐詩三百首 瘦金體](https://s.jwint.net/doc/唐詩三百首_瘦金體.pdf)
+[宋詞三百首](https://s.jwint.net/doc/宋詞三百首)
+[行楷宋詞三百首](https://s.jwint.net/doc/宋詞三百首.pdf)
+[瘦金體宋詞三百首](https://s.jwint.net/doc/宋詞三百首_瘦金體.pdf)
 [Tsm stock](https://www.google.com/search?q=stock+tsm&oq=stock+tsm)
 [Elle life](https://www.elle.com/tw/life/)
-[Coffee type](https://share.jwint.net/doc/cofetype)
-[Movie list](https://share.jwint.net/doc/movie%20list)
-[Emoji](https://share.jwint.net/doc/emoji)
+[Coffee type](https://s.jwint.net/doc/cofetype)
+[Movie list](https://s.jwint.net/doc/movie%20list)
+[Emoji](https://s.jwint.net/doc/emoji)
 [Milanote](https://milanote.com/)
 [Github activity configure](https://docs.github.com/zh/actions/using-workflows/about-workflows)
 [Ffmpeg command](https://blog.miniasp.com/post/2022/10/08/Useful-tool-FFmpeg)
@@ -78,18 +78,18 @@
 [Free lancer](https://www.freelancer.com/job/)
 [N100 pc](https://short.jwint.net/ahwyV)
 [Amazon wish list](https://www.amazon.com/hz/wishlist/ls/1DBIA0QFAZHV8?ref_=wl_dp_add_item_to_list)
-[CPU benchmark](https://share.jwint.net/doc/CPU%20benchmark)
+[CPU benchmark](https://s.jwint.net/doc/CPU%20benchmark)
 [太極八式](https://www.youtube.com/watch?v=j7zKkcVMaq8&list=PL9P9juNnx4d5BEVz35W4qPUZ2bkHi115P)
 [玉山之頂](https://www.google.com.tw/maps/@23.4699967,120.957445,3a,75y,90t/data=!3m8!1e1!3m6!1sAF1QipPw4pGsmPLHx48PLzTIudX0PmDEW1wFJ6MTTk6w!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPw4pGsmPLHx48PLzTIudX0PmDEW1wFJ6MTTk6w%3Dw203-h100-k-no-pi0-ya261.18533-ro0-fo100!7i8192!8i4096?hl=zh-TW&entry=ttu)
 [Ｍap to taiwan](https://www.google.com.tw/maps/@23.7574949,121.200516,8z?hl=zh-TW)
-[Moive list](https://share.jwint.net/doc/movie%20list)
+[Moive list](https://s.jwint.net/doc/movie%20list)
 [Logitech M337 滑鼠設定](https://short.jwint.net/boTX6)
 [米其林](https://guide.michelin.com/sg/zh_CN/zhe-jiang/hangzhou_1027184/restaurants/affordable/mid-range?sort=distance)
 [笑典皇紹興菜館](https://www.sohu.com/a/685777806_304784)
 [ChromeOS Flex installation guide](https://support.google.com/chromeosflex/answer/11552529)
 [Windows 95 vdi from archive org](https://archive.org/search?query=windows+7+vdi)
 [AGT web](https://agt.jwint.net/)
-[DISC 性格分析](https://share.jwint.net/doc/DISC%E5%80%8B%E6%80%A7%E5%88%86%E6%9E%90)
+[DISC 性格分析](https://s.jwint.net/doc/DISC%E5%80%8B%E6%80%A7%E5%88%86%E6%9E%90)
 [Share in notion](https://todaynews.jwint.net/news/Favorite%20&%20Share%2049914338890b46ba9dbc206b349666d9)
 [PDF of rule bike in florida](./佛羅裡達州自行車法_%20自行車法.pdf)
 [Bike rule in florida](https://www.bikelaw.com/laws/florida/)
@@ -102,7 +102,7 @@
 [Visible earth can see some good picture in earth](https://visibleearth.nasa.gov/)
 [Sea](https://jj.jwint.net/ReadStuffSave/doc/%E6%B5%B7)
 [Big company repository usage by one or multi](https://shor.jwint.net/dpvUZ)
-[Sejie](https://share.jwint.net/doc/xbook)
+[Sejie](https://s.jwint.net/doc/xbook)
 [Pchome shopping in tw](https://24h.pchome.com.tw/)
 [Book download ebook](https://www.haodoo.net/)
 [GVoice](https://voice.google.com/)
@@ -110,7 +110,7 @@
 [Cars in usa](https://www.cars.com/)
 [Git list](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
 [Chinese font collection](https://jj.jwint.net/Chinese-Font-From-Taiwan/)
-[Public note nb cpu compare](https://share.jwint.net/doc/CPU%20benchmark)
+[Public note nb cpu compare](https://s.jwint.net/doc/CPU%20benchmark)
 [Markdown syntax in github](https://short.jwint.net/fLZ28)
 [愛情公寓 all in youtube](https://short.jwint.net/blDUV)
 [Byte byte go, a good compute knowledge](https://www.youtube.com/@ByteByteGo/community)
@@ -128,10 +128,10 @@
 
 ### share
 🍀
-[news](https://share.jwint.net/news)
-[local sahre](https://share.jwint.net/localshare)
-[Post by Day](https://share.jwint.net/blog)
-[Jeky configure](https://share.jwint.net/localshareda10798f8b9bb16bd2baddba911c5c7/jekyll%20setup)
+[news](https://s.jwint.net/news)
+[local sahre](https://s.jwint.net/localshare)
+[Post by Day](https://s.jwint.net/blog)
+[Jeky configure](https://s.jwint.net/localshareda10798f8b9bb16bd2baddba911c5c7/jekyll%20setup)
 🍀
 
 
@@ -200,7 +200,7 @@
 [RainNow](https://rainnow.jwint.net/) 
 [Random](https://random.jwint.net/) 
 [Regex](https://regex.jwint.net/) 
-[Share](https://share.jwint.net/) 
+[Share](https://s.jwint.net/) 
 [Shop24](https://shop.jwint.net/) 
 [Song](https://song.jwint.net/) 
 [Survey](https://n.jwint.net/) 
