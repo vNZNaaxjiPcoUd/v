@@ -138,7 +138,7 @@
 ### share
 🍀
 [news](https://s.jwint.net/news)
-[local sahre](https://a.jwint.net/share)
+[local share](https://a.jwint.net/share)
 [Post by Day](https://s.jwint.net/blog)
 [Jeky configure](https://s.jwint.net/localshareda10798f8b9bb16bd2baddba911c5c7/jekyll%20setup)
 🍀
