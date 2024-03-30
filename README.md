@@ -5,6 +5,8 @@
 
 
 🍀
+[Short url example](https://short.jwint.net/oyF29)
+[Short url](https://short.jwint.net/)
 [PWA in ms](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
 [vxrail](https://infohub.delltechnologies.com/en-US/l/protecting-workloads-with-dell-emc-vxrail-and-vmware-cloud-disaster-recovery-1/an-overview-vxrail/)
 [YAML](https://www.redhat.com/sysadmin/yaml-beginners)
