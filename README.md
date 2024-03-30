@@ -5,6 +5,7 @@
 
 
 🍀
+[Myip](https://a.jwint.net/myip)
 [Short url example in share self](https://a.jwint.net/ff)
 [Short url example in share self](https://h.jwint.net/s/s)
 [Short url example](https://short.jwint.net/oyF29)
