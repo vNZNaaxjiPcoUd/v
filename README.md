@@ -5,6 +5,7 @@
 
 
 🍀
+[Short url example in share self](https://s.jwint.net/s/s)
 [Short url example](https://short.jwint.net/oyF29)
 [Short url](https://short.jwint.net/)
 [PWA in ms](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
