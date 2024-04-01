@@ -5,7 +5,7 @@
 
 
 🍀
-[Short cut url list](https://share.jwint.net/doc/shorturlist)
+[Short cut url list](https://s.jwint.net/doc/shorturlist)
 [News in shorturl](https://a.jwint.net/news)
 [世界日報 from j.jwint](https://j.jwint.net/news)
 [News](https://s.jwint.net/doc/news)
@@ -56,11 +56,11 @@
 [佛羅裡達自行車法規](https://a.jwint.net/uwHLU)
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/font)
 [Google font](https://fonts.google.com/specimen/Homemade+Apple)
-[Coffee roast level](https://s.jwint.net/doc/CofeRoast)
-[一些有趣的房產](https://s.jwint.net/doc/nicehouse)
+[Coffee roast level](https://CofeRoast)
+[一些有趣的房產](https://nicehouse)
 [海底電纜圖](https://www.submarinecablemap.com/)
-[唐詩三百首](https://s.jwint.net/doc/唐詩三百首)
-[行楷唐詩三百首](https://s.jwint.net/doc/唐詩三百首.pdf)
+[唐詩三百首](https://唐詩三百首)
+[行楷唐詩三百首](https://唐詩三百首.pdf)
 [唐詩三百首 瘦金體](https://s.jwint.net/doc/唐詩三百首_瘦金體.pdf)
 [宋詞三百首](https://s.jwint.net/doc/宋詞三百首)
 [行楷宋詞三百首](https://s.jwint.net/doc/宋詞三百首.pdf)
