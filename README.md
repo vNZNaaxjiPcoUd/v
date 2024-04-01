@@ -5,6 +5,7 @@
 
 
 🍀
+[Short cut url list](https://share.jwint.net/doc/shorturlist)
 [News in shorturl](https://a.jwint.net/news)
 [世界日報 from j.jwint](https://j.jwint.net/news)
 [News](https://s.jwint.net/doc/news)
