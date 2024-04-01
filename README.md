@@ -116,7 +116,7 @@
 [GVoice](https://voice.google.com/)
 [Carvana in usa](https://www.carvana.com/)
 [Cars in usa](https://www.cars.com/)
-[Git list](https://www.protectedtext.com/f140f491cecf8ac89ade0d50e3919a7758d70477378c475e16be077)
+[Git list](https://a.jwint.net/dsfkj)
 [Chinese font collection](https://jj.jwint.net/Chinese-Font-From-Taiwan/)
 [Public note nb cpu compare](https://s.jwint.net/doc/CPU%20benchmark)
 [Markdown syntax in github](https://a.jwint.net/fLZ28)
@@ -139,7 +139,7 @@
 [news](https://s.jwint.net/news)
 [local share](https://a.jwint.net/share)
 [Post by Day](https://s.jwint.net/blog)
-[Jeky configure](https://s.jwint.net/localshareda10798f8b9bb16bd2baddba911c5c7/jekyll%20setup)
+[Jeky configure](https://a.jwint.net/sdwed)
 🍀
 
 
