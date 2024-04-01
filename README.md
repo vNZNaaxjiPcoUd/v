@@ -17,7 +17,7 @@
 [Short url example in share self](https://h.jwint.net/s/s)
 [Short url example](https://short.jwint.net/oyF29)
 [Short url](https://short.jwint.net/)
-[PWA in ms](https://learn.microsoft.com/en-us/microsoft-edge/progressive-web-apps-chromium/how-to/)
+[PWA in ms](https://a.jwint.net/vsdfe)
 [vxrail](https://a.jwint.net/eqwL0)
 [YAML](https://www.redhat.com/sysadmin/yaml-beginners)
 [Amazon health](https://health.amazon.com/)
