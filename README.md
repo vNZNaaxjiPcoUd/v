@@ -141,6 +141,7 @@
 [local share](https://a.jwint.net/share)
 [Post by Day](https://s.jwint.net/blog)
 [Jeky configure](https://a.jwint.net/sdwed)
+[Short cut url](https://s.jwint.net/doc/shorturlist)
 🍀
 
 
