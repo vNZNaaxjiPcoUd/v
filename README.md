@@ -7,7 +7,7 @@
 [news](https://s.jwint.net/news)
 [share](https://a.jwint.net/share)
 [Post](https://s.jwint.net/blog)
-[Shorturl](https://s.jwint.net/doc/shorturlist)
+[Shorturl](https://v.jwint.net/slist)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 🍀
 
