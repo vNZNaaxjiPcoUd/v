@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://www.google.com/maps/@27.8480377,-82.503558,4232m/data=\!3m1\!1e3?authuser=0&entry=ttu
+go: https://www.google.com/maps/@27.8480377,-82.503558,4232m/data=!3m1!1e3?authuser=0&entry=ttu
 name: mail test.
-dt: 245602185601
+dt: 245902185932
 ---
