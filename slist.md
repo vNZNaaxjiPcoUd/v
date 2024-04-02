@@ -1,14 +1,14 @@
 ---
 layout: default
-title: shorturl
+title: short url
 ---
 
 <br>
 
 <ul>
-  {% for p in site.shorturl %}
+  {% for p in site.s %}
     <li>
-      <p><a href="https://aa.jwint.net/{{ p.title | slugify: "ascii" }}">{{ p.title | slugify: "ascii" }}, {{ p.name }} - {{ p.dt }}</a></p>
+      <p><a href="https://go.jwint.net/{{ p.title | slugify: "ascii" }}">{{ p.title | slugify: "ascii" }}, {{ p.name }} - {{ p.dt }}</a></p>
     </li>
   {% endfor %}
 </ul>
