@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.youtube.com/watch?v=Owke6Quk7T0
-name: earthquake
-dt: 242802202832
+name: earthquake youtube
+dt: 242802202843
 ---
