@@ -10,6 +10,7 @@
 [Add new short url](https://go.jwint.net/url)
 [Short url list](https://v.jwint.net/slist)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
+[Ping](https://share.jwint.net/ping)
 🍀
 
 
