@@ -18,7 +18,7 @@
 
 🍀
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
-[地震直播](https://www.youtube.com/watch?v=Owke6Quk7T0)
+[Youtube 地震直播](https://www.youtube.com/watch?v=Owke6Quk7T0)
 [Jeky configure](https://a.jwint.net/sdwed)
 [Short cut url list](https://s.jwint.net/doc/shorturlist)
 [News in shorturl](https://a.jwint.net/news)
