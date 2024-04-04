@@ -48,10 +48,17 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 </script>
 <label id="labelWithHTML">Initial Text</label><br>
   <div class="container-lg px-3 my-5 markdown-body">
+　<p>{{ site.time }}</p>
+  <p>
   {% for p in site.s %}
       <a href="https://go.jwint.net/{{ p.title | slugify: "ascii" }}">{{ p.title | slugify: "ascii" }}:{{ p.name }} , </a>
   {% endfor %}
-🍀
+🍀</p>
+  <p>
+  {% for p in site.pages %}
+      <a href="p.url" }}">{{ p.title }}</a> , 
+  {% endfor %}
+🍀</p>
   </div>
 </body>
 
