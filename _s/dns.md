@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://domains.google.com/registrar/
-name: dns
+name: DNS
 dt: 242202162239
 ---
