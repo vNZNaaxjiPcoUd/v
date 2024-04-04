@@ -9,6 +9,7 @@
 [Post](https://s.jwint.net/blog)
 [Add new short url](https://go.jwint.net/url)
 [Short url list](https://v.jwint.net/slist)
+[Quick check list](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Ping](https://share.jwint.net/ping)
 🍀
