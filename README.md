@@ -12,6 +12,7 @@
 [Quick check list](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Ping](https://share.jwint.net/ping)
+[Show Update Time](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/UpdateTime.html)
 🍀
 
 
