@@ -4,14 +4,14 @@
 
 ### share
 🍀
-[news](https://s.jwint.net/news)
-[share](https://a.jwint.net/share)
-[Post](https://s.jwint.net/blog)
+
+[share doc](https://a.jwint.net/share)
+[Blog](https://s.jwint.net/blog)
 [Add new short url](https://go.jwint.net/url)
-[Short url list](https://v.jwint.net/slist)
-[Quick check list](https://v.jwint.net/quickCheckList)
+[Shorturl list](https://v.jwint.net/slist)
+[Quick check shorturl update](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
-[Ping](https://share.jwint.net/ping)
+[Ping page](https://share.jwint.net/ping)
 [Show Update Time](https://raw.githubusercontent.com/vNZNaaxjiPcoUd/v/etc/UpdateTime.html)
 🍀
 
