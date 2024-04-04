@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://github.com/vNZNaaxjiPcoUd/v/tree/etc/_s
+go: https://maps.app.goo.gl/dQx93mXsDa3jYgAs6
 name: 可飛鹿
 dt: 241403231406
 ---
