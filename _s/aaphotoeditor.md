@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.photopea.com/
-name: A online photo editor
+name: 線上圖片編輯
 dt: 245504155548
 ---
