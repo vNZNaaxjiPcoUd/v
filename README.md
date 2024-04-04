@@ -7,6 +7,7 @@
 
 [share doc](https://a.jwint.net/share)
 [Blog](https://s.jwint.net/blog)
+[Tiny shorturl list](https://v.jwint.net/tinyShorturlList)
 [Add new short url](https://go.jwint.net/url)
 [Shorturl list](https://v.jwint.net/slist)
 [Quick check shorturl update](https://v.jwint.net/quickCheckList)
