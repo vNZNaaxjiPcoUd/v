@@ -59,6 +59,11 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
       <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
   {% endfor %}
 🍀</p>
+  <p>
+  {% for p in site.collections %}
+      <a href="{{ p.url }}" }}">{{ p.name }}</a> , 
+  {% endfor %}
+🍀</p>
   </div>
 </body>
 
