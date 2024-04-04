@@ -35,7 +35,16 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 <title>{{ page.title }}</title>
 </head>
 
-<body  class="mono">
+<body onload="showTime()" class="mono">
+<script>
+    function showTime() {
+      const currentDate = new Date();
+      const timestamp = currentDate.toLocaleString();
+      let labelElement = document.getElementById("labelWithHTML");
+      labelElement.innerHTML = timestamp;
+    }
+</script>
+<label id="labelWithHTML">Initial Text</label><br>
   <div class="container-lg px-3 my-5 markdown-body">
     {{ content }}
 </body>
