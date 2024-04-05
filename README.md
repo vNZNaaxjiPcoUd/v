@@ -5,6 +5,7 @@
 🍀
 
 [Share doc](https://a.jwint.net/share)
+[分享文章建立](https://s.jwint.net/s/A_doc_create.html)
 [Share update check](https://a.jwint.net/share_update_check)
 [**A**dd new short url](https://go.jwint.net/url)
 [Shorturl list](https://v.jwint.net/slist)
