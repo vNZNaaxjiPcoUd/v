@@ -1,5 +1,5 @@
 
-### information
+## Information
 
 ### Tool
 🍀
