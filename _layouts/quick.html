@@ -37,15 +37,27 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
 
 <body onload="showTime()" class="mono">
 <script>
+  function httpGet(theUrl)
+  {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+  }
     function showTime() {
       const currentDate = new Date();
       const timestamp = currentDate.toLocaleString();
       let labelElement = document.getElementById("labelWithHTML");
       labelElement.innerHTML = timestamp;
+    let showT = httpGet("https://raw.githubusercontent.com/vNZNaaxjiPcoUd/v/etc/UpdateTime.html");
+    labelElement.innerHTML = showT;
+    console.log(showT);
     }
 </script>
-<label id="labelWithHTML">Initial Text</label><br>
-  <div class="container-lg px-3 my-5 markdown-body">
+<label id="labelWithHTML">Initial Text</label>
+ <br>
+<label id="upD">git</label>
+<div class="container-lg px-3 my-5 markdown-body">
     {{ content }}
   </div>
 </body>
