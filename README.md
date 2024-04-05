@@ -6,7 +6,6 @@
 
 [Share doc](https://a.jwint.net/share)
 [Share update check](https://a.jwint.net/shareupdatecheck)
-[Tiny shorturl list](https://v.jwint.net/tinyShorturlList)
 [**A**dd new short url](https://go.jwint.net/url)
 [Shorturl list](https://v.jwint.net/slist)
 [**C**heck update](https://v.jwint.net/quickCheckList)
