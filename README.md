@@ -2,7 +2,6 @@
 ## Information
 
 ### Tool
-🍀
 [Share doc](https://a.jwint.net/share)
 [分享文章建立](https://s.jwint.net/s/A_doc_create.html)
 [Share update check](https://a.jwint.net/share_update_check)
@@ -14,7 +13,7 @@
 [更新時間](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/UpdateTime.html)
 🍀
 
-🍀
+
 [Web editor tool.](https://onlinehtmleditor.dev/)
 [HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
 [Geo IP.](https://tools.keycdn.com/geo)
@@ -24,7 +23,6 @@
 🍀
 
 ### app
-🍀
 [Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Office365](https://www.microsoft365.com/)
@@ -37,7 +35,6 @@
 🍀 
 
 ### google
-🍀
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
