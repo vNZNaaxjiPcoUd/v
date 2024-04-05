@@ -7,7 +7,7 @@
 [Share doc](https://a.jwint.net/share)
 [分享文章建立](https://s.jwint.net/s/A_doc_create.html)
 [Share update check](https://a.jwint.net/share_update_check)
-[**A**dd new short url](https://go.jwint.net/url)
+[加短網址](https://go.jwint.net/url)
 [Shorturl list](https://v.jwint.net/slist)
 [**C**heck update](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
