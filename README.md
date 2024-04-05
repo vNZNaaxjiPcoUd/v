@@ -1,7 +1,7 @@
 
 ### information
 
-### share
+### Tool
 🍀
 
 [share doc](https://a.jwint.net/share)
@@ -13,8 +13,10 @@
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Ping page](https://share.jwint.net/ping)
 [Show Update Time](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/UpdateTime.html)
+[Share update check](https://share.jwint.net/QCL)
 🍀
 
+### Note
 
 🍀
 {% for p in site.s reversed %}[{{ p.name }}](https://go.jwint.net/{{ p.title | slugify: "ascii" }}) ,{% endfor %}
