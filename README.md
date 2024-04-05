@@ -12,7 +12,7 @@
 [**C**heck update](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Ping page](https://share.jwint.net/ping)
-[Show Update Time](https://raw.githubusercontent.com/vNZNaaxjiPcoUd/v/etc/UpdateTime.html)
+[Show Update Time](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/UpdateTime.html)
 🍀
 
 
