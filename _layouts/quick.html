@@ -49,9 +49,9 @@ table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
       const timestamp = currentDate.toLocaleString();
       let labelElement = document.getElementById("labelWithHTML");
       labelElement.innerHTML = timestamp;
-    let showT = httpGet("https://raw.githubusercontent.com/vNZNaaxjiPcoUd/v/etc/UpdateTime.html");
-    labelElement.innerHTML = showT;
-    console.log(showT);
+    //let showT = httpGet("https://raw.githubusercontent.com/vNZNaaxjiPcoUd/v/etc/UpdateTime.html");
+	let labelElement = document.getElementById("upD");
+	labelElement.innerHTML = “hello";
     }
 </script>
 <label id="labelWithHTML">Initial Text</label>
