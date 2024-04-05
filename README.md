@@ -15,6 +15,53 @@
 [更新時間](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/UpdateTime.html)
 🍀
 
+### tool
+🍀
+[Web editor tool.](https://onlinehtmleditor.dev/)
+[HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
+[Geo IP.](https://tools.keycdn.com/geo)
+[Copy Text to Markdown](https://mdxeditor.dev/editor/demo)
+[Sequence Diagram](https://seq.jwint.net/)
+[Send To Kindle](https://www.amazon.com/sendtokindle)
+🍀
+
+### app
+🍀
+[Reddit](https://www.reddit.com/)
+[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
+[Office365](https://www.microsoft365.com/)
+[Linkedin](https://www.linkedin.com/feed/)
+[Tech news](https://technews.tw/)
+[Netflix](https://www.netflix.com/)
+[Spotify](https://open.spotify.com/)
+[Icloud](https://www.icloud.com/)
+[Zillow](https://www.zillow.com/)
+🍀 
+
+### google
+🍀
+[bard](https://bard.google.com/)
+[calendar](https://calendar.google.com/)
+[chat](https://mail.google.com/chat/)
+[contact](https://contacts.google.com/)
+[drive](https://drive.google.com/)
+[flight](https://www.google.com/travel/flights)
+[flight cheap](https://www.google.com/travel/explore)
+[gemini](https://gemini.google.com/app)
+[hotel](https://www.google.com/travel/search)
+[home](https://home.google.com/)
+[keep](https://keep.google.com/)
+[mail](https://mail.google.com/)
+[map](https://www.google.com.tw/maps/)
+[news](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
+[notebooklm](https://notebooklm.google.com/)
+[photo](https://photos.google.com/)
+[translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
+[travel](https://www.google.com/travel/)
+[voice](https://voice.google.com/)
+[youtube](https://www.youtube.com/)
+🍀
+
 ### Note
 
 🍀
@@ -152,28 +199,6 @@
 
 
 
-### tool
-🍀
-[Web editor tool.](https://onlinehtmleditor.dev/)
-[HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
-[Geo IP.](https://tools.keycdn.com/geo)
-[Copy Text to Markdown](https://mdxeditor.dev/editor/demo)
-[Sequence Diagram](https://seq.jwint.net/)
-[Send To Kindle](https://www.amazon.com/sendtokindle)
-🍀
-
-### app
-🍀
-[Reddit](https://www.reddit.com/)
-[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
-[Office365](https://www.microsoft365.com/)
-[Linkedin](https://www.linkedin.com/feed/)
-[Tech news](https://technews.tw/)
-[Netflix](https://www.netflix.com/)
-[Spotify](https://open.spotify.com/)
-[Icloud](https://www.icloud.com/)
-[Zillow](https://www.zillow.com/)
-🍀 
 
 
 ### tool
@@ -234,29 +259,6 @@
 [Youtube](https://youtube.jwint.net/) 
 🍀 
 
-### g
-🍀
-[bard](https://bard.google.com/)
-[calendar](https://calendar.google.com/)
-[chat](https://mail.google.com/chat/)
-[contact](https://contacts.google.com/)
-[drive](https://drive.google.com/)
-[flight](https://www.google.com/travel/flights)
-[flight cheap](https://www.google.com/travel/explore)
-[gemini](https://gemini.google.com/app)
-[hotel](https://www.google.com/travel/search)
-[home](https://home.google.com/)
-[keep](https://keep.google.com/)
-[mail](https://mail.google.com/)
-[map](https://www.google.com.tw/maps/)
-[news](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
-[notebooklm](https://notebooklm.google.com/)
-[photo](https://photos.google.com/)
-[translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
-[travel](https://www.google.com/travel/)
-[voice](https://voice.google.com/)
-[youtube](https://www.youtube.com/)
-🍀
 
 ### chrome setup
 🍀
