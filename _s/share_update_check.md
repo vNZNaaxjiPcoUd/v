@@ -1,5 +1,5 @@
 ---
 layout: shorturl
 go: https://share.jwint.net/QCL
-name: Share Update Check
+name: 文章更新確認
 ---
