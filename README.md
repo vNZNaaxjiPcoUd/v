@@ -192,11 +192,12 @@
 [DHL fee](https://c73.jwint.net/Ref/DHL%20fee%20TPA%20to%20TPE.md)
 [jwint bing](https://c73.jwint.net/Ref/jwint.net.zone)
 [notion backup](https://vnzn.jwint.net/Notion_Backup/tree/keep/240320)
-[Private repo pre](https://c73.jwint.net/)
-[Git user pre](https://vnzn.jwint.net/)
-[Share pre](https://s.jwint.net/)
-[Share s pre](https://a.jwint.net/)
-[V shortur _s pre](https://go.jwint.net/)
+[Pre private repo](https://c73.jwint.net/)
+[Pre git user](https://vnzn.jwint.net/)
+[Pre share](https://s.jwint.net/)
+[Pre share s](https://a.jwint.net/)
+[Pre v shortur _s](https://go.jwint.net/)
+[Pre v](https://v.jwint.net/)
 🍀
 
 
