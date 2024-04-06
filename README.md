@@ -118,7 +118,7 @@
 [Coffee roast level](https://CofeRoast)
 [一些有趣的房產](https://nicehouse)
 [海底電纜圖](https://www.submarinecablemap.com/)
-[唐詩三百首](https://唐詩三百首)
+[唐詩三百首](https://s.jwint.net/doc/唐詩三百首)
 [行楷唐詩三百首](https://唐詩三百首.pdf)
 [唐詩三百首 瘦金體](https://s.jwint.net/doc/唐詩三百首_瘦金體.pdf)
 [宋詞三百首](https://s.jwint.net/doc/宋詞三百首)
