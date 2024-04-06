@@ -137,7 +137,6 @@
 [三仙台](https://go.jwint.net/三仙台)
 [J](https://j.jwint.net/)
 [WWW](https://www.jwint.net/)
-[V](https://v.jwint.net/)
 [函館半島](https://www.youtube.com/watch?v=s--MDmshT3I)
 [日本直播](https://www.youtube.com/playlist?list=PLtPJtE4_gezc20D5xv6MYtjPIti8xLWRZ)
 [Md5 outside](https://emn178.github.io/online-tools/md5.html)
@@ -195,7 +194,6 @@
 [Pre share](https://s.jwint.net/)
 [Pre share s](https://a.jwint.net/)
 [Pre v shortur _s](https://go.jwint.net/)
-[Pre v](https://v.jwint.net/)
 🍀
 
 
