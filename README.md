@@ -7,10 +7,10 @@
 [Share update check](https://go.jwint.net/share_update_check)
 [加短網址](https://go.jwint.net/url)
 [Shorturl list](https://v.jwint.net/slist)
-[**C**heck update](https://v.jwint.net/quickCheckList)
+[短網址更新確認](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Ping page](https://s.jwint.net/ping)
-[更新時間](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
+[服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
 🍀
 
 
@@ -61,7 +61,7 @@
 ### Note
 
 🍀
-{% for p in site.s reversed %}[ {{ p.name }}](https://v.jwint.net/{{ p.url }}) {% endfor %}
+{% for p in site.s reversed %}[ {{ p.name }}](https://v.jwint.net{{ p.url }}) {% endfor %}
 🍀
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
 [Youtube 地震直播](https://www.youtube.com/watch?v=Owke6Quk7T0)
