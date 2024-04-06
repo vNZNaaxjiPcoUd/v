@@ -23,6 +23,7 @@
 🍀
 
 ### app
+[Amazon](https://www.amazon.com/)
 [Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Office365](https://www.microsoft365.com/)
