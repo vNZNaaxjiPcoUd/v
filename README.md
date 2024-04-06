@@ -9,7 +9,7 @@
 [Shorturl list](https://v.jwint.net/slist)
 [**C**heck update](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
-[Ping page](https://share.jwint.net/ping)
+[Ping page](https://s.jwint.net/ping)
 [更新時間](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
 🍀
 
