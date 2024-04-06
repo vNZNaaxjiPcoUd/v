@@ -1,5 +1,5 @@
 ---
 layout: shorturl
 go: https://s.jwint.net/ListDocAll
-name: Share
+name: 收集文章列表
 ---
