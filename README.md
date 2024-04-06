@@ -3,7 +3,7 @@
 
 ### Tool
 [Share doc](https://go.jwint.net/share)
-[分享文章建立](https://s.jwint.net/s/A_doc_create.html)
+[分享文章建立](https://go.jwint.net/A_doc_create.html)
 [Share update check](https://go.jwint.net/share_update_check)
 [加短網址](https://go.jwint.net/url)
 [Shorturl list](https://v.jwint.net/slist)
