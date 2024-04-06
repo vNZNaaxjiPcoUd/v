@@ -10,7 +10,7 @@
 [**C**heck update](https://v.jwint.net/quickCheckList)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [Ping page](https://share.jwint.net/ping)
-[更新時間](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/UpdateTime.html)
+[更新時間](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
 🍀
 
 
@@ -191,6 +191,8 @@
 [Note](https://c73.jwint.net/note/Note.md)
 [DHL fee](https://c73.jwint.net/Ref/DHL%20fee%20TPA%20to%20TPE.md)
 [jwint bing](https://c73.jwint.net/Ref/jwint.net.zone)
+[notion backup](https://vnzn.jwint.net/Notion_Backup/tree/keep/240320)
+[Private repo](https://vnzn.jwint.net/)
 🍀
 
 
