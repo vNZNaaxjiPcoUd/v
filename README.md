@@ -61,7 +61,7 @@
 ### Note
 
 🍀
-{% for p in site.s reversed %}[ {{ p.name }}](https://go.jwint.net/{{ p.title }}) {% endfor %}
+{% for p in site.s reversed %}[ {{ p.name }}](https://v.jwint.net/{{ p.url }}) {% endfor %}
 🍀
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
 [Youtube 地震直播](https://www.youtube.com/watch?v=Owke6Quk7T0)
