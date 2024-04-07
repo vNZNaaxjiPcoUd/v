@@ -1,5 +1,5 @@
 ---
 layout: shorturl
 go: https://api.ipify.org/
-name: Get Self IP
+name: 取得外部ＩＰ
 ---
