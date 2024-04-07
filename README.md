@@ -3,8 +3,8 @@
 
 ### Tool
 [Share doc](https://go.jwint.net/share)
-[分享文章建立](https://go.jwint.net/A_doc_create.html)
-[Share update check](https://go.jwint.net/share_update_check)
+[分享文章建立](https://go.jwint.net/A-doc-create)
+[Share update check](https://go.jwint.net/share-update-check)
 [加短網址](https://go.jwint.net/url)
 [Ping page](https://s.jwint.net/ping)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
