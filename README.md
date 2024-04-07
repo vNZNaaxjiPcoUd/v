@@ -79,7 +79,6 @@
 [iDrac redfish scripting](https://github.com/dell/iDRAC-Redfish-Scripting/tree/master)
 [Vxrail ansible utility in github](https://github.com/dell/ansible-vxrail-utility)
 [Vxrail ansible in github](https://github.com/dell/ansible-vxrail)
-[銀行列表](https://s.jwint.net/docBKlist02016fa8873724beb807755e64d2b2b6b5)
 [Kindle book library](https://www.amazon.com/hz/mycd/digital-console/contentlist/allcontent/dateDsc)
 [PWA example in github](https://github.com/topics/pwa-example)
 [類神經網路](https://zh.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)
