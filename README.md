@@ -22,7 +22,7 @@
 [Movie Editor](https://v.jwint.net/s/zzz240408144224.html)
 🍀
 
-### app
+***app***
 [Amazon](https://www.amazon.com/)
 [Reddit](https://www.reddit.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
@@ -38,7 +38,7 @@
 [Twitter](https://twitter.com/)
 🍀 
 
-### google
+***google***
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
