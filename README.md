@@ -22,6 +22,7 @@
 [Movie Editor](https://v.jwint.net/s/zzz240408144224.html)
 🍀
 
+🍀
 ***app***
 [Amazon](https://www.amazon.com/)
 [Reddit](https://www.reddit.com/)
@@ -38,6 +39,7 @@
 [Twitter](https://twitter.com/)
 🍀 
 
+🍀
 ***google***
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
