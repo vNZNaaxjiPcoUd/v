@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://www.iyf.tv/
+go: https://www.yfsp.tv/
 name: chinese Movie web
 dt: 240410094023
 ---
