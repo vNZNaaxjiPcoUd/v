@@ -20,6 +20,7 @@
 [Sequence Diagram](https://seq.jwint.net/)
 [Send To Kindle](https://www.amazon.com/sendtokindle)
 [Movie Editor](https://v.jwint.net/s/zzz240408144224.html)
+[AJ web go](https://go.jwint.net/ajwebinfo)
 🍀
 
 🍀
