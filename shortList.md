@@ -1,7 +1,5 @@
 ---
 ---
-| URL | Name |
-| -- | -- |
 {% for p in site.s %}
-|[{{ p.title }}](https://v.jwint.net{{ p.url }})|{{ p.name }}|
+[{{ p.title }}  {{ p.name }}](https://v.jwint.net{{ p.url }})
 {% endfor %}
