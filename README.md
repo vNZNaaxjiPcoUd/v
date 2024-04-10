@@ -34,7 +34,7 @@
 [Tech news](https://technews.tw/)
 [Netflix](https://www.netflix.com/)
 [Spotify](https://open.spotify.com/)
-[Icloud](https://www.icloud.com/)
+[iCloud](https://www.icloud.com/)
 [Zillow](https://www.zillow.com/)
 [Notion](https://www.notion.so/)
 [Hulu](https://www.hulu.com/content?tab=tv)
