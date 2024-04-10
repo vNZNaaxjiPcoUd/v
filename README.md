@@ -6,6 +6,7 @@
 [文章收集建立](https://go.jwint.net/A-doc-create)
 [Share update check](https://go.jwint.net/share-update-check)
 [加短網址 網址收集](https://go.jwint.net/url)
+[Short List](https://v.jwint.net/shortList)
 [Ping page](https://s.jwint.net/ping)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
