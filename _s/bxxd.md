@@ -1,6 +1,0 @@
----
-layout: shorturl
-go: https://24h.pchome.com.tw/prod/DQBS0U-A900GZ9OY?fq=/S/DQBS0U
-name: 保險箱
-dt: 243003233058
----

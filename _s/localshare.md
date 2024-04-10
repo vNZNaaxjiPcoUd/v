@@ -1,5 +1,5 @@
 ---
 layout: shorturl
 go: https://share.jwint.net/localshare
-name: local share
+name: 分享文章
 ---
