@@ -39,6 +39,7 @@
 [Notion](https://www.notion.so/)
 [Hulu](https://www.hulu.com/content?tab=tv)
 [Twitter](https://twitter.com/)
+[AJ](https://go.jwint.net/aj)
 🍀 
 
 🍀
