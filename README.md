@@ -68,6 +68,7 @@
 
 ### Note
 🍀
+[國樂](https://v.jwint.net/s/zzz240413183334.html)
 [PT test in note](https://s.jwint.net/pt/readme)
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
 [地震YOUTUBE直播](https://go.jwint.net/dz)
