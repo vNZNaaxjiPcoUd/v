@@ -6,6 +6,7 @@
 [文章收集建立](https://go.jwint.net/A-doc-create)
 [Share update check](https://go.jwint.net/share-update-check)
 [加短網址 網址收集](https://go.jwint.net/url)
+[Short List](https://v.jwint.net/shortList)
 [Ping page](https://s.jwint.net/ping)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
@@ -20,6 +21,7 @@
 [Sequence Diagram](https://seq.jwint.net/)
 [Send To Kindle](https://www.amazon.com/sendtokindle)
 [Movie Editor](https://v.jwint.net/s/zzz240408144224.html)
+[AJ web go](https://go.jwint.net/ajwebinfo)
 🍀
 
 🍀
@@ -32,11 +34,12 @@
 [Tech news](https://technews.tw/)
 [Netflix](https://www.netflix.com/)
 [Spotify](https://open.spotify.com/)
-[Icloud](https://www.icloud.com/)
+[iCloud](https://www.icloud.com/)
 [Zillow](https://www.zillow.com/)
 [Notion](https://www.notion.so/)
 [Hulu](https://www.hulu.com/content?tab=tv)
 [Twitter](https://twitter.com/)
+[AJ](https://go.jwint.net/aj)
 🍀 
 
 🍀
@@ -65,6 +68,8 @@
 
 ### Note
 🍀
+[國樂](https://v.jwint.net/s/zzz240413183334.html)
+[PT test in note](https://s.jwint.net/pt/readme)
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
 [地震YOUTUBE直播](https://go.jwint.net/dz)
 [MyIP](https://go.jwint.net/myip)
@@ -81,7 +86,7 @@
 [愛情公寓](https://go.jwint.net/iLOVE)
 [玉山之頂](https://www.google.com.tw/maps/@23.4699967,120.957445,3a,75y,90t/data=!3m8!1e1!3m6!1sAF1QipPw4pGsmPLHx48PLzTIudX0PmDEW1wFJ6MTTk6w!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPw4pGsmPLHx48PLzTIudX0PmDEW1wFJ6MTTk6w%3Dw203-h100-k-no-pi0-ya261.18533-ro0-fo100!7i8192!8i4096?hl=zh-TW&entry=ttu)
 🍀
-{% for p in site.s %}[ {{ p.name }}](https://v.jwint.net{{ p.url }}) {% endfor %}
+{% for p in site.s %}[ {{ p.name }},](https://v.jwint.net{{ p.url }}) {% endfor %}
 🍀
 
 ### other
