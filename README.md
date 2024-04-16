@@ -49,6 +49,7 @@
 [chat](https://mail.google.com/chat/)
 [contact](https://contacts.google.com/)
 [drive](https://drive.google.com/)
+[finance](https://www.google.com/finance/portfolio/watchlist)
 [flight](https://www.google.com/travel/flights)
 [flight cheap](https://www.google.com/travel/explore)
 [gemini](https://gemini.google.com/app)
