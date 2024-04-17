@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.youtube.com/
-name: Youtube
+name: 🍀 Youtube
 dt: 240410095435
 ---
