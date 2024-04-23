@@ -1,7 +1,7 @@
-
 ## Information
 
 ### Tool
+
 [Share doc](https://go.jwint.net/share)
 [文章收集建立](https://go.jwint.net/A-doc-create)
 [Share update check](https://go.jwint.net/share-update-check)
@@ -12,7 +12,6 @@
 [Wodegerenjilu](https://c73.jwint.net/README.md)
 [服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
 🍀
-
 
 [Web editor tool.](https://onlinehtmleditor.dev/)
 [HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
@@ -68,6 +67,7 @@
 🍀
 
 ### Note
+
 🍀
 [國樂](https://v.jwint.net/s/zzz240413183334.html)
 [PT test in note](https://s.jwint.net/pt/readme)
@@ -91,6 +91,7 @@
 🍀
 
 ### other
+
 🍀
 [Linkin list](https://c73.jwint.net/Ref/linkedin%20friend.md)
 [bk list](https://c73.jwint.net/Ref/bk%20list.md)
@@ -104,12 +105,8 @@
 [Pre v shortur _s](https://go.jwint.net/)
 🍀
 
-
-
-
-
-
 ### tool
+
 🍀
 [AES](https://aes.jwint.net/) 
 [Calculate](https://cal.jwint.net/) 
@@ -167,15 +164,9 @@
 [Youtube](https://youtube.jwint.net/) 
 🍀 
 
-
 ### chrome setup
+
 🍀
 [Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
 [Chrome dns configuration](chrome://net-internals/#dns)
 🍀
-
-
-
-
-
-
