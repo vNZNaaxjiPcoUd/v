@@ -13,13 +13,13 @@
 [服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
 🍀
 
-[Web editor tool.](https://onlinehtmleditor.dev/)
-[HTML to markdown.](https://www.convertsimple.com/convert-html-to-markdown/)
-[Geo IP.](https://tools.keycdn.com/geo)
-[Copy Text to Markdown](https://mdxeditor.dev/editor/demo)
+[Web editor tool.](https://go.jwint.net/webedit)
+[HTML to markdown.](https://go.jwint.net/htmlToMarkdown)
+[Geo IP.](https://go.jwint.net/geoip)
+[Copy Text to Markdown](https://go.jwint.net/copyHtmlToMarkdown)
 [Sequence Diagram](https://seq.jwint.net/)
-[Send To Kindle](https://www.amazon.com/sendtokindle)
-[Movie Editor](https://v.jwint.net/s/zzz240408144224.html)
+[Send To Kindle](https://go.jwint.net/sendtokindle)
+[Movie Editor](https://go.jwint.net/zzz240408144224.html)
 [AJ web go](https://go.jwint.net/ajwebinfo)
 🍀
 
