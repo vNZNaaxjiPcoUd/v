@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://mdxeditor.dev/editor/demo
-name: Copy text to Markdown
+name: Copy html to Markdown
 dt: 240424151259
 ---
