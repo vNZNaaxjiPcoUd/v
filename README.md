@@ -45,6 +45,7 @@
 
 🍀
 ***google***
+[analysis](https://analytics.google.com/)
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
