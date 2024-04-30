@@ -9,12 +9,12 @@
 [Ping page](https://s.jwint.net/ping)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
-[服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
+[服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime)
 🍀
 
-[Movie List](https://doc.jwint.net/movie%20list.html)
-[Edit movie](https://go.jwint.net/zzz240408144224.html)
-[News List](https://share.jwint.net/doc/NewsList.html)
+[Movie List](https://doc.jwint.net/movie%20list)
+[Edit movie](https://go.jwint.net/zzz240408144224)
+[News List](https://share.jwint.net/doc/NewsList)
 [edit news](https://go.jwint.net/zzz240430141619)
 [Web editor tool.](https://go.jwint.net/webedit)
 [HTML to markdown.](https://go.jwint.net/htmlToMarkdown)
@@ -71,7 +71,7 @@
 ### Note
 
 🍀
-[國樂](https://v.jwint.net/s/zzz240413183334.html)
+[國樂](https://v.jwint.net/s/zzz240413183334)
 [PT test in note](https://s.jwint.net/pt/readme)
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
 [地震YOUTUBE直播](https://go.jwint.net/dz)
