@@ -13,7 +13,9 @@
 🍀
 
 [Movie List](https://doc.jwint.net/movie%20list.html)
-[Movie Editor](https://go.jwint.net/zzz240408144224.html)
+[Edit movie](https://go.jwint.net/zzz240408144224.html)
+[News List](https://share.jwint.net/doc/NewsList.html)
+[edit news](https://go.jwint.net/zzz240430141619)
 [Web editor tool.](https://go.jwint.net/webedit)
 [HTML to markdown.](https://go.jwint.net/htmlToMarkdown)
 [Geo IP.](https://go.jwint.net/geoip)
