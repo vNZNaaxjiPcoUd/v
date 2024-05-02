@@ -13,7 +13,7 @@
 🍀
 
 [Movie List](https://doc.jwint.net/movie%20list)
-[Edit movie](https://go.jwint.net/zzz240408144224)
+[edit movie](https://go.jwint.net/zzz240408144224)
 [News List](https://s.jwint.net/doc/NewsList)
 [edit news](https://go.jwint.net/zzz240430141619)
 [Web editor tool.](https://go.jwint.net/webedit)
