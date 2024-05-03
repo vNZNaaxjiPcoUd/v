@@ -9,7 +9,7 @@
 [Ping page](https://s.jwint.net/ping)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://c73.jwint.net/README.md)
-[服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime)
+[服務器運作情況](https://vnzn.jwint.net/v/blob/etc/UpdateTime.html)
 🍀
 
 [Movie List](https://doc.jwint.net/movie%20list)
