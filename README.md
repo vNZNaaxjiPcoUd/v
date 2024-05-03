@@ -107,6 +107,8 @@
 [Pre git user](https://vnzn.jwint.net/)
 [Pre share](https://s.jwint.net/)
 [Pre share s](https://a.jwint.net/)
+[Pre share doc](https://d.jwint.net)
+[Pre share local](https://doc.jwint.net)
 [Pre v shortur _s](https://go.jwint.net/)
 🍀
 
