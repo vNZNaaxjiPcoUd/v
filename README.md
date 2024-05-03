@@ -1,7 +1,7 @@
 ## Information
 
 ### Tool
-
+🍀
 [Share doc](https://go.jwint.net/share)
 [文章收集建立](https://go.jwint.net/A-doc-create)
 [Share update check](https://go.jwint.net/share-update-check)
@@ -12,6 +12,7 @@
 [服務器運作情況](https://vnzn.jwint.net/update/blob/now/UpdateTime.html)
 🍀
 
+🍀
 [Movie List](https://doc.jwint.net/movie%20list)
 [edit movie](https://go.jwint.net/zzz240408144224)
 [News List](https://s.jwint.net/doc/NewsList)
