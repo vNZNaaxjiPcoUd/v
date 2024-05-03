@@ -25,6 +25,7 @@
 [Send To Kindle](https://go.jwint.net/sendtokindle)
 [AJ web go](https://go.jwint.net/ajwebinfo)
 [Speed Test](https://go.jwint.net/speedtest)
+[Self PT List](https://go.jwint.net/pt)
 🍀
 
 🍀
