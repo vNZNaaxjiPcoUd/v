@@ -23,6 +23,7 @@
 [Sequence Diagram](https://seq.jwint.net/)
 [Send To Kindle](https://go.jwint.net/sendtokindle)
 [AJ web go](https://go.jwint.net/ajwebinfo)
+[Speed Test](https://go.jwint.net/speedtest)
 🍀
 
 🍀
