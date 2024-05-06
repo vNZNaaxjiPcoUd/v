@@ -30,20 +30,21 @@
 
 🍀
 ***app***
-[Amazon](https://www.amazon.com/)
-[Reddit](https://www.reddit.com/)
-[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
-[Office365](https://www.microsoft365.com/)
-[Linkedin](https://www.linkedin.com/feed/)
-[Tech news](https://technews.tw/)
-[Netflix](https://www.netflix.com/)
-[Spotify](https://open.spotify.com/)
-[iCloud](https://www.icloud.com/)
-[Zillow](https://www.zillow.com/)
-[Notion](https://www.notion.so/)
-[Hulu](https://www.hulu.com/content?tab=tv)
-[Twitter](https://twitter.com/)
 [AJ](https://go.jwint.net/aj)
+[Amazon](https://www.amazon.com/)
+[Decathlon](https://www.decathlon.com/)
+[Hulu](https://www.hulu.com/content?tab=tv)
+[iCloud](https://www.icloud.com/)
+[Linkedin](https://www.linkedin.com/feed/)
+[Netflix](https://www.netflix.com/)
+[Notion](https://www.notion.so/)
+[Office365](https://www.microsoft365.com/)
+[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
+[Reddit](https://www.reddit.com/)
+[Spotify](https://open.spotify.com/)
+[Tech news](https://technews.tw/)
+[Twitter](https://twitter.com/)
+[Zillow](https://www.zillow.com/)
 🍀 
 
 🍀
