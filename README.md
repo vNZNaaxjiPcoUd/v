@@ -26,6 +26,7 @@
 [AJ web go](https://go.jwint.net/ajwebinfo)
 [Speed Test](https://go.jwint.net/speedtest)
 [Self PT List](https://go.jwint.net/pt)
+[PT self example](https://ga.jwint.net/readme%20pt.html?a2f8285c1c03dacc33ce030a5f2cd834c9606e7e61598ba)
 🍀
 
 🍀
