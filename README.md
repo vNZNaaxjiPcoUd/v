@@ -80,7 +80,7 @@
 [國樂](https://v.jwint.net/s/zzz240413183334)
 [PT test in note](https://s.jwint.net/pt/readme)
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
-[地震YOUTUBE直播](https://go.jwint.net/dz)
+[YOUTUBE地震直播](https://goo.gl/mcGmDE)
 [MyIP](https://go.jwint.net/myip)
 [Short url example tw top mountain](https://short.jwint.net/oyF29)
 [唐詩三百首](https://s.jwint.net/doc/唐詩三百首)
