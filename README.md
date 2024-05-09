@@ -26,7 +26,8 @@
 [AJ web go](https://go.jwint.net/ajwebinfo)
 [Speed Test](https://go.jwint.net/speedtest)
 [Self PT List](https://go.jwint.net/pt)
-[PT self example](https://ga.jwint.net/readme%20pt.html?a2f8285c1c03dacc33ce030a5f2cd834c9606e7e61598ba)
+[PT self example](https://go.jwint.net/zzz240509155818)
+[Random](https://v.jwint.net/sdfdsfsdf)
 🍀
 
 🍀
@@ -68,7 +69,7 @@
 [news](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
 [notebooklm](https://notebooklm.google.com/)
 [photo](https://photos.google.com/)
-[translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
+[translate](https://go.jwint.net/translate)
 [travel](https://www.google.com/travel/)
 [voice](https://voice.google.com/)
 [youtube](https://www.youtube.com/)
