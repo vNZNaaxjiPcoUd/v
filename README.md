@@ -79,7 +79,7 @@
 
 🍀
 [國樂](https://v.jwint.net/s/zzz240413183334)
-[PT test in note](https://s.jwint.net/pt/readme)
+[PT test in note](https://s.jwint.net/pt/test2)
 [即時地震波](https://palert.earth.sinica.edu.tw/realtime)
 [YOUTUBE地震直播](https://goo.gl/mcGmDE)
 [MyIP](https://go.jwint.net/myip)
