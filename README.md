@@ -2,7 +2,7 @@
 
 ### Tool
 🍀
-[Share doc](https://go.jwint.net/share)
+[Share doc](https://go.jwint.net/L6fb069cfaaeb35f5485a8fc1bfb3753dfda15)
 [文章收集建立](https://go.jwint.net/A-doc-create)
 [Share update check](https://go.jwint.net/share-update-check)
 [加短網址 網址收集](https://go.jwint.net/url)
