@@ -6,16 +6,16 @@
 [文章收集建立](https://go.jwint.net/A-doc-create)
 [Share update check](https://go.jwint.net/share-update-check)
 [加短網址 網址收集](https://go.jwint.net/url)
-[Ping page](https://s.jwint.net/ping)
+[Ping page](https://go.jwint.net/pingpage)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
-[Wodegerenjilu](https://c73.jwint.net/README.md)
-[服務器運作情況](https://vnzn.jwint.net/update/blob/now/UpdateTime.html)
+[Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
+[服務器運作情況](https://go.jwint.net/srvoperstatus)
 🍀
 
 🍀
 [Movie List](https://doc.jwint.net/movie%20list)
 [edit movie](https://go.jwint.net/zzz240408144224)
-[News List](https://s.jwint.net/doc/NewsList)
+[News List](https://go.jwint.net/newlist)
 [edit news](https://go.jwint.net/zzz240430141619)
 [Web editor tool.](https://go.jwint.net/webedit)
 [HTML to markdown.](https://go.jwint.net/htmlToMarkdown)
@@ -27,7 +27,7 @@
 [Speed Test](https://go.jwint.net/speedtest)
 [Self PT List](https://go.jwint.net/pt)
 [PT self example ***readme pt.md***](https://go.jwint.net/zzz240509155818)
-[Random](https://v.jwint.net/sdfdsfsdf)
+[Random](https://go.jwint.net/ran)
 🍀
 
 🍀
