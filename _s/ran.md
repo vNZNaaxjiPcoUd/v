@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://go.jwint.net/AES
+go: https://d.jwint.net/AES
 name: randon
 dt: 240515093937
 ---
