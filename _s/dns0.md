@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://domains.google.com/
-name: 🍀 start of dns
+name: 🍀 DNS start
 dt: 240531124348
 ---
