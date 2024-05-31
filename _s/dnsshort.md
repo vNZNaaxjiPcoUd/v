@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://shorturl.at
-name: shorturl
+name: shorturl.at
 dt: 240531114953
 ---
