@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://www.youtube.com/channel/UCa32OtZqhDqDqCHeWO477qg
+go: https://goo.gl/mcGmDE
 name: Earthquak Live
 dt: 240410082957
 ---
