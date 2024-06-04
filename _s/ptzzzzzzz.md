@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/keepprwp
-name: end <br>🍀 
+name: end ... 
 dt: 240410143430
 ---
