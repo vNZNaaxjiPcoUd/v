@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://youtu.be/w_Ma8oQLmSM
+go: https://www.youtube.com/watch?v=-mvUkiILTqI
 name: ppp
 dt: 240531113226
 ---
