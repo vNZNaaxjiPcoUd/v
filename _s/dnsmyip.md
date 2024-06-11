@@ -12,3 +12,8 @@ https://myip.com.tw
 https://ipgeolocation.io/
 
 https://iplocation.io/what-is-my-ip-address
+
+https://ipgeolocation.io/what-is-my-ip/
+
+https://ipinfo.io/
+
