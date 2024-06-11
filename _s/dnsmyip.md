@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://ipgeolocation.io/
+go: https://gsuite.tools/my-ip
 name: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
@@ -16,4 +16,6 @@ https://iplocation.io/what-is-my-ip-address
 https://ipgeolocation.io/what-is-my-ip/
 
 https://ipinfo.io/
+
+https://gsuite.tools/my-ip
 
