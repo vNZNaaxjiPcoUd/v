@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://domains.google.com/checkip
+go: https://iplocation.io/what-is-my-ip-address
 name: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
