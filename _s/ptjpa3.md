@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/tvpcnnerotic
-name: Erotic3
+name: JPA3
 dt: 240410145819
 ---
