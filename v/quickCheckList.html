@@ -4,7 +4,7 @@ layout: empty
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
 <head>
-    <meta http-equiv="refresh" content="3">
+    <meta http-equiv="refresh" content="5">
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,13 +21,13 @@ body {
 <script>
     function showTime() {
       const currentDate = new Date();
-      const timestamp = currentDate.toLocaleString();
+      const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const timestamp = currentDate.toLocaleString('en-US', options);
       let labelElement = document.getElementById("labelWithHTML");
       labelElement.innerHTML = timestamp;
     }
 </script>
-<label id="labelWithHTML">Initial Text</label><br>
-	H+4 <br>
-<p>{{ site.time }}</p>
+<label id="labelWithHTML">Initial Text</label>
+<p>{{ site.time | date: "%r"}}</p>
 </body>
 </html>
