@@ -10,13 +10,13 @@ title: vv
 
 🍀 quick 》》
 [Share doc](https://go.jwint.net/doclist)
-[文章收集建立](https://go.jwint.net/A-doc-create)
+[建立文章](https://go.jwint.net/A-doc-create)
 [update check](https://go.jwint.net/share-update-check)
-[加短網址 網址收集](https://go.jwint.net/url)
-[Ping page](https://go.jwint.net/pingpage)
-[短網址更新確認](https://go.jwint.net/dwzgxqr)
+[加短網址](https://go.jwint.net/url)
+[Ping](https://go.jwint.net/pingpage)
+[更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
-[服務器運作情況](https://go.jwint.net/srvoperstatus)
+[服務器運作](https://go.jwint.net/srvoperstatus)
 
 🍀
 Google 》》 
