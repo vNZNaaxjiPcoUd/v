@@ -10,7 +10,7 @@ title: vv
 
 🍀 quick 》
 [Share doc](https://go.jwint.net/doclist)
-[建立文章](https://go.jwint.net/A-doc-create)
+[建立文章](https://go.jwint.net/aaaA-doc-create)
 [update check](https://go.jwint.net/share-update-check)
 [加短網址](https://go.jwint.net/url)
 [V update](https://go.jwint.net/zzz240705225721)
