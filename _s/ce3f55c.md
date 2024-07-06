@@ -8,18 +8,18 @@ title: vv
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
 
-🍀 quick 》》
+🍀 quick 》
 [Share doc](https://go.jwint.net/doclist)
 [建立文章](https://go.jwint.net/A-doc-create)
 [update check](https://go.jwint.net/share-update-check)
 [加短網址](https://go.jwint.net/url)
-[Ping](https://go.jwint.net/pingpage)
+[V update](https://go.jwint.net/zzz240705225721)
 [更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
 [服務器運作](https://go.jwint.net/srvoperstatus)
 
 🍀
-Google 》》 
+Google 》
 [analysis](https://analytics.google.com/)
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
@@ -46,7 +46,7 @@ Google 》》
 
 
 🍀
-Web 》》 
+Web 》
 [AJ](https://go.jwint.net/aj)
 [Amazon](https://www.amazon.com/)
 [Cars](https://www.cars.com/)
@@ -70,7 +70,7 @@ Web 》》
 
 
 🍀 
-Tool 》》 
+Tool 》
 [**Movie List**](https://d.jwint.net/movie%20list)
 , [add movie](https://go.jwint.net/zzz240408144224)
 [**News List**](https://d.jwint.net/NewsList)
@@ -91,7 +91,7 @@ Tool 》》
 [Laverna](https://j.jwint.net/laverna)
 
 🍀
-Like 》》 
+Like 》
 [國樂](https://v.jwint.net/s/zzz240413183334)
 [PT self](https://go.jwint.net/zzz240509155818)
 [J](https://j.jwint.net/)
@@ -111,7 +111,7 @@ Like 》》
 
 
 🍀
-Go. 》》 
+Go. 》
 {% for p in site.s %}[ {{ p.name }}.]({{ p.url }}) {% endfor %}
 
 
