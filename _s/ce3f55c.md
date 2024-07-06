@@ -53,20 +53,20 @@ Web 》
 [Decathlon](https://www.decathlon.com/)
 [Hulu](https://www.hulu.com/content?tab=tv)
 [iCloud](https://www.icloud.com/)
-[indeed](https://v.jwint.net/s/zzz240514100647.html)
+[indeed](https://go.jwint.net/zzz240514100647.html)
 [Linkedin](https://www.linkedin.com/feed/)
 [Netflix](https://www.netflix.com/)
 [Notion](https://www.notion.so/)
 [Office365](https://www.microsoft365.com/)
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Reddit](https://www.reddit.com/)
-[Remote Job](https://v.jwint.net/s/zzz240514100810.html)
+[Remote Job](https://go.jwint.net/zzz240514100810.html)
 [Spotify](https://open.spotify.com/)
 [Tech news](https://technews.tw/)
 [Twitter](https://twitter.com/)
 [Walmart](https://www.walmart.com/)
 [Zillow](https://www.zillow.com/)
-[ZipRecruiter](https://v.jwint.net/s/zzz240514100727.html)
+[ZipRecruiter](https://go.jwint.net/zzz240514100727.html)
 
 
 🍀 
@@ -92,7 +92,7 @@ Tool 》
 
 🍀
 Like 》
-[國樂](https://v.jwint.net/s/zzz240413183334)
+[國樂](https://go.jwint.net/zzz240413183334)
 [PT self](https://go.jwint.net/zzz240509155818)
 [J](https://j.jwint.net/)
 [WWW](https://www.jwint.net/)
