@@ -11,7 +11,7 @@ title: vv
 🍀 quick 》》
 [Share doc](https://go.jwint.net/doclist)
 [文章收集建立](https://go.jwint.net/A-doc-create)
-[Share update check](https://go.jwint.net/share-update-check)
+[update check](https://go.jwint.net/share-update-check)
 [加短網址 網址收集](https://go.jwint.net/url)
 [Ping page](https://go.jwint.net/pingpage)
 [短網址更新確認](https://go.jwint.net/dwzgxqr)
