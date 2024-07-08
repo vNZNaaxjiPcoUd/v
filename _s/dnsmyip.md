@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://gsuite.tools/my-ip
+go: https://ip-api.com/
 name: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
@@ -20,3 +20,6 @@ https://ipinfo.io/
 https://gsuite.tools/my-ip
 
 https://d.jwint.net/myip
+
+https://ip-api.com/
+
