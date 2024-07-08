@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://ip-api.com/
+go: http://d.jwint.net/myip
 name: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
