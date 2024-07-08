@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: http://d.jwint.net/myip
+go: http://share.jwint.net/doc/myip
 name: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
