@@ -19,3 +19,4 @@ https://ipinfo.io/
 
 https://gsuite.tools/my-ip
 
+https://d.jwint.net/myip
