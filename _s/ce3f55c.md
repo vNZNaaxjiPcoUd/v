@@ -17,6 +17,14 @@ title: vv
 [更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
 [服務器運作](https://go.jwint.net/srvoperstatus)
+[Self PT](https://v.jwint.net/s/pt.html)
+[Random](https://d.jwint.net/AES)
+[Clock](https://go.jwint.net/zzz240604101122)
+[OWL](https://d.jwint.net/owl)
+[AES](https://d.jwint.net/AES)
+[CRC](https://j.jwint.net/hash)
+[Laverna](https://j.jwint.net/laverna)
+[Sequence Diagram](https://seq.jwint.net/)
 
 🍀
 Google 》
@@ -43,8 +51,6 @@ Google 》
 [voice](https://voice.google.com/)
 [youtube](https://www.youtube.com/)
 
-
-
 🍀
 Web 》
 [AJ](https://go.jwint.net/aj)
@@ -68,35 +74,12 @@ Web 》
 [Zillow](https://www.zillow.com/)
 [ZipRecruiter](https://go.jwint.net/zzz240514100727.html)
 
-
-🍀 
-Tool 》
-[**Movie List**](https://d.jwint.net/movie%20list)
-, [add movie](https://go.jwint.net/zzz240408144224)
-[**News List**](https://d.jwint.net/NewsList)
-, [add news](https://go.jwint.net/zzz240430141619)
-[HTML editor](https://go.jwint.net/webedit)
-[HTML 2 markdown](https://go.jwint.net/htmlToMarkdown)
-[IP](https://go.jwint.net/ip)
-[GeoIP](https://go.jwint.net/geoip)
-[Sequence Diagram](https://seq.jwint.net/)
-[Send To Kindle](https://go.jwint.net/sendtokindle)
-[Markdown online editor](https://go.jwint.net/copyHtmlToMarkdown)
-[Speed Test](https://go.jwint.net/speedtest)
-[Random](https://d.jwint.net/AES)
-[Clock](https://go.jwint.net/zzz240604101122)
-[OWL](https://d.jwint.net/owl)
-[AES](https://d.jwint.net/AES)
-[CRC](https://j.jwint.net/hash)
-[Laverna](https://j.jwint.net/laverna)
-
 🍀
 Like 》
 [國樂](https://go.jwint.net/zzz240413183334)
 [PT self](https://go.jwint.net/zzz240509155818)
 [J](https://j.jwint.net/)
 [WWW](https://www.jwint.net/)
-[MyIP](https://go.jwint.net/myip)
 [YOUTUBE 地震直播](https://goo.gl/mcGmDE)
 [即時震波圖](https://palert.earth.sinica.edu.tw/realtime)
 [唐詩三百首](https://share.jwint.net/doc/唐詩三百首)
@@ -107,7 +90,18 @@ Like 》
 [瘦金體宋詞三百首](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
 [愛情公寓](https://go.jwint.net/yyy%20iLOVE.html)
 [玉山之頂](https://go.jwint.net/zzz240603150141.html)
-
+[**Movie List**](https://d.jwint.net/movie%20list)
+, [add movie](https://go.jwint.net/zzz240408144224)
+[**News List**](https://d.jwint.net/NewsList)
+, [add news](https://go.jwint.net/zzz240430141619)
+[MyIP](https://go.jwint.net/myip)
+[IP](https://go.jwint.net/ip)
+[GeoIP](https://go.jwint.net/geoip)
+[Send To Kindle](https://go.jwint.net/sendtokindle)
+[HTML editor](https://go.jwint.net/webedit)
+[HTML to markdown](https://go.jwint.net/htmlToMarkdown)
+[COPY web to markdown](https://go.jwint.net/copyHtmlToMarkdown)
+[Speed Test](https://go.jwint.net/speedtest)
 
 
 🍀
