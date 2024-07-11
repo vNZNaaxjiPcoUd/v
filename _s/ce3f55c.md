@@ -18,6 +18,7 @@ title: vv
 [Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
 [服務器運作](https://go.jwint.net/srvoperstatus)
 [Self PT](https://v.jwint.net/s/pt.html)
+[佳佳的臨時筆記](https://www.protectedtext.com/notejj)
 [Random](https://d.jwint.net/AES)
 [Clock](https://go.jwint.net/zzz240604101122)
 [OWL](https://d.jwint.net/owl)
