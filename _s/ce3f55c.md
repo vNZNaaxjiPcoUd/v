@@ -3,11 +3,6 @@ layout: default
 name: VV
 title: vv
 ---
-## Information
-
-{{ site.time | date: "%m-%d %H:%M:%S" }}
-
-
 🍀 quick 》
 [Share doc](https://go.jwint.net/doclist)
 [建立文章](https://go.jwint.net/aaaA-doc-create)
@@ -110,6 +105,9 @@ Go. 》
 {% for p in site.s %}[ {{ p.name }}.]({{ p.url }}) {% endfor %}
 
 
+
+
+{{ site.time | date: "%m-%d %H:%M:%S" }}
 
 
 
