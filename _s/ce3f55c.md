@@ -74,7 +74,6 @@ Web 》
 🍀
 Like 》
 [國樂](https://go.jwint.net/zzz240413183334)
-[PT self](https://go.jwint.net/zzz240509155818)
 [J](https://j.jwint.net/)
 [WWW](https://www.jwint.net/)
 [地震直播](https://goo.gl/mcGmDE)
