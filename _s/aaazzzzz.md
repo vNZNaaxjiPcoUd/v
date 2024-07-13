@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.w3schools.com/html/default.asp
-name: <br>🍀
+name: 🍀
 dt: 240603160247
 ---
