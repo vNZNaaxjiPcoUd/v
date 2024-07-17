@@ -96,7 +96,7 @@ Like 》
 [Send To Kindle](https://go.jwint.net/sendtokindle)
 [HTML editor](https://v.jwint.net/s/dnshtml)
 [HTML to markdown](https://go.jwint.net/htmlToMarkdown)
-[COPY web to markdown](https://go.jwint.net/copyHtmlToMarkdown)
+[COPY web to markdown](https://v.jwint.net/s/zzz2407052303)
 [Speed Test](https://go.jwint.net/speedtest)
 
 
