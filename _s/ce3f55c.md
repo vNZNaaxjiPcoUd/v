@@ -92,7 +92,6 @@ Like 》
 , [add news](https://go.jwint.net/zzz240430141619)
 [MyIP](https://go.jwint.net/dnsmyip)
 [IP](https://go.jwint.net/dnsip)
-[GeoIP](https://go.jwint.net/geoip)
 [Send To Kindle](https://go.jwint.net/sendtokindle)
 [HTML editor](https://v.jwint.net/s/dnshtml)
 [HTML to markdown](https://go.jwint.net/htmlToMarkdown)
