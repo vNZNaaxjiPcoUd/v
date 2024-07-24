@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://domains.google.com/checkip
+go: https://go.jwint.net/dnsmyip
 name: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
