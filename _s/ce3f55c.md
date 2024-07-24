@@ -12,7 +12,6 @@ title: vv
 [更新確認](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
 [服務器運作](https://go.jwint.net/srvoperstatus)
-[Self PT](https://v.jwint.net/s/pt)
 [佳佳的臨時筆記](https://go.jwint.net/jjnote)
 [Grace note](https://go.jwint.net/gtnote)
 [國樂](https://go.jwint.net/zzz240413183334)
