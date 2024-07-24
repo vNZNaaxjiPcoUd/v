@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://ipgeolocation.io/
+go: https://go.jwint.net/dnsmyip
 name: IP
 dt: 240531110040
 ---
