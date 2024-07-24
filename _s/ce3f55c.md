@@ -3,7 +3,7 @@ layout: default
 name: VV
 title: vv
 ---
-🍀 Like 》
+🍀 **Like** 》
 [Share doc](https://go.jwint.net/doclist)
 [建立文章](https://go.jwint.net/aaaA-doc-create)
 [update check](https://go.jwint.net/share-update-check)
@@ -29,9 +29,9 @@ title: vv
 [愛情公寓](https://go.jwint.net/yyy%20iLOVE)
 [玉山之頂](https://go.jwint.net/zzz240603150141)
 [OWL](https://d.jwint.net/owl)
-[**Movie List**](https://d.jwint.net/movie%20list)
+[***Movie List***](https://d.jwint.net/movie%20list)
 -[add movie](https://go.jwint.net/zzz240408144224)
-[**News List**](https://d.jwint.net/NewsList)
+[***News List***](https://d.jwint.net/NewsList)
 -[add news](https://go.jwint.net/zzz240430141619)
 [Random](https://d.jwint.net/AES)
 [Clock](https://go.jwint.net/zzz240604101122)
@@ -49,7 +49,7 @@ title: vv
 [Speed Test](https://go.jwint.net/speedtest)
 
 🍀
-Google 》
+**Google** 》
 [analysis](https://analytics.google.com/)
 [bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
@@ -74,7 +74,7 @@ Google 》
 [youtube](https://www.youtube.com/)
 
 🍀
-Web 》
+**Web** 》
 [Amazon](https://www.amazon.com/)
 [Cars](https://www.cars.com/)
 [Decathlon](https://www.decathlon.com/)
@@ -98,14 +98,14 @@ Web 》
 
 
 🍀
-Go. 》
+**Go.** 》
 {% for p in site.s %}[ {{ p.name }}.]({{ p.url }}) {% endfor %}
 
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
 
-🍀 
+🍀 **OWL** 》
 [AES](https://aes.jwint.net/)
 [Calculate](https://cal.jwint.net/)
 [Calendar](https://calendar.jwint.net/)
@@ -161,8 +161,8 @@ Go. 》
 [WuBai](https://500.jwint.net/)
 [Youtube](https://youtube.jwint.net/)
 
-🍀
-Chrome 》》 
+🍀 
+**Chrome** 》》 
 [Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
 [Chrome dns configuration](chrome://net-internals/#dns)
 
