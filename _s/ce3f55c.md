@@ -50,7 +50,6 @@ Google 》
 
 🍀
 Web 》
-[AJ](https://go.jwint.net/aj)
 [Amazon](https://www.amazon.com/)
 [Cars](https://www.cars.com/)
 [Decathlon](https://www.decathlon.com/)
