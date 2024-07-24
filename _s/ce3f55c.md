@@ -3,7 +3,7 @@ layout: default
 name: VV
 title: vv
 ---
-🍀 quick 》
+🍀 Like 》
 [Share doc](https://go.jwint.net/doclist)
 [建立文章](https://go.jwint.net/aaaA-doc-create)
 [update check](https://go.jwint.net/share-update-check)
@@ -15,13 +15,38 @@ title: vv
 [Self PT](https://v.jwint.net/s/pt)
 [佳佳的臨時筆記](https://go.jwint.net/jjnote)
 [Grace note](https://go.jwint.net/gtnote)
+[國樂](https://go.jwint.net/zzz240413183334)
+[_J_](https://j.jwint.net/)
+[WWW](https://www.jwint.net/)
+[台灣地震直播](https://goo.gl/mcGmDE)
+[震波圖](https://palert.earth.sinica.edu.tw/realtime)
+[唐詩三百首](https://share.jwint.net/doc/唐詩三百首)
+[行楷](https://share.jwint.net/doc/唐詩三百首.pdf)
+[瘦金體](https://share.jwint.net/doc/唐詩三百首_瘦金體.pdf)
+[宋詞三百首](https://share.jwint.net/doc/宋詞三百首)
+[行楷](https://share.jwint.net/doc/宋詞三百首.pdf)
+[瘦金體](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
+[愛情公寓](https://go.jwint.net/yyy%20iLOVE)
+[玉山之頂](https://go.jwint.net/zzz240603150141)
+[OWL](https://d.jwint.net/owl)
+[**Movie List**](https://d.jwint.net/movie%20list)
+-[add movie](https://go.jwint.net/zzz240408144224)
+[**News List**](https://d.jwint.net/NewsList)
+-[add news](https://go.jwint.net/zzz240430141619)
 [Random](https://d.jwint.net/AES)
 [Clock](https://go.jwint.net/zzz240604101122)
-[OWL](https://d.jwint.net/owl)
 [AES](https://d.jwint.net/AES)
 [CRC](https://j.jwint.net/hash)
 [Laverna](https://j.jwint.net/laverna)
 [Sequence Diagram](https://seq.jwint.net/)
+[MyIP](https://go.jwint.net/dnsmyip)
+[IP](https://go.jwint.net/dnsip)
+[Send To Kindle](https://go.jwint.net/sendtokindle)
+[HTML editor](https://v.jwint.net/s/dnshtml)
+[HTML to markdown](https://go.jwint.net/htmlToMarkdown)
+[COPY web to markdown , markdown online editor](https://v.jwint.net/s/zzz2407052303)
+[Laverna](https://go.jwint.net/dnslaverna)
+[Speed Test](https://go.jwint.net/speedtest)
 
 🍀
 Google 》
@@ -70,33 +95,6 @@ Web 》
 [Zillow](https://www.zillow.com/)
 [ZipRecruiter](https://go.jwint.net/zzz240514100727)
 
-🍀
-Like 》
-[國樂](https://go.jwint.net/zzz240413183334)
-[J](https://j.jwint.net/)
-[WWW](https://www.jwint.net/)
-[台灣地震直播](https://goo.gl/mcGmDE)
-[震波圖](https://palert.earth.sinica.edu.tw/realtime)
-[唐詩三百首](https://share.jwint.net/doc/唐詩三百首)
-[行楷](https://share.jwint.net/doc/唐詩三百首.pdf)
-[瘦金體](https://share.jwint.net/doc/唐詩三百首_瘦金體.pdf)
-[宋詞三百首](https://share.jwint.net/doc/宋詞三百首)
-[行楷](https://share.jwint.net/doc/宋詞三百首.pdf)
-[瘦金體](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
-[愛情公寓](https://go.jwint.net/yyy%20iLOVE)
-[玉山之頂](https://go.jwint.net/zzz240603150141)
-[**Movie List**](https://d.jwint.net/movie%20list)
--[add movie](https://go.jwint.net/zzz240408144224)
-[**News List**](https://d.jwint.net/NewsList)
--[add news](https://go.jwint.net/zzz240430141619)
-[MyIP](https://go.jwint.net/dnsmyip)
-[IP](https://go.jwint.net/dnsip)
-[Send To Kindle](https://go.jwint.net/sendtokindle)
-[HTML editor](https://v.jwint.net/s/dnshtml)
-[HTML to markdown](https://go.jwint.net/htmlToMarkdown)
-[COPY web to markdown , markdown online editor](https://v.jwint.net/s/zzz2407052303)
-[Laverna](https://go.jwint.net/dnslaverna)
-[Speed Test](https://go.jwint.net/speedtest)
 
 
 🍀
