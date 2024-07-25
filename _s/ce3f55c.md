@@ -89,7 +89,7 @@ title: vv
 [Tech news](https://technews.tw/)
 [Twitter](https://twitter.com/)
 [Walmart](https://www.walmart.com/)
-[Zillow](https://www.zillow.com/)
+[Zillow](https://www.zillow.com/homes/33596_rb/)
 [ZipRecruiter](https://go.jwint.net/zzz240514100727)
 
 
