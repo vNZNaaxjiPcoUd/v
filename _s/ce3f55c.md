@@ -1,7 +1,7 @@
 ---
 layout: default
-name: vv
-title: vv
+name: v
+title: v
 ---
 🍀 **Like** 》
 [Share doc](https://go.jwint.net/doclist)
