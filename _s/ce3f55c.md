@@ -1,4 +1,6 @@
 ---
+layout: default.html
+name: vv
 title: vv
 ---
 🍀 **Like** 》
