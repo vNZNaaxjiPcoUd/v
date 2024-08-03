@@ -1,7 +1,7 @@
 ---
 layout: default
-name: VV
-title: vv
+name: Tool
+title: Tool
 ---
 🍀 **Like** 》
 [Share doc](https://go.jwint.net/doclist)
@@ -40,11 +40,12 @@ title: vv
 [MyIP](https://go.jwint.net/dnsmyip)
 [IP](https://go.jwint.net/dnsip)
 [Send To Kindle](https://go.jwint.net/sendtokindle)
-[HTML editor](https://v.jwint.net/s/dnshtml)
+[HTML editor](https://go.jwint.net/dnshtml)
 [HTML to markdown](https://go.jwint.net/htmlToMarkdown)
-[COPY web to markdown markdown online editor](https://v.jwint.net/s/zzz2407052303)
+[COPY web to markdown markdown online editor](https://go.jwint.net/zzz2407052303)
 [Laverna](https://go.jwint.net/dnslaverna)
 [Speed Test](https://go.jwint.net/speedtest)
+[my youtube](https://go.jwint.net/youtube)
 
 🍀
 **Google** 》
