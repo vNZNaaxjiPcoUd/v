@@ -1,5 +1,5 @@
 ---
-layout: default.html
+layout: default
 name: vv
 title: vv
 ---
