@@ -50,12 +50,12 @@ title: v
 🍀
 **Google** 》
 [analysis](https://analytics.google.com/)
-[bard](https://bard.google.com/)
 [calendar](https://calendar.google.com/)
 [chat](https://mail.google.com/chat/)
 [contact](https://contacts.google.com/)
 [drive](https://drive.google.com/)
-[finance](https://www.google.com/finance/portfolio/watchlist)
+[earth](https://earth.google.com/web/)
+[finance](https://www.google.com/finance/portfolio/)
 [flight](https://www.google.com/travel/flights)
 [flight cheap](https://www.google.com/travel/explore)
 [gemini](https://gemini.google.com/app)
@@ -64,7 +64,7 @@ title: v
 [keep](https://keep.google.com/)
 [mail](https://mail.google.com/)
 [map](https://www.google.com.tw/maps/)
-[news](https://news.google.com/home?hl=en-US&gl=US&ceid=US:en)
+[news](https://news.google.com/home?hl=zh-TW&gl=TW&ceid=TW:zh-Hant)
 [notebooklm](https://notebooklm.google.com/)
 [photo](https://photos.google.com/)
 [translate](https://go.jwint.net/translate)
