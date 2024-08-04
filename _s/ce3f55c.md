@@ -4,6 +4,15 @@ name: v
 title: v
 ---
 🍀 **Like** 》
+[AES](https://j.jwint.net/aes)
+[翻譯](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
+[Keep](https://keep.google.com/)
+[DNS](https://account.squarespace.com/domains/managed/jwint.net)
+[QN](https://qn.jwint.net)
+[IME](https://www.google.com/inputtools/try/)
+[PoPoYoutube](https://www.youtube.com/@popo12138)
+[Mail](https://mail.google.com/)
+[iCloud](https://www.icloud.com/mail/)
 [Share doc](https://go.jwint.net/doclist)
 [建立文章](https://go.jwint.net/aaaA-doc-create)
 [update check](https://go.jwint.net/share-update-check)
