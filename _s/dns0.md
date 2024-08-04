@@ -1,6 +1,7 @@
 ---
 layout: shorturl
-go: https://domains.google.com/
+go: https://account.squarespace.com/domains
 name: <br><br>🍀 **DNS** start
 dt: 240531124348
 ---
+https://domains.google.com/
