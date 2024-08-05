@@ -6,12 +6,12 @@ title: v
 🍀 **Like** 》
 [AES](https://j.jwint.net/aes)
 [翻譯](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
-[Keep](https://keep.google.com/)
+[Keep](https://keep.google.com/u/2/)
 [DNS](https://account.squarespace.com/domains/managed/jwint.net)
 [QN](https://qn.jwint.net)
 [IME](https://www.google.com/inputtools/try/)
 [PoPoYoutube](https://www.youtube.com/@popo12138)
-[Mail](https://mail.google.com/)
+[Mail](https://mail.google.com/mail/u/3/#inbox)
 [iCloud](https://www.icloud.com/mail/)
 
 🍀
