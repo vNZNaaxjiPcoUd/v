@@ -44,6 +44,7 @@ title: v
 [HTML to markdown](https://go.jwint.net/htmlToMarkdown)
 [COPY web to markdown Markdown online editor](https://go.jwint.net/zzz2407052303)
 [Laverna](https://go.jwint.net/dnslaverna)
+[ERO](https://d.jwint.net/xbook)
 [Speed Test](https://go.jwint.net/speedtest)
 
 🍀
