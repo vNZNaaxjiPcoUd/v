@@ -1,7 +1,7 @@
 ---
 layout: shorturl
 go: https://vnzn.jwint.net/Notes/tree/www/doc
-name: 文章收集分享
+name: add doc
 ---
 
 /Notes/new/www/doc
