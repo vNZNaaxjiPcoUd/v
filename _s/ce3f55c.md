@@ -15,11 +15,9 @@ title: v
 [iCloud](https://www.icloud.com/mail/)
 
 🍀
-[Share doc](https://go.jwint.net/doclist)[-add](https://go.jwint.net/aaaA-doc-create)
-[update check](https://go.jwint.net/share-update-check)
+[Share doc](https://go.jwint.net/doclist)[-add](https://go.jwint.net/aaaA-doc-create)[-uu](https://go.jwint.net/share-update-check)
 [加短網址](https://go.jwint.net/url)
-[V update](https://go.jwint.net/zzz240705225721)
-[更新確認](https://go.jwint.net/dwzgxqr)
+[V update](https://go.jwint.net/zzz240705225721)[-uu](https://go.jwint.net/dwzgxqr)
 [Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
 [服務器運作](https://go.jwint.net/srvoperstatus)
 [佳佳筆記](https://go.jwint.net/jjnote)
