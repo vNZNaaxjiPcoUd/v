@@ -38,7 +38,6 @@ title: v
 [Laverna](https://j.jwint.net/laverna)
 [Sequence Diagram](https://seq.jwint.net/)
 [MyIP](https://go.jwint.net/dnsmyip)
-[IP](https://go.jwint.net/dnsip)
 [Send To Kindle](https://go.jwint.net/sendtokindle)
 [HTML editor](https://go.jwint.net/dnshtml)
 [HTML to markdown](https://go.jwint.net/htmlToMarkdown)
