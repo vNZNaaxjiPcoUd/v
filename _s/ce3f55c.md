@@ -19,7 +19,7 @@ title: v
 [Share doc](https://go.jwint.net/doclist)[-add](https://go.jwint.net/aaaA-doc-create)[-uu](https://go.jwint.net/share-update-check)
 [加短網址](https://go.jwint.net/url)
 [V update](https://go.jwint.net/zzz240705225721)[-uu](https://go.jwint.net/dwzgxqr)
-[Wodegerenjilu](https://go.jwint.net/wodegerenjilu)
+[Wodeku](https://go.jwint.net/wodegerenjilu)
 [服務器運作](https://go.jwint.net/srvoperstatus)
 [佳佳筆記](https://go.jwint.net/jjnote)
 [恬恬筆記](https://go.jwint.net/gtnote)
@@ -44,7 +44,7 @@ title: v
 [HTML to markdown](https://go.jwint.net/htmlToMarkdown)
 [COPY web to markdown Markdown online editor](https://go.jwint.net/zzz2407052303)
 [Laverna](https://go.jwint.net/dnslaverna)
-[ERO](https://d.jwint.net/xbook)
+[ero](https://d.jwint.net/xbook)
 [Speed Test](https://go.jwint.net/speedtest)
 
 🍀
