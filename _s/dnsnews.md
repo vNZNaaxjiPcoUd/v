@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://j.jwint.net/shanews_512
+go: https://share.jwint.net/doc/NewsList
 name: News web list
 dt: 240410094118
 ---
