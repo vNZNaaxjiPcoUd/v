@@ -19,6 +19,7 @@ title: v
 [calendar](https://calendar.google.com/calendar/u/0/r)
 [outlook](https://outlook.live.com/mail/0/)
 
+
 🍀
 [Share doc](https://go.jwint.net/doclist)[-add](https://go.jwint.net/aaaA-doc-create)[-uu](https://go.jwint.net/share-update-check)
 [加短網址](https://go.jwint.net/url)
@@ -50,6 +51,7 @@ title: v
 [Laverna](https://go.jwint.net/dnslaverna)
 [ero](https://d.jwint.net/xbook)
 [Speed Test](https://go.jwint.net/speedtest)
+[srvnn shell](https://svrnn:4300/)
 
 🍀
 **Google** 》
