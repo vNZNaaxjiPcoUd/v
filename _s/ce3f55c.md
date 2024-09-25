@@ -51,7 +51,8 @@ title: v
 [Laverna](https://go.jwint.net/dnslaverna)
 [ero](https://d.jwint.net/xbook)
 [Speed Test](https://go.jwint.net/speedtest)
-[Friend shell](https://friend.jwint.net/dd259e4f2c462a6b6dcfdbd9a0925bdc27a/)
+[Friend go](https://go.jwint.net/zzz240925113941)
+[SVRnn go](https://go.jwint.net/zzz240925114145)
 
 🍀
 **Google** 》
