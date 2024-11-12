@@ -35,19 +35,19 @@ title: v
 [Cars](https://www.cars.com/shopping/results/?dealer_id=&include_shippable=false&keyword=&list_price_max=&list_price_min=&maximum_distance=50&mileage_max=&monthly_payment=&page_size=20&sort=list_price&stock_type=new&year_max=&year_min=&zip=33596)
 [Decathlon](https://www.decathlon.com/)
 [iCloud](https://www.icloud.com/)
-[indeed](https://go.jwint.net/zzz240514100647)
+[Indeed](https://go.jwint.net/zzz240514100647)
 [Linkedin](https://www.linkedin.com/feed/)
 [Netflix](https://www.netflix.com/)
 [Notion](https://www.notion.so/)
 [Office365](https://www.microsoft365.com/)
 [Reddit](https://www.reddit.com/)
-[Remote Job](https://go.jwint.net/zzz240514100810)
+[Remote job](https://go.jwint.net/zzz240514100810)
 [Spotify](https://open.spotify.com/)
 [Tech news](https://technews.tw/)
 [Twitter](https://twitter.com/)
 [Walmart](https://www.walmart.com/)
 [Zillow](https://www.zillow.com/homes/33596_rb/)
-[ZipRecruiter](https://go.jwint.net/zzz240514100727)
+[Zip Recruiter](https://go.jwint.net/zzz240514100727)
 
 🍀
 {% for p in site.s %}[. {{ p.name }} ]({{ p.url }}) {% endfor %}
