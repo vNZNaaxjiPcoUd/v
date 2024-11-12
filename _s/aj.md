@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.ajfinancialconsulting.com/
-name: AJ 網站
+name: AJ www
 dt: 240413093612
 ---
