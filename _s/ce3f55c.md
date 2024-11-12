@@ -5,7 +5,7 @@ title: v
 ---
 🍀 **Like** 》
 [AES](https://j.jwint.net/aes)
-[翻譯](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
+[Translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
 [Keep](https://keep.google.com/u/2/)
 [Dns](https://account.squarespace.com/domains/managed/jwint.net)
 [Qn](https://qn.jwint.net)
