@@ -1,0 +1,13 @@
+
+collections:
+  s:
+    output: true
+
+    
+    
+defaults:
+  - scope:
+      path: ""
+      type: "s"
+    values:
+      layout: "shorturl"

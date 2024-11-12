@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+<head>
+    <!-- 123 -->
+    <base target="_blank">
+    <meta http-equiv="refresh" content="3">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  
+<style>
+html,
+body {
+
+		color: rgb(120, 120, 120);
+		background-color: rgb(1, 1, 1);
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: none;
+}
+
+table, tr, th ,td ,tr:nth-child(even),tr:nth-child(odd){
+	color: rgb(120, 120, 120);
+	background-color: rgb(1, 1, 1);
+	text-decoration: none;
+}
+	
+.mono { font-family: monospace, monospace, monospace; }
+</style>
+<title>{{ page.title }}</title>
+</head>
+
+<body onload="showTime()" class="mono">
+<script>
+  function httpGet(theUrl)
+  {
+    var xmlHttp = new XMLHttpRequest();
+    xmlHttp.open( "GET", theUrl, false ); // false for synchronous request
+    xmlHttp.send( null );
+    return xmlHttp.responseText;
+  }
+    function showTime() {
+      const currentDate = new Date();
+      const timestamp = currentDate.toLocaleString();
+      let labelElement = document.getElementById("labelWithHTML");
+      labelElement.innerHTML = timestamp;
+    	let showT = httpGet("https://raw.githubusercontent.com/vNZNaaxjiPcoUd/v/etc/UpdateTime.html");
+	let label2 = document.getElementById("upD");
+	label2.innerHTML = showT;
+    }
+</script>
+<label id="labelWithHTML">Initial Text</label>
+ <br>
+<label id="upD">git</label>
+<div class="container-lg px-3 my-5 markdown-body">
+    {{ content }}
+  </div>
+</body>
+
+</html>
