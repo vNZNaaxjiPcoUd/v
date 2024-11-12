@@ -1,6 +1,7 @@
 ---
 layout: shorturl
-go: https://todaynews.jwint.net/news/Shop%20580e513e04904fa8a655eae2d753ed8a
+go: https://d.jwint.net/ShopList
 name: Shop web list
 dt: 240410094734
 ---
+https://todaynews.jwint.net/news/Shop%20580e513e04904fa8a655eae2d753ed8a 

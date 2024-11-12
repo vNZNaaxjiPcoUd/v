@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://share.jwint.net/doc/Weather
+go: https://d.jwint.net/Weather
 name: weatherlist
 dt: 240531123851
 ---
