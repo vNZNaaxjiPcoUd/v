@@ -34,14 +34,12 @@ title: v
 [Amazon](https://www.amazon.com/)
 [Cars](https://www.cars.com/shopping/results/?dealer_id=&include_shippable=false&keyword=&list_price_max=&list_price_min=&maximum_distance=50&mileage_max=&monthly_payment=&page_size=20&sort=list_price&stock_type=new&year_max=&year_min=&zip=33596)
 [Decathlon](https://www.decathlon.com/)
-[Hulu](https://www.hulu.com/content?tab=tv)
 [iCloud](https://www.icloud.com/)
 [indeed](https://go.jwint.net/zzz240514100647)
 [Linkedin](https://www.linkedin.com/feed/)
 [Netflix](https://www.netflix.com/)
 [Notion](https://www.notion.so/)
 [Office365](https://www.microsoft365.com/)
-[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [Reddit](https://www.reddit.com/)
 [Remote Job](https://go.jwint.net/zzz240514100810)
 [Spotify](https://open.spotify.com/)
@@ -122,3 +120,7 @@ title: v
 [宋詞三百首](https://share.jwint.net/doc/宋詞三百首)[-行楷](https://share.jwint.net/doc/宋詞三百首.pdf)[-瘦金體](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
 [加短網址](https://go.jwint.net/url)
 [服務器運作](https://go.jwint.net/srvoperstatus)
+[Hulu](https://www.hulu.com/content?tab=tv)
+[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
+
+
