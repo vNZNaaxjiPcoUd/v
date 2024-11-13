@@ -22,7 +22,6 @@ title: v
 [Share doc](https://go.jwint.net/doclist)-[add](https://go.jwint.net/abA-doc-create)-[uu](https://go.jwint.net/share-update-check)
 [VV update](https://go.jwint.net/zzz240705225721)-[uu](https://go.jwint.net/dwzgxqr)
 [Wodeku](https://go.jwint.net/wodegerenjilu)
-[Tmp note in github](https://go.jwint.net/zzz241031002357)
 [JJ pt](https://go.jwint.net/jjnote)
 [Grace pt](https://go.jwint.net/gtnote)
 [地震直播](https://goo.gl/mcGmDE)
