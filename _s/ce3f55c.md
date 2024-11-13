@@ -19,10 +19,10 @@ title: v
 [Outlook](https://outlook.live.com/mail/0/)
 [Chat](https://mail.google.com/chat/u/0/#chat/space/AAAAxILiOWs)
 🍀
-[Share doc](https://go.jwint.net/doclist)[-add](https://go.jwint.net/abA-doc-create)[-uu](https://go.jwint.net/share-update-check)
-[Vv update](https://go.jwint.net/zzz240705225721)[-uu](https://go.jwint.net/dwzgxqr)
+[Share doc](https://go.jwint.net/doclist)-[add](https://go.jwint.net/abA-doc-create)-[uu](https://go.jwint.net/share-update-check)
+[VV update](https://go.jwint.net/zzz240705225721)-[uu](https://go.jwint.net/dwzgxqr)
 [Wodeku](https://go.jwint.net/wodegerenjilu)
-[VKP](https://vkp.jwint.net)[-saved](https://go.jwint.net/zzz241113114345)
+[VKP](https://vkp.jwint.net)-[save](https://go.jwint.net/zzz241113114345)
 [JJ pt](https://go.jwint.net/jjnote)
 [Grace pt](https://go.jwint.net/gtnote)
 [地震直播](https://goo.gl/mcGmDE)
