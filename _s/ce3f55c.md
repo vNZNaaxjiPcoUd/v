@@ -18,6 +18,7 @@ title: v
 [Outlook](https://outlook.live.com/mail/0/)
 [Chat](https://mail.google.com/chat/u/0/#chat/space/AAAAxILiOWs)
 [VKP](https://vkp.jwint.net)-[save](https://go.jwint.net/zzz241113114345)
+[Cal](https://cal.jwint.net/)
 🍀
 [Share doc](https://go.jwint.net/doclist)-[add](https://go.jwint.net/abA-doc-create)-[uu](https://go.jwint.net/share-update-check)
 [VV update](https://go.jwint.net/zzz240705225721)-[uu](https://go.jwint.net/dwzgxqr)
