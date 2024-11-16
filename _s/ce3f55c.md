@@ -5,7 +5,7 @@ title: v
 ---
 🍀 
 [AES](https://j.jwint.net/aes)
-[Cal](https://cal.jwint.net/)
+[Calculate](https://cal.jwint.net/)
 [Calendar](https://calendar.google.com/calendar/u/0/r)
 [Chat](https://mail.google.com/chat/u/0/#chat/space/AAAAxILiOWs)
 [Dns](https://account.squarespace.com/domains/managed/jwint.net)
