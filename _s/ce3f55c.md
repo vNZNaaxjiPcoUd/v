@@ -26,9 +26,10 @@ title: v
 [JJ pt](https://go.jwint.net/jjnote)
 [Grace pt](https://go.jwint.net/gtnote)
 [地震直播](https://goo.gl/mcGmDE)
-[Movie list](https://d.jwint.net/movie%20list)-[add](https://go.jwint.net/zzz240408144224)
-[News list](https://d.jwint.net/NewsList)-[add](https://go.jwint.net/zzz240430141619)
-
+[Movie](https://d.jwint.net/movie%20list)-[add](https://go.jwint.net/zzz240408144224)
+[News](https://d.jwint.net/NewsList)-[add](https://go.jwint.net/zzz240430141619)
+[Shop](https://go.jwint.net/dnsshoplist)
+[Weather](https://go.jwint.net/dnsweatherlist)
 
 🍀
 [Amazon](https://www.amazon.com/)
