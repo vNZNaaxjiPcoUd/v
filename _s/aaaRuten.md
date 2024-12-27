@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.ruten.com.tw/
-name: 露天市集
+name: Ruten
 dt: 241110224512
 ---
