@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://shopee.tw/
-name: 蝦皮購物
+name: Shopee
 dt: 241110224545
 ---
