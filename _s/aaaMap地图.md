@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://ditu.amap.com/
-name: 高德地图
+name: Map 高德
 dt: 240806122840
 ---
