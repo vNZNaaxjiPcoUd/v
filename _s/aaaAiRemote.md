@@ -1,5 +1,5 @@
 ---
 layout: shorturl
-go: https://friend.jwint.net/ai
+go: https://friend.jwint.net/
 name: AI Remote
 ---
