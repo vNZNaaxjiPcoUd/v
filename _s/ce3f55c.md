@@ -30,6 +30,7 @@ title: v
 [News](https://d.jwint.net/NewsList)-[add](https://go.jwint.net/zzz240430141619)
 [Shop](https://go.jwint.net/dnsshoplist)
 [Weather](https://go.jwint.net/dnsweatherlist)
+[LocalLlamaTest](https://100.97.53.114:11434/api/tags)
 
 🍀
 [Amazon](https://www.amazon.com/)
