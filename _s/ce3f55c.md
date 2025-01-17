@@ -31,7 +31,7 @@ title: v
 [Shop](https://go.jwint.net/dnsshoplist)
 [Weather](https://go.jwint.net/dnsweatherlist)
 [LocalLlamaTest](https://100.97.53.114:11434/api/tags)
-[House search](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
+[House table](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
 [Zello brandon](https://v.jwint.net/s/aaaZello.html)
 
 🍀
