@@ -31,6 +31,7 @@ title: v
 [Shop](https://go.jwint.net/dnsshoplist)
 [Weather](https://go.jwint.net/dnsweatherlist)
 [LocalLlamaTest](https://100.97.53.114:11434/api/tags)
+[House Search](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
 
 🍀
 [Amazon](https://www.amazon.com/)
