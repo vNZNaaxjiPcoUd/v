@@ -34,6 +34,7 @@ title: v
 [House table](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
 [Talbe with agent](https://go.jwint.net/zhouse)
 [Zello brandon](https://go.jwint.net/aaaZello.html)
+[web collection](https://github.com/vNZNaaxjiPcoUd/Notes/blob/www/doc/web_col.md)
 
 
 🍀
