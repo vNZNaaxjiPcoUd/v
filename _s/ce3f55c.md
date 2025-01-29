@@ -32,7 +32,7 @@ title: v
 [Weather](https://go.jwint.net/dnsweatherlist)
 [LocalLlamaTest](https://100.97.53.114:11434/api/tags)
 [House table](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
-[Talbe with agent](https://docs.google.com/spreadsheets/d/1uOfhjI1eivtHqJHRa26ZZiLuOSqV1aHFLqCvM7sXcVc/)
+[Talbe with agent](https://go.jwint.net/zhouse)
 [Zello brandon](https://go.jwint.net/aaaZello.html)
 
 
