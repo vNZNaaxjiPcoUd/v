@@ -35,7 +35,7 @@ title: v
 [Talbe with agent](https://go.jwint.net/zhouse)
 [Zello brandon](https://go.jwint.net/aaaZello.html)
 [web collection](https://github.com/vNZNaaxjiPcoUd/Notes/blob/www/doc/web_col.md)
-[Ollama test remote](https://friend.jwint.net/ai/)[ -tailscale](http://100.97.53.114:11434/)[ -local](http://127.0.0.1:11434/)
+[Ollama test remote](https://friend.jwint.net/ai/) -[tailscale](http://100.97.53.114:11434/) -[local](http://127.0.0.1:11434/)
 
 
 🍀
