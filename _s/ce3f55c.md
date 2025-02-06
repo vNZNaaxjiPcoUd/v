@@ -35,6 +35,7 @@ title: v
 [House table](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
 [Talbe with agent](https://go.jwint.net/zhouse)
 [Zello brandon](https://go.jwint.net/aaaZello.html)
+[CDD Zone](https://gis2017-01-10t133755357z-hillsborough.opendata.arcgis.com/datasets/0bdb0b611a6046bfbb2b487b61273eab/explore?location=27.853485%2C-82.238329%2C13.41)
 [web collection](https://github.com/vNZNaaxjiPcoUd/Notes/blob/www/doc/web_col.md)
 [Ollama test remote](https://ai.jwint.net/ai/) -[tailscale](http://100.97.53.114:11434/) -[local](http://127.0.0.1:11434/)
 
