@@ -16,6 +16,7 @@ title: v
 [Mail](https://mail.google.com/mail/u/1/)
 [Map](https://www.google.com.tw/maps/preview?authuser=3)
 [Outlook](https://outlook.live.com/mail/0/)
+[Photo](https://photos.google.com/u/2/)
 [Qn](https://qn.jwint.net)
 [Translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
 [VKP](https://vkp.jwint.net)-[save](https://go.jwint.net/zzz241113114345)
