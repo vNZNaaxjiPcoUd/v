@@ -40,6 +40,7 @@ title: v
 [web collection](https://github.com/vNZNaaxjiPcoUd/Notes/blob/www/doc/web_col.md)
 [Ollama test remote](https://ai.jwint.net/ai/) -[tailscale](http://100.97.53.114:11434/) -[local](http://127.0.0.1:11434/)
 [FEMA flood map](https://msc.fema.gov/portal/search?AddressQuery=2727%20Brookville%20Dr%2C%20Valrico%2C%20FL%2033596)
+[應支付 A&J紀錄](https://docs.google.com/spreadsheets/d/11tskbLLwhxkHaG4cO3h2cJHI28qNQGH9IqNHByOTSVc)
 
 
 🍀
