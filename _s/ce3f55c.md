@@ -24,6 +24,7 @@ title: v
 🍀
 [Share doc](https://go.jwint.net/doclist)-[add](https://go.jwint.net/abA-doc-create)-[uu](https://go.jwint.net/share-update-check)
 [VV update](https://go.jwint.net/zzz240705225721)-[uu](https://go.jwint.net/dwzgxqr)-[Add go](https://github.com/vNZNaaxjiPcoUd/v/blob/etc/_s/zzz.md)
+[GH private doc](https://vnzn.jwint.net/tmp/tree/note/private_doc)
 [Wodeku](https://go.jwint.net/wodegerenjilu)
 [JJ pt](https://go.jwint.net/jjnote)
 [Grace pt](https://go.jwint.net/gtnote)
