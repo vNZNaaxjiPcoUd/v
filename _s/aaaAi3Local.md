@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: http://0.0.0.0:8080/
+go: http://127.0.0.1:8080/
 name: AI Local
 ---
 tlmini.jwint.net
