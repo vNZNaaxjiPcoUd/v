@@ -3,7 +3,7 @@ layout: default
 name: v
 title: v
 ---
-🍀 <p><label id="cnT">0</label></p>
+🍀 <label id="cnT">0</label>
 [AES](https://j.jwint.net/aes)
 [MD5](https://j.jwint.net/md5.html)
 [Calculate](https://cal.jwint.net/)
