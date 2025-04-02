@@ -46,6 +46,9 @@ title: v
 [應支付 A&J紀錄](https://docs.google.com/spreadsheets/d/11tskbLLwhxkHaG4cO3h2cJHI28qNQGH9IqNHByOTSVc)
 [AI openwebui tailscale](https://go.jwint.net/ai)
 [House 費用](https://docs.google.com/spreadsheets/d/1xwCpssbF7kayDeTmRxtms0_ffK9X5eL9Ki36DWxgHVE/edit?usp=sharing)
+[Grok](https://grok.com/)
+[Chatgpt](https://chatgpt.com/)
+[Gemini](https://gemini.google.com/app)
 
 
 🍀
