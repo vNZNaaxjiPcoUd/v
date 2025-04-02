@@ -157,7 +157,15 @@ title: v
       date.setSeconds(cntt); // specify value for SECONDS here
       labelElement.innerHTML = result = date.toISOString().slice(11, 19);
     }
-    setInterval(updateCnt, 1000);
+
+    function showTime() {
+      const currentDate = new Date();
+      const options = { timeZone: '-04:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const timestamp = currentDate.toLocaleString('en-US', options);
+      let labelElement = document.getElementById("cnT");
+      labelElement.innerHTML = timestamp;
+    }    
+    setInterval(showTime, 1000);
 </script>
 
 
