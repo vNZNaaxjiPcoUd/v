@@ -45,6 +45,7 @@ title: v
 [FEMA 2](https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd&extent=-82.32682651016232,27.848646596083668,-82.28528445693968,27.867617481072877)
 [應支付 A&J紀錄](https://docs.google.com/spreadsheets/d/11tskbLLwhxkHaG4cO3h2cJHI28qNQGH9IqNHByOTSVc)
 [AI openwebui tailscale](https://go.jwint.net/ai)
+[House 費用](https://docs.google.com/spreadsheets/d/1xwCpssbF7kayDeTmRxtms0_ffK9X5eL9Ki36DWxgHVE/edit?usp=sharing)
 
 
 🍀
