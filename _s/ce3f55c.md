@@ -145,22 +145,10 @@ title: v
 
 
 <script>
-    let cntt = 0;
-    function updateCnt(){
-      cntt = cntt + 1;
-      let labelElement = document.getElementById("cnT");
-      //let T1 = new Date(cntt * 1000);
-      //labelElement.innerHTML = cntt.toString();
-      //const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
-      //labelElement.innerHTML = T1.toTimeString('en-US', options);
-      const date = new Date(null);
-      date.setSeconds(cntt); // specify value for SECONDS here
-      labelElement.innerHTML = result = date.toISOString().slice(11, 19);
-    }
-
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
     function showTime() {
       const currentDate = new Date();
-      const options = { timeZone: '-04:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const options = { timeZone: timeZone, hour: '2-digit', minute: '2-digit', second: '2-digit'};
       const timestamp = currentDate.toLocaleString('en-US', options);
       let labelElement = document.getElementById("cnT");
       labelElement.innerHTML = timestamp;
