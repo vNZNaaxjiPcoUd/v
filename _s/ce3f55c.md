@@ -49,7 +49,7 @@ title: v
 [Grok](https://grok.com/)
 [Chatgpt](https://chatgpt.com/)
 [Gemini](https://gemini.google.com/app)
-
+[VKP](https://v.jwint.net/s/pt?vktmp)
 
 🍀
 [Amazon](https://www.amazon.com/)
