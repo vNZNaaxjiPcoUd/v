@@ -142,7 +142,7 @@ title: v
 [TAMPA 衛星圖](https://gis.hcpafl.org/PictometryViewer/?strap=2030215XM000006000090U)
 
 
-<p>Count:<label id="cnT">0</label></p>p>
+<p>Count:<label id="cnT">0</label></p>
 
 <script>
     let cntt = 0;
