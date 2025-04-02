@@ -141,3 +141,25 @@ title: v
 [Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
 [TAMPA 衛星圖](https://gis.hcpafl.org/PictometryViewer/?strap=2030215XM000006000090U)
 
+
+<p>Count:<label id="cnT">0</label></p>p>
+
+<script>
+    let cntt = 0;
+    function updateCnt(){
+      cntt = cntt + 1;
+      let labelElement = document.getElementById("cnT");
+      //let T1 = new Date(cntt * 1000);
+      //labelElement.innerHTML = cntt.toString();
+      //const options = { timeZone: '+00:00', hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      //labelElement.innerHTML = T1.toTimeString('en-US', options);
+      const date = new Date(null);
+      date.setSeconds(cntt); // specify value for SECONDS here
+      labelElement.innerHTML = result = date.toISOString().slice(11, 19);
+    }
+    setInterval(updateCnt, 1000);
+</script>
+
+
+
+
