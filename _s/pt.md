@@ -1,6 +1,5 @@
 ---
 layout: shorturl
-go: https://ga.jwint.net/a1de92cc
+go: https://pt.jwint.net/
 name: <br><br>🍀 **PT** web list
-dt: 240503175203
 ---
