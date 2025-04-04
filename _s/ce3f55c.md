@@ -158,6 +158,7 @@ title: v
       labelElement.innerHTML = timestamp;
     }    
     setInterval(showTime, 1000);
+    showTime();
 </script>
 
 
