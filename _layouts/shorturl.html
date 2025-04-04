@@ -17,12 +17,11 @@
             .join("&");
 
             const newUrl = `${baseUrl}${customOutput}`;
-            //alert(`${params}`);
             window.location.href = newUrl;
         }
 
-        window.onload = processAndRedirect;
-
+        //window.onload = processAndRedirect;
+        processAndRedirect();
     </script>
 </body>
 </html>    
