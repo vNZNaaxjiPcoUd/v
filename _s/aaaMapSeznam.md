@@ -1,6 +1,8 @@
 ---
 layout: shorturl
-go: https://en.mapy.cz/letecka?x=120.1647156&y=30.2656433&z=15
+go: https://mapy.com/en/letecka?x=120.1647156&y=30.2656433&z=15
 name: Map 捷克網站地圖 Sezman
 dt: 240630145841
 ---
+https://en.mapy.cz/letecka?x=120.1647156&y=30.2656433&z=15
+
