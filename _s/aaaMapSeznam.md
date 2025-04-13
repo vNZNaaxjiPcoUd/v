@@ -10,7 +10,7 @@ dt: 240630145841
 - https://mapy.com/en/letecka?l=0&x=120.0955146&y=30.2901315&z=17
 - https://mapy.com/en/letecka?l=0&x=120.1313704&y=30.2593975&z=16
 - https://mapy.com/en/letecka?l=0&x=120.1540297&y=30.1386106&z=15
-- https://mapy.com/en/letecka?l=0&x=120.1890915&y=30.1228731&z=15
+- https://mapy.com/en/letecka?l=0&x=120.1792424&y=30.1287935&z=16
 - https://mapy.com/en/letecka?l=0&x=120.1190161&y=30.2854252&z=18
 - https://mapy.com/en/letecka?l=0&x=120.1746505&y=30.2802832&z=16
 - https://mapy.com/en/letecka?l=0&x=120.1545232&y=30.2432993&z=17
