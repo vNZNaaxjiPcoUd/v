@@ -51,6 +51,7 @@ title: v
 [Chatgpt](https://chatgpt.com/)
 [Gemini](https://gemini.google.com/app)
 [VKP](https://v.jwint.net/s/pt?vktmp)
+[AI 的收集資料](https://github.com/vNZNaaxjiPcoUd/tmp/blob/note/private_doc/AI%20result.md)
 
 🍀
 [Amazon](https://www.amazon.com/)
