@@ -211,7 +211,7 @@ title: v
             labelElement.innerHTML = json['data'];
             cntAdd = 0 ;
         } else {
-            console.log(`match , initStr = ${initStr}, new data = ${json['data']} `);
+            console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
         }
 
       } catch (error) {
