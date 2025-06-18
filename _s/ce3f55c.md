@@ -220,6 +220,9 @@ title: v
     }
     
     function upPage(){
+      if( cntAdd == 0){
+        return;
+      }
       cntt = cntt + cntAdd ;
       //showTime();
       if( !(cntt % 3)){
@@ -232,7 +235,7 @@ title: v
         cntAdd = 0;
       }
       //updateCnt();
-      console.log("cntt");
+      console.log("cntt = ${cntt}");
     }
     Get_initStr();
     setInterval(upPage, 1000);
