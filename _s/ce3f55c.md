@@ -207,7 +207,7 @@ title: v
         if ( initStr != json['data'] ) {
             console.log(`initStr = ${initStr}, new data = ${json['data']} `);     
         } else {
-            console.log(` not match, initStr = ${initStr}, new data = ${json['data']} `);
+            console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
         }
         let labelElement = document.getElementById("siteTime");
         labelElement.innerHTML = json['data'];
