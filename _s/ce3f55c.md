@@ -180,7 +180,7 @@ title: v
     const dsurl = "/ds2";
     async function getSiteTime() {
       try {
-        const response = await fetch(dsurl,{cache:"no-cache"});
+        const response = await fetch(dsurl,{cache:'no-store'});
         if (!response.ok) {
           throw new Error(`Response status: ${response.status}`);
         }
