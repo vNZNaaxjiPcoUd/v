@@ -205,7 +205,8 @@ title: v
         const json = await response.json();
         console.log(json);
         if ( initStr != json['data'] ) {
-            console.log(`initStr = ${initStr}, new data = ${json['data']} `);     
+            console.log(`initStr = ${initStr}, new data = ${json['data']} `);
+            window.location.reload();     
         } else {
             console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
         }
