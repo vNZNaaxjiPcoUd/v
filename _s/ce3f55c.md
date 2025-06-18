@@ -179,7 +179,7 @@ title: v
     let cntt = 1;
     const dsurl = "/ds2";
     let initStr = "";
-    let cntAdd = 1;
+    let nStop = 1;
     async function Get_initStr(){
       try {
         const response = await fetch(dsurl,{cache:'no-store'});
@@ -209,7 +209,7 @@ title: v
             //window.location.reload();     
             let labelElement = document.getElementById("siteTime");
             labelElement.innerHTML = json['data'];
-            cntAdd = 0 ;
+            nStop = 0 ;
         } else {
             console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
         }
@@ -223,7 +223,7 @@ title: v
       if( cntAdd == 0){
         return;
       }
-      cntt = cntt + cntAdd ;
+      cntt = cntt + 1 ;
       //showTime();
       if( !(cntt % 3)){
         getSiteTime();
@@ -232,7 +232,7 @@ title: v
         //cntt = 1 ;
       }
       if( cntt > 300){
-        cntAdd = 0;
+        nStop = 0;
       }
       //updateCnt();
       console.log("cntt = ${cntt}");
