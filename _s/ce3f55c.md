@@ -219,7 +219,7 @@ title: v
     }
     
     function upPage(){
-      if( cntAdd == 0){
+      if( nStop == 0){
         return;
       }
       cntt = cntt + 1 ;
