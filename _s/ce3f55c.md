@@ -178,6 +178,23 @@ title: v
 
     let cntt = 1;
     const dsurl = "/ds2";
+    let initStr = "";
+
+    async function Get_initStr(){
+      try {
+        const response = await fetch(dsurl,{cache:'no-store'});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        console.log(response.status);
+        const json = await response.json();
+        console.log(json);
+        initStr = json['data'];
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
     async function getSiteTime() {
       try {
         const response = await fetch(dsurl,{cache:'no-store'});
@@ -187,6 +204,11 @@ title: v
         console.log(response.status);
         const json = await response.json();
         console.log(json);
+        if ( initStr != json['data'] ) {
+            console.log(`initStr = ${initStr}, new data = ${json['data']} `);     
+        } else {
+            console.log(' not match, initStr = ${initStr}, new data = ${json['data']} `);
+        }
         let labelElement = document.getElementById("siteTime");
         labelElement.innerHTML = json['data'];
       } catch (error) {
@@ -209,7 +231,7 @@ title: v
       //updateCnt();
       console.log("cntt");
     }
-
+    Get_initStr();
     setInterval(upPage, 1000);
 </script>
 
