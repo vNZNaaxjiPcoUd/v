@@ -234,7 +234,7 @@ title: v
         nStop = 0;
       }
       //updateCnt();
-      console.log("cntt = ${cntt}");
+      console.log(`cntt = ${cntt}`);
     }
     Get_initStr();
     setInterval(upPage, 1000);
