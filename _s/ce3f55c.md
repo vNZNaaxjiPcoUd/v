@@ -208,7 +208,7 @@ title: v
             console.log(`initStr = ${initStr}, new data = ${json['data']} `);
             window.location.reload();     
         } else {
-            console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
+            console.log(`match , initStr = ${initStr}, new data = ${json['data']} `);
         }
         let labelElement = document.getElementById("siteTime");
         labelElement.innerHTML = json['data'];
