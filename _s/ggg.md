@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://analytics.google.com/
-name: <br><br>🍀Google Server analysis
+go: https://about.google/products/#google-products
+name: <br><br>🍀Google
 dt: 241112154336
 ---
