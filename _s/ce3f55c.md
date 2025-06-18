@@ -210,7 +210,7 @@ title: v
             console.log(`initStr = ${initStr}, new data = ${json['data']} `);
             window.location.reload();     
         } else {
-            console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
+            console.log(`match , initStr = ${initStr}, new data = ${json['data']} `);
         }
 
       } catch (error) {
