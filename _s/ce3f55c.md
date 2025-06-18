@@ -3,7 +3,7 @@ layout: default
 name: v
 title: v
 ---
-<label id="cnT">00:00:00</label>
+<label id="cnT">00:00:00</label> <label id="siteTime">site time</label><br>
 
 🍀
 [AES](https://j.jwint.net/aes)
@@ -172,4 +172,46 @@ title: v
 
 
 
+
+
+<script>
+
+    const dsurl = "/ds2";
+    async function getSiteTime() {
+      try {
+        const response = await fetch(dsurl,{cache:"no-cache"});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+
+        const json = await response.json();
+        console.log(json);
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = json['data'];
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+
+
+    function refreshiFrame(){
+      document.getElementById('ifdc').contentWindow.location.reload();
+      document.getElementById('ifds').src = document.getElementById('ifds').src
+      console.log(document.getElementById('ifds').src);
+    }
+    
+
+    function upPage(){
+      //showTime();
+      if( !(cntt % 10)){
+        getSiteTime();
+        //getCodeTime();
+      }
+      //updateCnt();
+      //console.log("cntt");
+    }
+
+    setInterval(upPage, 1000);
+</script>
 
