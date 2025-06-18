@@ -190,6 +190,8 @@ title: v
         const json = await response.json();
         console.log(json);
         initStr = json['data'];
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = json['data'];
       } catch (error) {
         console.error(error.message);
       }
@@ -206,10 +208,7 @@ title: v
         console.log(json);
         if ( initStr != json['data'] ) {
             console.log(`initStr = ${initStr}, new data = ${json['data']} `);
-            //window.location.reload();     
-            let labelElement = document.getElementById("siteTime");
-            labelElement.innerHTML = json['data'];
-            nStop = 0 ;
+            window.location.reload();     
         } else {
             console.log(`match, initStr = ${initStr}, new data = ${json['data']} `);
         }
