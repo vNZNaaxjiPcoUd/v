@@ -184,7 +184,7 @@ title: v
         if (!response.ok) {
           throw new Error(`Response status: ${response.status}`);
         }
-
+        console.log(response.status);
         const json = await response.json();
         console.log(json);
         let labelElement = document.getElementById("siteTime");
