@@ -194,20 +194,16 @@ title: v
     }
     
 
-
-    function refreshiFrame(){
-      document.getElementById('ifdc').contentWindow.location.reload();
-      document.getElementById('ifds').src = document.getElementById('ifds').src
-      console.log(document.getElementById('ifds').src);
-    }
-    
+    let cntt = 0;
 
     function upPage(){
+      cntt = cntt + 1 ;
       //showTime();
       if( !(cntt % 3)){
         getSiteTime();
         //getCodeTime();
         console.log("getSiteTime");
+        cntt = 0 ;
       }
       //updateCnt();
       console.log("cntt");
