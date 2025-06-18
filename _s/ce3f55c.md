@@ -3,7 +3,7 @@ layout: default
 name: v
 title: v
 ---
-<label id="cnT">00:00:00</label> <label id="siteTime">site time</label><br>
+<label id="cnT">00:00:00</label> , <label id="siteTime">site time</label><br>
 
 🍀
 [AES](https://j.jwint.net/aes)
@@ -204,12 +204,13 @@ title: v
 
     function upPage(){
       //showTime();
-      if( !(cntt % 10)){
+      if( !(cntt % 3)){
         getSiteTime();
         //getCodeTime();
+        console.log("getSiteTime");
       }
       //updateCnt();
-      //console.log("cntt");
+      console.log("cntt");
     }
 
     setInterval(upPage, 1000);
