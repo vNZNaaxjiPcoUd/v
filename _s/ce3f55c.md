@@ -176,6 +176,7 @@ title: v
 
 <script>
 
+    let cntt = 1;
     const dsurl = "/ds2";
     async function getSiteTime() {
       try {
@@ -194,15 +195,15 @@ title: v
     }
     
 
-    let cntt = 0;
+
 
     function upPage(){
       cntt = cntt + 1 ;
       //showTime();
-      if( !(cntt % 3)){
+      if( !(cntt % 10)){
         getSiteTime();
         //getCodeTime();
-        console.log("getSiteTime");
+        //console.log("getSiteTime");
         cntt = 0 ;
       }
       //updateCnt();
