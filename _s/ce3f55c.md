@@ -197,7 +197,7 @@ title: v
     
     async function getSiteTime() {
       try {
-        const response = await fetch(dsurl,{cache:'no-store'});
+        const response = await fetch(dsurl,{cache:'no-cache'});
         if (!response.ok) {
           throw new Error(`Response status: ${response.status}`);
         }
@@ -226,7 +226,10 @@ title: v
         getSiteTime();
         //getCodeTime();
         //console.log("getSiteTime");
-        cntt = 1 ;
+        //cntt = 1 ;
+      }
+      if( cntt > 300){
+        cntAdd = 0;
       }
       //updateCnt();
       console.log("cntt");
