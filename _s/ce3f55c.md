@@ -176,10 +176,13 @@ title: v
 
 <script>
 
+
     let cntt = 1;
     const dsurl = "/ds2";
     let initStr = "";
     let nStop = 1;
+
+
     async function Get_initStr(){
       try {
         const response = await fetch(dsurl,{cache:'no-store'});
@@ -191,12 +194,19 @@ title: v
         console.log(json);
         initStr = json['data'];
         let labelElement = document.getElementById("siteTime");
-        labelElement.innerHTML = json['data'];
+        labelElement.innerHTML = "^";
       } catch (error) {
         console.error(error.message);
       }
     }
     
+
+    function sleep(s) {
+      let ms = s * 1000;
+      return new Promise(resolve => setTimeout(resolve, ms));   
+    }
+
+
     async function getSiteTime() {
       try {
         const response = await fetch(dsurl,{cache:'no-cache'});
@@ -207,17 +217,20 @@ title: v
         const json = await response.json();
         //console.log(json);
         if ( initStr != json['data'] ) {
-            //console.log(`initStr = ${initStr}, new data = ${json['data']} `);
+            console.log(`initStr = ${initStr}, new data = ${json['data']} `);
+            let labelElement = document.getElementById("siteTime");
+            labelElement.innerHTML = json['data'];
+            await sleep(300);
             window.location.reload();     
         } else {
-            console.log(`match , initStr = ${initStr}, new data = ${json['data']} `);
+            console.log(`match , initStr == new data = ${json['data']} `);
         }
-
       } catch (error) {
         console.error(error.message);
       }
     }
     
+
     function upPage(){
       if( nStop == 0){
         return;
@@ -232,11 +245,17 @@ title: v
       }
       if( cntt > 300){
         nStop = 0;
-      }
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = "_";
+      } 
       //updateCnt();
       console.log(`cntt = ${cntt}`);
     }
+
+
     Get_initStr();
     setInterval(upPage, 1000);
+
+
 </script>
 
