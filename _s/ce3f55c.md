@@ -3,7 +3,7 @@ layout: default
 name: v
 title: v
 ---
-<label id="cnT">00:00:00</label> , <label id="siteTime">site time</label><br>
+<label id="cnT">00:00:00</label> <label id="siteTime">time</label><br>
 
 🍀
 [AES](https://j.jwint.net/aes)
