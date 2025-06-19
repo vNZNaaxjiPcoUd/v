@@ -220,6 +220,7 @@ title: v
             console.log(`initStr = ${initStr}, new data = ${json['data']} `);
             let labelElement = document.getElementById("siteTime");
             labelElement.innerHTML = json['data'];
+            nStop = 0;
             await sleep(300);
             window.location.reload();     
         } else {
