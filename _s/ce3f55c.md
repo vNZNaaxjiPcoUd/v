@@ -140,7 +140,7 @@ title: v
 🍀 
 **Chrome** 》》 
 [Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
-[Chrome dns configuration](chrome://net-internals/#dns)
+[Chrome dns cache clean](chrome://net-internals/#dns)
 
 🍀 
 [唐詩三百首](https://share.jwint.net/doc/唐詩三百首)[-行楷](https://share.jwint.net/doc/唐詩三百首.pdf)[-瘦金體](https://share.jwint.net/doc/唐詩三百首_瘦金體.pdf)
