@@ -172,7 +172,7 @@ title: v
       labelElement.innerHTML = timestamp;
     }    
 
-    
+
     setInterval(showTime, 1000);
     showTime();
 </script>
@@ -206,7 +206,7 @@ title: v
         const timestamp = currentDate.toLocaleString('en-US', options);
 
         let labelElement = document.getElementById("siteTime");
-        labelElement.innerHTML = "^ "+timestamp;
+        labelElement.innerHTML = " ^"+timestamp;
       } catch (error) {
         console.error(error.message);
       }
