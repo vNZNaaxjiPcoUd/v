@@ -162,6 +162,8 @@ title: v
 
 <script>
     const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+
     function showTime() {
       const currentDate = new Date();
       const options = { timeZone: timeZone, hour: '2-digit', minute: '2-digit', second: '2-digit'};
@@ -169,6 +171,8 @@ title: v
       let labelElement = document.getElementById("cnT");
       labelElement.innerHTML = timestamp;
     }    
+
+    
     setInterval(showTime, 1000);
     showTime();
 </script>
