@@ -196,8 +196,13 @@ title: v
         const json = await response.json();
         console.log(json);
         initStr = json['data'];
+        
+        const currentDate = new Date();
+        const options = { timeZone: timeZone, hour: '2-digit', minute: '2-digit', second: '2-digit'};
+        const timestamp = currentDate.toLocaleString('en-US', options);
+
         let labelElement = document.getElementById("siteTime");
-        labelElement.innerHTML = "^";
+        labelElement.innerHTML = "^ "+timestamp;
       } catch (error) {
         console.error(error.message);
       }
