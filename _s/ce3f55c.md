@@ -198,7 +198,7 @@ title: v
         initStr = json['data'];
         
         const currentDate = new Date();
-        const options = { timeZone: timeZone, hour: '2-digit', minute: '2-digit', second: '2-digit'};
+        const options = { timeZone: timeZone, minute: '2-digit', second: '2-digit'};
         const timestamp = currentDate.toLocaleString('en-US', options);
 
         let labelElement = document.getElementById("siteTime");
