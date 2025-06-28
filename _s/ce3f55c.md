@@ -28,7 +28,7 @@ title: v
 🍀
 [Share doc](https://go.jwint.net/doclist)--[add new one](https://go.jwint.net/abA-doc-create)--[uu](https://go.jwint.net/share-update-check)
 [VV update](https://go.jwint.net/zzz240705225721)--[add new go shortcut](https://vnzn.jwint.net/v/blob/etc/_s/zzz.md)--[uu](https://go.jwint.net/dwzgxqr)
-[Gh private doc](https://vnzn.jwint.net/tmp/tree/note/private_doc)--[private link collection](https://vnzn.jwint.net/tmp/blob/note/private_doc/Quick%20Save%20Link.md)--[public link collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
+[Gh private doc](https://vnzn.jwint.net/privatee788c23d1c739241ad977bc5cb3344/tree/etc/文章收集)--[tmp collection](https://vnzn.jwint.net/tmp/blob/note/README.md)--[public link collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
 [Wodeku](https://go.jwint.net/wodegerenjilu)
 [JJ pt](https://go.jwint.net/jjnote)
 [Grace pt](https://go.jwint.net/gtnote)
