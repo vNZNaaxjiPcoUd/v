@@ -45,7 +45,7 @@ title: v
 [Ollama test remote](https://ai.jwint.net/ai/) -[tailscale](http://100.97.53.114:11434/) -[local](http://127.0.0.1:11434/)
 [FEMA flood map](https://msc.fema.gov/portal/search?AddressQuery=2727%20Brookville%20Dr%2C%20Valrico%2C%20FL%2033596)
 [FEMA 2](https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd&extent=-82.32682651016232,27.848646596083668,-82.28528445693968,27.867617481072877)
-[應支付 A&J紀錄](https://docs.google.com/spreadsheets/d/11tskbLLwhxkHaG4cO3h2cJHI28qNQGH9IqNHByOTSVc)
+[美国生活支出记账本 by pu](https://docs.google.com/spreadsheets/d/1A593KqTtg6HwNR50y3e8V8284w5QdpB-ISwBMgS0llM/edit?gid=757963820#gid=757963820)
 [AI openwebui tailscale](https://go.jwint.net/ai)
 [House 費用](https://docs.google.com/spreadsheets/d/1xwCpssbF7kayDeTmRxtms0_ffK9X5eL9Ki36DWxgHVE/edit?usp=sharing)
 [VKP](https://v.jwint.net/s/pt?vktmp)
