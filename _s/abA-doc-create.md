@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://vnzn.jwint.net/Notes/blob/www/doc/L6fb069cfa.md
+go: https://vnzn.jwint.net/Notes/blob/www/doc/zzz.md
 name: 🔅 add doc
 ---
 
