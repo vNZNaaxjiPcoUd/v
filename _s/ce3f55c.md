@@ -151,8 +151,11 @@ title: v
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
+🍀
+{% assign pp = site.s | sort_natural: "title" %}
+{% for p in pp %}{% if p.title %}[{{ p.title }}  ]({{ p.url }}) {% endif %}{% endfor %}
 
-
+🍀
 <script>
     const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
 
