@@ -159,7 +159,7 @@ title: v
 {% assign pp = site.s | sort_natural: "name" %}
 <table  cellspacing="1" cellpadding="1" >
 {% tablerow p in pp cols:3 %}
-  <a href="{{ p.url }}">{{ p.title }}</a>
+  <a href="{{ p.url }}">{{ p.name }}</a>
 {% endtablerow %}
 </table>
 
