@@ -153,6 +153,12 @@ title: v
 
 🍀
 {% assign pp = site.s | sort_natural: "name" %}
+{% for p1 in pp %}{% if p1.name %}[🔅{{ p1.name }} ]({{ p1.url }}) {% endif %}{% endfor %}
+
+
+
+🍀
+{% assign pp = site.s | sort_natural: "name" %}
 {% for p1 in pp %}{% if p1.name %}
 [🔅{{ p1.name }} ]({{ p1.url }}) 
 {% endif %}{% endfor %}
