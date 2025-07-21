@@ -155,7 +155,13 @@ title: v
 {% assign pp = site.s | sort_natural: "name" %}
 {% for p1 in pp %}{% if p1.name %}[🔅{{ p1.name }} ]({{ p1.url }}) {% endif %}{% endfor %}
 
-
+🍀
+{% assign pp = site.s | sort_natural: "name" %}
+<table  cellspacing="1" cellpadding="1" >
+{% tablerow p in pp cols:3 %}
+  <a href="{{ p.url }}">{{ p.title }}</a>
+{% endtablerow %}
+</table>
 
 🍀
 {% assign pp = site.s | sort_natural: "name" %}
