@@ -27,9 +27,9 @@ title: v
 [Youtube popo](https://www.youtube.com/@popo12138)
 
 🍀
-[Share doc](https://v.jwint.net/s/zzz250807150307)--[add](https://v.jwint.net/s/zzz250807150101)
-[VV update](https://v.jwint.net/s/zzz240705225721)--[add new go shortcut](https://v.jwint.net/s/zzz250807141615)--[uu](https://go.jwint.net/dwzgxqr)
-[Gh private doc](https://v.jwint.net/s/zzz250807140751)--[tmp collection](https://v.jwint.net/s/zzz250807141024)--[public link collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
+[Share_doc_list](https://v.jwint.net/s/zzz250807150307)--[add](https://v.jwint.net/s/zzz250807150101)
+[VV_update](https://v.jwint.net/s/zzz240705225721)--[add_shortcut](https://v.jwint.net/s/zzz250807141615)--[uu](https://go.jwint.net/dwzgxqr)
+[Gh_private_doc](https://v.jwint.net/s/zzz250807140751)--[tmp_collection](https://v.jwint.net/s/zzz250807141024)--[public_link_collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
 [Wodeku](https://v.jwint.net/s/wodegerenjilu)
 [Old share doc](https://v.jwint.net/s/doclist)--[add new one](https://v.jwint.net/s/abA-doc-create)--[uu](https://go.jwint.net/share-update-check)
 [JJ pt](https://go.jwint.net/jjnote)
