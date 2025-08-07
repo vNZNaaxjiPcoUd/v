@@ -27,10 +27,10 @@ title: v
 [Youtube popo](https://www.youtube.com/@popo12138)
 
 🍀
-[Share doc](https://v.jwint.net/s/ce3f55c/doclist)--[add new one](https://go.jwint.net/abA-doc-create)--[uu](https://go.jwint.net/share-update-check)
-[VV update](https://v.jwint.net/s/ce3f55c/zzz240705225721)--[add new go shortcut](https://vnzn.jwint.net/v/blob/etc/_s/zzz.md)--[uu](https://go.jwint.net/dwzgxqr)
-[Gh private doc](https://vnzn.jwint.net/privatee788c23d1c739241ad977bc5cb3344/tree/etc/文章收集)--[tmp collection](https://vnzn.jwint.net/tmp/blob/note/README.md)--[public link collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
-[Wodeku](https://go.jwint.net/wodegerenjilu)
+[Share doc](https://v.jwint.net/s/doclist)--[add new one](https://go.jwint.net/abA-doc-create)--[uu](https://go.jwint.net/share-update-check)
+[VV update](https://v.jwint.net/s/zzz240705225721)--[add new go shortcut](https://vnzn.jwint.net/v/blob/etc/_s/zzz.md)--[uu](https://go.jwint.net/dwzgxqr)
+[Gh private doc](https://v.jwint.net/s/zzz250807140751)--[tmp collection](https://v.jwint.net/s/zzz250807141024)--[public link collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
+[Wodeku](https://v.jwint.net/s/wodegerenjilu)
 [JJ pt](https://go.jwint.net/jjnote)
 [Grace pt](https://go.jwint.net/gtnote)
 [地震直播](https://goo.gl/mcGmDE)
