@@ -27,8 +27,8 @@ title: v
 [Youtube popo](https://www.youtube.com/@popo12138)
 
 🍀
-[Share doc](https://go.jwint.net/doclist)--[add new one](https://go.jwint.net/abA-doc-create)--[uu](https://go.jwint.net/share-update-check)
-[VV update](https://go.jwint.net/zzz240705225721)--[add new go shortcut](https://vnzn.jwint.net/v/blob/etc/_s/zzz.md)--[uu](https://go.jwint.net/dwzgxqr)
+[Share doc](https://v.jwint.net/s/ce3f55c/doclist)--[add new one](https://go.jwint.net/abA-doc-create)--[uu](https://go.jwint.net/share-update-check)
+[VV update](https://v.jwint.net/s/ce3f55c/zzz240705225721)--[add new go shortcut](https://vnzn.jwint.net/v/blob/etc/_s/zzz.md)--[uu](https://go.jwint.net/dwzgxqr)
 [Gh private doc](https://vnzn.jwint.net/privatee788c23d1c739241ad977bc5cb3344/tree/etc/文章收集)--[tmp collection](https://vnzn.jwint.net/tmp/blob/note/README.md)--[public link collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
 [Wodeku](https://go.jwint.net/wodegerenjilu)
 [JJ pt](https://go.jwint.net/jjnote)
