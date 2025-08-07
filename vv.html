@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <title>Go</title>
+</head>
+<body>
+    <p id="message"></p>
+
+    <script>
+        function processAndRedirect() {
+            const params = new URLSearchParams(window.location.search);
+            const baseUrl = "https://v.jwint.net/s/ce3f55c";
+
+            const customOutput = Array.from(params)
+            .map(([key, value]) => value ? `${key}=${value}` : key)
+            .join("&");
+
+            const newUrl = `${baseUrl}${customOutput}`;
+            window.location.href = newUrl;
+        }
+
+        //window.onload = processAndRedirect;
+        processAndRedirect();
+    </script>
+</body>
+</html>    
