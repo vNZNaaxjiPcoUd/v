@@ -6,6 +6,7 @@ title: v
 <label id="cnT">00:00:00</label> <label id="siteTime">time</label><br>
 
 🍀
+[🔹9826 費用](https://go.jwint.net/zzz250809143011)
 [🔹AES](https://j.jwint.net/aes)
 [🔹MD5](https://j.jwint.net/md5.html)
 [🔹Calculate](https://cal.jwint.net/)
@@ -55,26 +56,7 @@ title: v
 [瘦金體](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
 
 Temp : 
-[LocalLlamaTest](https://100.97.53.114:11434/api/tags)
-[House table](https://docs.google.com/spreadsheets/d/1DGK7BvLfQ-ZzRzhVzGGzORa_UvL8lOFaIjDIMlpv9II/)
-[Talbe with agent](https://go.jwint.net/zhouse)
-[CDD Zone](https://gis2017-01-10t133755357z-hillsborough.opendata.arcgis.com/datasets/0bdb0b611a6046bfbb2b487b61273eab/explore?location=27.853485%2C-82.238329%2C13.41)
-[web collection](https://vnzn.jwint.net/Notes/blob/www/doc/web_col.md)
-[🔹Ollama test remote](https://ai.jwint.net/ai/)
-[tailscale](http://100.97.53.114:11434/)
-[local](http://127.0.0.1:11434/)
-[FEMA flood map](https://msc.fema.gov/portal/search?AddressQuery=2727%20Brookville%20Dr%2C%20Valrico%2C%20FL%2033596)
-[FEMA 2](https://hazards-fema.maps.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd&extent=-82.32682651016232,27.848646596083668,-82.28528445693968,27.867617481072877)
-[美国生活支出记账本 by pu](https://docs.google.com/spreadsheets/d/1A593KqTtg6HwNR50y3e8V8284w5QdpB-ISwBMgS0llM/edit?gid=757963820#gid=757963820)
-[AI openwebui tailscale](https://go.jwint.net/ai)
-[House 費用](https://docs.google.com/spreadsheets/d/1xwCpssbF7kayDeTmRxtms0_ffK9X5eL9Ki36DWxgHVE/edit?usp=sharing)
-[VKP](https://v.jwint.net/s/pt?vktmp)
-[AI 的收集資料](https://vnzn.jwint.net/tmp/blob/note/private_doc/AI%20result.md)
-[加短網址](https://go.jwint.net/url)
-[服務器運作](https://go.jwint.net/srvoperstatus)
-[Hulu](https://www.hulu.com/content?tab=tv)
-[Pluto tv](https://pluto.tv/en/live-tv/5268abcd0ce20a8472000114)
-[TAMPA 衛星圖](https://gis.hcpafl.org/PictometryViewer/?strap=2030215XM000006000090U)
+
 
 🍀
 [Amazon](https://www.amazon.com/)
@@ -107,7 +89,7 @@ Temp :
 
 🍀
 {% assign pp = site.s | sort_natural: "name" %}
-{% for p1 in pp %}{% if p1.name %}[🔅{{ p1.name }} ]({{ p1.url }}) {% endif %}{% endfor %}
+{% for p1 in pp %}{% if p1.name %}[🔹{{ p1.name }} ]({{ p1.url }}) {% endif %}{% endfor %}
 
 🍀
 {% assign pp = site.s | sort_natural: "name" %}
@@ -120,7 +102,7 @@ Temp :
 🍀
 {% assign pp = site.s | sort_natural: "name" %}
 {% for p1 in pp %}{% if p1.name %}
-[🔅{{ p1.name }} ]({{ p1.url }}) 
+[🔹{{ p1.name }} ]({{ p1.url }}) 
 {% endif %}{% endfor %}
 
 🍀
