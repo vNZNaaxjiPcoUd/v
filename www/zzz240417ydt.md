@@ -1,0 +1,5 @@
+---
+layout: shorturl
+go: https://www.google.com.tw/maps/@23.6287665,120.9358898,7.57z?entry=ttu
+name: 地圖
+---
