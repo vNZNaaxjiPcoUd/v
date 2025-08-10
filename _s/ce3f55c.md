@@ -83,7 +83,7 @@ Temp :
 
 
 🍀
-{% for p in site.s %}[. {{ p.name }} ]({{ p.url }}) {% endfor %}
+{% for p in site.s %}[。{{ p.name }} ]({{ p.url }}) {% endfor %}
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
