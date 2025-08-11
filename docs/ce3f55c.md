@@ -55,8 +55,6 @@ title: vv
 [行楷](https://share.jwint.net/doc/宋詞三百首.pdf)
 [瘦金體](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
 
-Temp : 
-
 
 🍀
 [Amazon](https://www.amazon.com/)
@@ -85,7 +83,7 @@ Temp :
 🍀
 {% for p in site.pages %}{% if p.what %}[。{{ p.what }} ]({{ p.url }}) {% endif %}{% endfor %}
 
-{{ site.time | date: "%m-%d %H:%M:%S" }}
+# {{ site.time | date: "%m-%d %H:%M:%S" }}
 
 🍀
 {% assign pp = site.pages | sort_natural: "what" %}
