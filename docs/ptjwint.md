@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/jwintprwp
-name: JWINT
+what: JWINT
 dt: 240410135837
 ---

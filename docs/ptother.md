@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/otherprwp
-name: Other
+what: Other
 dt: 240410145139
 ---

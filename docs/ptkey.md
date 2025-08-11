@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/keyprwp
-name: Encrypted Key
+what: Encrypted Key
 dt: 240410145935
 ---

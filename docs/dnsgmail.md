@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://mail.google.com/mail/
-name: Gmail
+what: Gmail
 dt: 240531105329
 ---

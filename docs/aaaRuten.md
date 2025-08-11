@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.ruten.com.tw/
-name: Ruten
+what: Ruten
 dt: 241110224512
 ---

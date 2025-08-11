@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/jpaprwp
-name: jpa note
+what: jpa note
 dt: 240424153850
 ---

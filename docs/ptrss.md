@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/rssprwp
-name: RSS
+what: RSS
 dt: 240410143123
 ---

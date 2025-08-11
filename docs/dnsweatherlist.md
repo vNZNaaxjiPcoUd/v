@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://d.jwint.net/Weather
-name: weatherlist
+what: weatherlist
 dt: 240531123851
 ---

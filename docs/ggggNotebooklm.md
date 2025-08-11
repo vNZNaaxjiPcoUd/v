@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://notebooklm.google.com/
-name: Notebook lm
+what: Notebook lm
 dt: 241112155022
 ---

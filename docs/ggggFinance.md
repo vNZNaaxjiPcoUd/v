@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.google.com/finance/portfolio/
-name: Finance
+what: Finance
 dt: 241112154715
 ---

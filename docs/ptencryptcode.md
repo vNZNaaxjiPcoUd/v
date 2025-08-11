@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/encryptcodeprwp
-name: EncryptCode
+what: EncryptCode
 dt: 240410140801
 ---

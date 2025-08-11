@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://share.jwint.net/doc/seqD
-name: SeqD
+what: SeqD
 dt: 240531114542
 ---

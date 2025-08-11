@@ -1,7 +1,7 @@
 ---
 layout: shorturl
 go: https://mapy.com/en/letecka?l=0&x=120.1245039&y=30.3110941&z=15
-name: Map 捷克網站地圖 Sezman
+what: Map 捷克網站地圖 Sezman
 dt: 240630145841
 ---
 - https://mapy.com/en/letecka?l=0&x=120.1245039&y=30.3110941&z=15

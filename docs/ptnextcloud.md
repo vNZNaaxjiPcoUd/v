@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/nextcloudprwp
-name: Nextcloud
+what: Nextcloud
 dt: 240410135539
 ---

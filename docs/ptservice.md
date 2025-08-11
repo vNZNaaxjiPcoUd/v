@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/serviceprwp
-name: Jwint service
+what: Jwint service
 dt: 240410135735
 ---

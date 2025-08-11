@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://go.jwint.net/dnsshoplist
-name: Shop
+what: Shop
 dt: 241104093708
 ---

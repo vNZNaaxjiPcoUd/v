@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/jsprwp
-name: Javascript
+what: Javascript
 dt: 240410142729
 ---

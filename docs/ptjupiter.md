@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/jupiterprwp
-name: Jupiter
+what: Jupiter
 dt: 240410143523
 ---

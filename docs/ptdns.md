@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/dnsprwp
-name: DNS
+what: DNS
 dt: 240410144103
 ---

@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://p.jwint.net/todoprwp
-name: todo
+what: todo
 dt: 240531115827
 ---

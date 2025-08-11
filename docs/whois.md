@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://lookup.icann.org/en
-name: WhoIS
+what: WhoIS
 dt: 250710143420
 ---

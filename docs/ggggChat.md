@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://mail.google.com/chat/
-name: Chat
+what: Chat
 dt: 241112154609
 ---

@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/stockprwp
-name: Stock info
+what: Stock info
 dt: 240410142954
 ---

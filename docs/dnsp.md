@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com
-name: pt
+what: pt
 dt: 240531125659
 ---

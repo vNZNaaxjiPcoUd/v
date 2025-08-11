@@ -1,7 +1,7 @@
 ---
 layout: shorturl
 go: https://github.com/vNZNaaxjiPcoUd//Notes/tree/www/doc
-name: 🔅 add doc
+what: 🔅 add doc
 ---
 
 /Notes/new/www/doc

@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/page1prwp
-name: Word collect
+what: Word collect
 dt: 240410150218
 ---

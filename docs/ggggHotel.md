@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.google.com/travel/search
-name: Hotel
+what: Hotel
 dt: 241112154816
 ---

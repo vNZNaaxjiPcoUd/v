@@ -1,6 +1,6 @@
 ---
 layout: default
-name: v
+what: v
 title: v
 ---
 <label id="cnT">00:00:00</label> <label id="siteTime">time</label><br>

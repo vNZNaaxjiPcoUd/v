@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://contacts.google.com/
-name: Contact
+what: Contact
 dt: 241112154622
 ---

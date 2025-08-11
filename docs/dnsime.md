@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.google.com/inputtools/try/
-name: IME type chinese
+what: IME type chinese
 dt: 240410093632
 ---

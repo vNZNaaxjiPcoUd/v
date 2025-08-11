@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/dellprwp
-name: Dell info
+what: Dell info
 dt: 240410150846
 ---

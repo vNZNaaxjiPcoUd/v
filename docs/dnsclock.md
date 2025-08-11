@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.time.gov/
-name: Now Time Clock
+what: Now Time Clock
 dt: 240531101935
 ---

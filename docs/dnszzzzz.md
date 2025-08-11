@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://go.jwint.net/dnsyoutubelist
-name: 🔅
+what: 🔅
 dt: 240531124241
 ---

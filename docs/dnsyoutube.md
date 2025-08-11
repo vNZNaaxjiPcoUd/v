@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.youtube.com/
-name: youtube
+what: youtube
 dt: 240531124105
 ---

@@ -1,5 +1,5 @@
 ---
 layout: shorturl
 go: https://vnzn.jwint.net/
-name: Repo vNZN redir
+what: Repo vNZN redir
 ---

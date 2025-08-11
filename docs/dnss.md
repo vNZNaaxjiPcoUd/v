@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://share.jwint.net
-name: share
+what: share
 dt: 240531125558
 ---

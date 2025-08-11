@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/androidprwp
-name: Android
+what: Android
 dt: 240410132506
 ---

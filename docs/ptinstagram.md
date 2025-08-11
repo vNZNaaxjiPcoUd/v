@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/instgramprwp
-name: Instagram
+what: Instagram
 dt: 240410132609
 ---

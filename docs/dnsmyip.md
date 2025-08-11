@@ -1,7 +1,7 @@
 ---
 layout: shorturl
 go: http://share.jwint.net/doc/myip
-name: 取得外部ＩＰ
+what: 取得外部ＩＰ
 ---
 https://domains.google.com/checkip
 

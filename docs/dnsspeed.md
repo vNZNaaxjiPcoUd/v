@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://fast.com/
-name: speed test
+what: speed test
 dt: 240531115110
 ---

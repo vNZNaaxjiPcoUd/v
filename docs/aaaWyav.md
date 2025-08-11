@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://d.jwint.net/sdfkjsdkljds
-name: Wyav
+what: Wyav
 dt: 241102130932
 ---

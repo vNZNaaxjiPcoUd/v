@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://go.jwint.net/translate
-name: Translate
+what: Translate
 dt: 241112155101
 ---

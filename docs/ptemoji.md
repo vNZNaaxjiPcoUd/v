@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/emojiprwp
-name: Emoji
+what: Emoji
 dt: 240410143033
 ---

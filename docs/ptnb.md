@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/nbprwp
-name: NB
+what: NB
 dt: 240410144714
 ---

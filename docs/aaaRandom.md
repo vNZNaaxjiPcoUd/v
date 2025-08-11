@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://d.jwint.net/AES
-name: Random number
+what: Random number
 dt: 241112153932
 ---

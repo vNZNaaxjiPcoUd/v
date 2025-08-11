@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://d.jwint.net/xbook
-name: xBook
+what: xBook
 dt: 241112153128
 ---

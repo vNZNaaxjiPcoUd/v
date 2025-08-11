@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/codingprwp
-name: Code info
+what: Code info
 dt: 240410150746
 ---

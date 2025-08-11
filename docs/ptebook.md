@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.protectedtext.com/ebookprwp
-name: Ebook
+what: Ebook
 dt: 240410131720
 ---

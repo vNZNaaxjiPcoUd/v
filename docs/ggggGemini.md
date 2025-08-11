@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://gemini.google.com/app
-name: Gemini
+what: Gemini
 dt: 241112154801
 ---

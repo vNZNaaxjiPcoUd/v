@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://share.jwint.net/doc/Weather.html
-name: Weather
+what: Weather
 dt: 241021050016
 ---

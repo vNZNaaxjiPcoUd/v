@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://github.com/
-name: github
+what: github
 dt: 240531105229
 ---

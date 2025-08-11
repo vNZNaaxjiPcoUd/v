@@ -1,7 +1,7 @@
 ---
 layout: shorturl
 go: https://d.jwint.net/movie%20list
-name: movie
+what: movie
 dt: 240410094023
 ---
 https://www.yfsp.tv
