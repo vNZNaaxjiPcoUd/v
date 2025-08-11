@@ -23,7 +23,7 @@ title: vv
 [uu](https://go.jwint.net/dwzgxqr)
 [private](https://v.jwint.net/zzz250807140751)
 [tmp_share](https://v.jwint.net/zzz250807141024)
-[public_link_collection](https://vnzn.jwint.net/v/blob/etc/_s/zzz240420121380.md)
+[tmp link collect](https://vnzn.jwint.net/hsakjsdkjfwerjsdfhsdfkjsaf/blob/ver22/docs/tmp%20link%20collect.md)
 [🔹iCloud](https://www.icloud.com/mail/)
 [🔹ime](https://www.google.com/inputtools/try/)
 [🔹Keep](https://keep.google.com/u/3/)
