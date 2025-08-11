@@ -83,7 +83,7 @@ Temp :
 
 
 🍀
-{% for p in site.pages %}[。{{ p.name }} ]({{ p.url }}) {% endfor %}
+{% for p in site.pages %}[。{{ p.title }} ]({{ p.url }}) {% endfor %}
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
