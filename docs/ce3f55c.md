@@ -88,21 +88,21 @@ Temp :
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
 🍀
-{% assign pp = site.pages | sort_natural: "name" %}
-{% for p1 in pp %}{% if p1.name %}[。{{ p1.name }} ]({{ p1.url }}) {% endif %}{% endfor %}
+{% assign pp = site.pages | sort_natural: "what" %}
+{% for p1 in pp %}{% if p1.what %}[。{{ p1.what }} ]({{ p1.url }}) {% endif %}{% endfor %}
 
 🍀
-{% assign pp = site.pages | sort_natural: "name" %}
+{% assign pp = site.pages | sort_natural: "what" %}
 <table  cellspacing="1" cellpadding="1" >
 {% tablerow p in pp cols:3 %}
-  <a href="{{ p.url }}">{{ p.name }}</a>
+  <a href="{{ p.url }}">{{ what }}</a>
 {% endtablerow %}
 </table>
 
 🍀
-{% assign pp = site.pages | sort_natural: "name" %}
-{% for p1 in pp %}{% if p1.name %}
-[🔹{{ p1.name }} ]({{ p1.url }}) 
+{% assign pp = site.pages | sort_natural: "what" %}
+{% for p1 in pp %}{% if p1.what %}
+[🔹{{ p1.what }} ]({{ p1.url }}) 
 {% endif %}{% endfor %}
 
 🍀
