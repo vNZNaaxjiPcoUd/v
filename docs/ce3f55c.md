@@ -83,13 +83,13 @@ Temp :
 
 
 🍀
-{% for p in site.pages %}[。{{ p.what }} ]({{ p.url }}) {% endfor %}
+{% for p in site.pages %}{% if p1.what %}[。{{ p1.what }} ]({{ p1.url }}) {% endif %}{% endfor %}
 
 {{ site.time | date: "%m-%d %H:%M:%S" }}
 
 🍀
 {% assign pp = site.pages | sort_natural: "what" %}
-{% for p1 in pp %}{% if p1.what %}[。{{ p1.what }} ]({{ p1.url }}) {% endif %}{% endfor %}
+{% for p1 in pp %}{% if p1.what %}[。{{ p1.what }} ]({{ p1.url }}){% endif %}{% endfor %}
 
 🍀
 {% assign pp = site.pages | sort_natural: "what" %}
