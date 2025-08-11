@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: http://www.jwint.net
-what: Test3
+what: 🔅
 dt: 250810215454
 ---
