@@ -93,17 +93,18 @@ title: vv
 
 🍀
 {% assign pp = site.pages | sort_natural: "what" %}
+{% for p1 in pp %}{% if p1.what %}
+[🔹{{ p1.what }} ]({{ p1.url }}) 
+{% endif %}{% endfor %}
+
+🍀
+{% assign pp = site.pages | sort_natural: "what" %}
 <table  cellspacing="1" cellpadding="1" >
 {% tablerow p in pp cols:3 %}
   <a href="{{ p.url }}">{{ p.what }}</a>
 {% endtablerow %}
 </table>
 
-🍀
-{% assign pp = site.pages | sort_natural: "what" %}
-{% for p1 in pp %}{% if p1.what %}
-[🔹{{ p1.what }} ]({{ p1.url }}) 
-{% endif %}{% endfor %}
 
 🍀
 
