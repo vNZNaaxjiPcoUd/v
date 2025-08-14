@@ -56,11 +56,7 @@ title: vv
 {% for p1 in pp %}{% if p1.what %}[。{{ p1.what }} ]({{ p1.url }}){% endif %}{% endfor %}
 --->
 
-🍀
-{% assign pp = site.pages | sort_natural: "what" %}
-{% for p1 in pp %}{% if p1.what %}
-[🔹{{ p1.what }} ]({{ p1.url }}) 
-{% endif %}{% endfor %}
+
 <!---
 🍀
 {% assign pp = site.pages | sort_natural: "what" %}
@@ -251,6 +247,11 @@ title: vv
 [Chrome netflix setting](chrome://settings/content/all?searchSubpage=netflix)
 [Chrome dns cache clean](chrome://net-internals/#dns)
 
+🍀
+{% assign pp = site.pages | sort_natural: "what" %}
+{% for p1 in pp %}{% if p1.what %}
+[🔹{{ p1.what }} ]({{ p1.url }}) 
+{% endif %}{% endfor %}
 
 🍀 
 
