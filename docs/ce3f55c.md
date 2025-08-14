@@ -35,7 +35,7 @@ title: vv
 [Grace](https://go.jwint.net/gtnote)
 [vkp](https://vkp.jwint.net)
 [backup](https://go.jwint.net/zzz241113114345)
-[Qn](https://qn.jwint.net)
+[qn](https://qn.jwint.net)
 [🔹QRcode](https://enc.jwint.net/online-tools/qr-code/generator/)
 [🔹Translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
 
