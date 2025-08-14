@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://pt.jwint.net/aiprwp
-what: AI pt
+what: Prompt of AI collection
 ---
 
