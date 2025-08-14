@@ -1,6 +1,6 @@
 ---
 layout: shorturl
 go: https://www.amazon.com/
-what: Amazon
+what: aab Amazon
 dt: 250814145903
 ---
