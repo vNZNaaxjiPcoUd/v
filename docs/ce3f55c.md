@@ -30,11 +30,6 @@ title: vv
 [🔹Markdown](https://md.jwint.net)
 [🔹Map](https://www.google.com.tw/maps/@27.8610568,-82.3135908,13z?authuser=3)
 [🔹MapTW](https://www.google.com.tw/maps/@25.0983887,121.7524704,15z?authuser=3)
-[🔹Movie](https://d.jwint.net/movie%20list)
-[add](https://go.jwint.net/zzz240408144224)
-[🔹News](https://d.jwint.net/NewsList)
-[add](https://go.jwint.net/zzz240430141619)
-[🔹Outlook](https://outlook.live.com/mail/0/)
 [🔹Photo](https://photos.google.com/u/2/)
 [🔹pt JJ](https://go.jwint.net/jjnote)
 [Grace](https://go.jwint.net/gtnote)
@@ -42,9 +37,7 @@ title: vv
 [backup](https://go.jwint.net/zzz241113114345)
 [Qn](https://qn.jwint.net)
 [🔹QRcode](https://enc.jwint.net/online-tools/qr-code/generator/)
-[🔹Shop](https://go.jwint.net/dnsshoplist)
 [🔹Translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
-[🔹Weather](https://go.jwint.net/dnsweatherlist)
 
 
 
@@ -61,6 +54,7 @@ title: vv
 [Netflix](https://www.netflix.com/)
 [Notion](https://www.notion.so/)
 [Office365](https://www.microsoft365.com/)
+[Outlook](https://outlook.live.com/mail/0/)
 [Reddit](https://www.reddit.com/)
 [Remote job](https://go.jwint.net/zzz240514100810)
 [Spotify](https://open.spotify.com/)
