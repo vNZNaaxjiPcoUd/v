@@ -31,7 +31,7 @@ title: vv
 [🔹Map](https://www.google.com.tw/maps/@27.8610568,-82.3135908,13z?authuser=3)
 [🔹MapTW](https://www.google.com.tw/maps/@25.0983887,121.7524704,15z?authuser=3)
 [🔹Photo](https://photos.google.com/u/2/)
-[🔹pt JJ](https://go.jwint.net/jjnote)
+[🔹PT JJ](https://go.jwint.net/jjnote)
 [Grace](https://go.jwint.net/gtnote)
 [vkp](https://vkp.jwint.net)
 [backup](https://go.jwint.net/zzz241113114345)
