@@ -24,8 +24,6 @@ title: vv
 [private](https://v.jwint.net/zzz250807140751)
 [tmp_share](https://v.jwint.net/zzz250807141024)
 [tmp link collect](https://vnzn.jwint.net/hsakjsdkjfwerjsdfhsdfkjsaf/blob/ver22/docs/tmp%20link%20collect.md)
-[🔹House Accounting](https://v.jwint.net/zzz250711003501.html)
-[🔹iCloud](https://www.icloud.com/mail/)
 [🔹ime](https://www.google.com/inputtools/try/)
 [🔹Keep](https://keep.google.com/u/3/)
 [🔹Mail](https://mail.google.com/mail/u/1/)
@@ -47,14 +45,7 @@ title: vv
 [🔹Shop](https://go.jwint.net/dnsshoplist)
 [🔹Translate](https://translate.google.com/?source=gtx&sl=en&tl=zh-TW&op=translate)
 [🔹Weather](https://go.jwint.net/dnsweatherlist)
-[🔹Youtube popo](https://www.youtube.com/@popo12138)
-[🔹地震直播](https://goo.gl/mcGmDE)
-[🔹唐詩三百首](https://share.jwint.net/doc/唐詩三百首)
-[行楷](https://share.jwint.net/doc/唐詩三百首.pdf)
-[瘦金體](https://share.jwint.net/doc/唐詩三百首_瘦金體.pdf)
-[🔹宋詞三百首](https://share.jwint.net/doc/宋詞三百首)
-[行楷](https://share.jwint.net/doc/宋詞三百首.pdf)
-[瘦金體](https://share.jwint.net/doc/宋詞三百首_瘦金體.pdf)
+
 
 
 🍀
