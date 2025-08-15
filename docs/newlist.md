@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://s.jwint.net/doc/NewsList
+go: https://h.jwint.net/NewsList
 what: news list
 dt: 240515093850
 ---
