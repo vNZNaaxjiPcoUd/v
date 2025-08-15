@@ -46,7 +46,7 @@ title: vv
 
 
 🍀
-{% for p in site.pages %}{% if p.what %}[。{{ p.what }} ]({{ p.url }}) {% endif %}{% endfor %}
+{% for p in site.pages %}{% if p.what %}[.{{ p.what }} ]({{ p.url }}) {% endif %}{% endfor %}
 
 # {{ site.time | date: "%m-%d %H:%M:%S" }}
 
