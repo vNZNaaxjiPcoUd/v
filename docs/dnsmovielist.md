@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://d.jwint.net/movie%20list
+go: https://h.jwint.net/movie%20list
 what: movielist 
 dt: 240531111811
 ---
