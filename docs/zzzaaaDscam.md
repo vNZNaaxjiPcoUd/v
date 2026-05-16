@@ -1,0 +1,7 @@
+---
+layout: shorturl
+go: https://192.168.1.184:5001
+what: DS cam local valrico
+dt: 240430165941
+---
+https://ds918.local:5001

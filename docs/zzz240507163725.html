@@ -1,0 +1,13 @@
+---
+layout: empty
+what: Hi
+title: now
+---
+[{% for p in site.pages %}{% if p.what %}{
+"name" : "{{ p.what }}",
+"url" : "{{ p.url }}",
+"layout" : "{{ p.layout }}"
+},{% endif %}{% endfor %}{"name" : "end", "url" : "https://v.jwint.net/", "layout": "empty"}]
+
+
+

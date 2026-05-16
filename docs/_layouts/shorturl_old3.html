@@ -1,0 +1,3 @@
+<!DOCTYPE html>
+<head><meta charset="UTF-8"><meta http-equiv="cache-control" content="no-cache" /><title>Go</title></head>
+<body><p id="message"></p><script>function processAndRedirect() {const baseUrl = "{{ page.go }}";const lastPart = window.location.search.slice(1);const result = lastPart.replace(/\+/g, "%20");const kk1 = `${baseUrl}${result}`;let okU = kk1.replace(/(?<!:)\/+/g, "/");window.location.href = okU;}processAndRedirect();</script></body></html>

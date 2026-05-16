@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+<head>
+	<base target="_blank">
+	<!--<meta http-equiv="refresh" content="60000">-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://h.jwint.net/styles.css">
+	<link rel="manifest" href="https://h.jwint.net/manifest.json">
+    <title>{% if page.title == "" %}{{ page.name }}{% else %}{{ page.title }}{% endif %}</title>
+
+<style>
+    #secretArea {
+        display: none; 
+    }
+    
+    .hint {
+        color: #888;
+        font-size: 14px;
+    }
+
+	#helloWorld {
+		display: block;
+    }
+	/*#helloWorld:hover { transform: scale(1.1); }*/
+    
+    /* 密碼輸入燈箱 */
+    #passwordOverlay {
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(0,0,0,0.95);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        z-index: 999;
+    }
+    #passwordInput {
+        font-size: 28px;
+        padding: 15px 20px;
+        width: 300px;
+        text-align: center;
+        border: none;
+        border-bottom: 3px solid #00ff88;
+        background: transparent;
+        color: #fff;
+        outline: none;
+    }
+    #passwordInput:focus {
+        border-bottom-color: #00ff88;
+    }
+    .tip {
+        margin-top: 20px;
+        color: #888;
+        font-size: 14px;
+    }
+</style>
+	
+</head>
+
+<body>
+<label id="cnT">00:00:00</label> <label id="siteTime">time</label><br>
+<div id="icon">🔅 🍀 🔹</div> 
+<div id="helloWorld">hello World! </div>
+<div class="msg">。<iframe src="https://h.jwint.net/UML%20now.html" style="width:100%; height:100vh; border:none;"></iframe>
+</div>
+<div id="passwordOverlay">
+    <input type="password" id="passwordInput" placeholder="訊息內容" autocomplete="off">
+</div>
+<div id="secretArea">
+	<!--<div class="mono container-fluid px-3 my-5 markdown-body">-->
+	<div id="showworld">
+		<div id="allT"></div>
+	</div>
+</div>
+
+<script defer>
+	// update clock
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+
+    function showTime() {
+      const currentDate = new Date();
+      const options = { timeZone: timeZone, hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const timestamp = currentDate.toLocaleString('en-US', options);
+      let labelElement = document.getElementById("cnT");
+      labelElement.innerHTML = timestamp;
+    }    
+
+
+    setInterval(showTime, 1000);
+    showTime();
+</script>
+
+<script defer>
+	// update site time
+
+    let cntt = 1;
+    const dsurl = "/ds2";
+    let initStr = "";
+    let nStop = 1;
+
+
+    async function Get_initStr(){
+      try {
+        const response = await fetch(dsurl,{cache:'no-store'});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        console.log(response.status);
+        const json = await response.json();
+        console.log(json);
+        initStr = json['data'];
+        
+        const currentDate = new Date();
+        const options = { timeZone: timeZone, minute: '2-digit', second: '2-digit'};
+        const timestamp = currentDate.toLocaleString('en-US', options);
+
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = " ^"+timestamp;
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+
+    function sleep(s) {
+      let ms = s * 1000;
+      return new Promise(resolve => setTimeout(resolve, ms));   
+    }
+
+
+    async function getSiteTime() {
+      try {
+        const response = await fetch(dsurl,{cache:'no-cache'});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        //console.log(response.status);
+        const json = await response.json();
+        //console.log(json); 
+        if ( initStr != json['data'] ) {
+            //console.log(`initStr = ${initStr}, new data = ${json['data']} `);
+            let labelElement = document.getElementById("siteTime");
+            labelElement.innerHTML = json['data'];
+            nStop = 0;
+            await sleep(300);
+            window.location.reload();     
+        } else {
+            //console.log(`match , initStr == new data = ${json['data']} `);
+        }
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+
+    function upPage(){
+      if( nStop == 0){
+        return;
+      }
+      cntt = cntt + 1 ;
+      //showTime();
+      if( !(cntt % 3)){
+        getSiteTime();
+        //getCodeTime();
+        //console.log("getSiteTime");
+        //cntt = 1 ;
+      }
+      if( cntt > 1200){
+        nStop = 0;
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = "_";
+      } 
+      //updateCnt();
+      //console.log(`cntt = ${cntt}`);
+    }
+
+
+    Get_initStr();
+    setInterval(upPage, 1000);
+
+
+</script>
+
+
+
+
+<script defer>
+	// open locked content
+const PASSWORD = "d0a4b3d376be0af335a4d748e48327cbc6a4fd9e12dbfef2cea690cf2393319f65ff1deef529a0bf49826c408ba4c757788bcf4cf9ad7b7a85ea018a57540087";
+const SALT = "f862f1d08bf480f0a6c1f8db1914330976935c513eb154813220bad9fccad8a53f96d6ca0a12cead5d5fb2a65cbbd6e27d3b31d622f38c731e18de1d669df512d565ecea212aae"
+let buffer = [];        
+const allText = `{{ content }}`;
+const MAX_BUFFER = 99;
+
+async function hashPassword(password, salt) {
+    const encoder = new TextEncoder(); 
+    const data = encoder.encode(password + salt); 
+    const hashBuffer = await crypto.subtle.digest('SHA-512', data);
+    const hashArray = new Uint8Array(hashBuffer);
+    const hashHex = Array.from(hashArray).map(byte => byte.toString(16).padStart(2, '0')).join(''); 
+    return hashHex;
+}
+async function checkPassword(inputPassword, storedSalt, storedHash) {
+    const inputHash = await hashPassword(inputPassword, storedSalt);
+    if (inputHash === storedHash) {
+        //console.log("密碼正確！");
+		return true;
+    } else {
+        //console.log("密碼錯誤！");
+		return false;
+    }
+}
+
+document.addEventListener("keydown", async function(e) {
+    if (e.key.length === 1) {
+        buffer.push(e.key.toLowerCase()); 
+        if (e.key === ' ') { 
+			buffer=[]; 
+			return;
+		}
+        if (buffer.length > MAX_BUFFER) {
+            buffer.shift();
+        }
+        if ( await checkPassword(buffer.join(""), SALT, PASSWORD) ) {
+			document.getElementById("allT").innerHTML = allText ;
+			document.getElementsByClassName("msg")[0].style.display = "none";
+            document.getElementById("secretArea").style.display = "block";
+			document.getElementById("helloWorld").style.display = "none";
+			document.getElementById("passwordOverlay").style.display = "none";
+            document.removeEventListener("keydown", arguments.callee);
+            buffer = []; 
+        }
+		updateDisplay();
+    }
+    if (e.key === "Backspace") {
+        buffer.pop();
+    }
+});
+
+const display = document.getElementById("helloWorld");
+function updateDisplay() {
+    if (buffer.length === 0) {
+        display.textContent = '';           // 沒輸入就清空
+        return;
+    }
+    // 最後一個字元明文顯示，其他用 • 代替
+    const masked = '•'.repeat(buffer.length - 1) + buffer[buffer.length - 1];
+    display.textContent = masked;
+}
+
+document.getElementById("helloWorld").onclick = function() {
+	document.getElementById("passwordOverlay").style.display = "flex";
+    document.getElementById("passwordInput").focus();
+    this.style.display = "none";  // 隱藏 HelloWorld
+};
+
+document.getElementById("passwordInput").onkeydown = async function(e) {
+    if (e.key === "Enter") {
+        if (await checkPassword(this.value, SALT, PASSWORD)) {
+            document.getElementById("passwordOverlay").style.display = "none";
+			document.getElementById("allT").innerHTML = allText ;
+			document.getElementsByClassName("msg")[0].style.display = "none";
+            document.getElementById("secretArea").style.display = "block";
+			document.getElementById("helloWorld").style.display = "none";
+        } else {
+            this.style.borderBottomColor = "#ff0088";
+            this.value = "";
+            this.placeholder = "訊息已送出！";
+        }
+    }
+};
+
+</script>
+</body>
+
+</html>

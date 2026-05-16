@@ -1,0 +1,545 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en-US" }}">
+
+<head>
+	<base target="_blank">
+	<!--<meta http-equiv="refresh" content="60000">-->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+  	<link rel="stylesheet" href="https://h.jwint.net/styles.css">
+	<link rel="manifest" href="https://h.jwint.net/manifest.json">
+    <title>{% if page.title == "" %}{{ page.name }}{% else %}{{ page.title }}{% endif %}</title>
+
+<style>
+    #secretArea {
+        display: none; 
+    }
+    
+    .hint {
+        color: #888;
+        font-size: 14px;
+    }
+
+	/*#helloWorld {
+		display: block;
+    }
+	#helloWorld:hover { transform: scale(1.1); }*/
+
+	#searchF {
+		display: none;
+	}
+    
+    /* 密碼輸入燈箱 */
+    #passwordOverlay {
+        position: fixed;
+        top: 0; left: 0; right: 0; bottom: 0;
+        background: rgba(0,0,0,0.95);
+        display: none;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        z-index: 999;
+    }
+    #passwordInput {
+        font-size: 28px;
+        padding: 15px 20px;
+        width: 300px;
+        text-align: center;
+        border: none;
+        border-bottom: 3px solid #00ff88;
+        background: transparent;
+        color: #fff;
+        outline: none;
+    }
+    #passwordInput:focus {
+        border-bottom-color: #00ff88;
+    }
+    .tip {
+        margin-top: 20px;
+        color: #888;
+        font-size: 14px;
+    }
+	
+	#searchInput {
+		margin: 10px;
+	}
+	#searchButton {
+		margin: 10px;
+	}
+	.highlight {
+		background-color: yellow;
+	}
+    #searchInput {
+        padding: 15px 20px;
+        text-align: center;
+        border: none;
+        border-bottom: 3px solid #00ff88;
+        background: transparent;
+        color: #fff;
+        outline: none;
+    }
+
+    #topPage {
+        position: fixed; 
+        top: 0;             /* 貼齊最上方 */
+        /* left: 0;            /* 貼齊最左方 */
+        width: 100%;        /* 寬度撐滿 */
+        background-color: rgb(0, 0, 0); /* 建議給背景色，否則捲動時文字會重疊 */
+        padding: 10px 0;    /* 上下留點間距 */
+        /* text-align: center; 圖示置中 */
+        z-index: 9999;      /* 確保它在所有元素的最上層 (不被高亮或內容遮住) */
+        /*border-bottom: 1px solid #ddd;  選配：加一條淡淡的底線 */
+        /*font-size: 24px;     調整圖示大小 */   
+    }
+
+    .cute-btn {
+        background: linear-gradient(135deg, #76fa64 0%, #baf3bd 100%); /* 粉嫩漸層 */
+        color: white;
+        border: none;
+        padding: 10px 25px;
+        border-radius: 50px; /* 這裡決定圓角程度 */
+        font-size: 16px;
+        font-weight: bold;
+        cursor: pointer;
+        box-shadow: 0 4px 15px rgba(158, 243, 173, 0.4); /* 柔和的粉色陰影 */
+        transition: all 0.3s ease; /* 讓動畫變順滑 */
+        outline: none;
+        display: inline-flex;
+        align-items: center;
+        gap: 5px;
+    }
+
+    /* 滑鼠移上去的反應 */
+    .cute-btn:hover {
+        transform: translateY(-2px) scale(1.05); /* 稍微浮起並放大 */
+        box-shadow: 0 6px 20px rgba(255, 154, 158, 0.6);
+        filter: brightness(1.05); /* 變亮一點點 */
+    }
+
+    /* 點擊時的反應 */
+    .cute-btn:active {
+        transform: translateY(1px) scale(0.98); /* 往下壓的感覺 */
+    }
+
+</style>
+	
+</head>
+
+<body>
+<div id="topPage">
+    <label id="cnT">00:00:00</label>
+    <label id="siteTime">time</label>
+    <label id="icon">🔅 🍀 🔹</label>
+    <label id="helloWorld">hello World! </label>
+	<div id="searchF">	
+	    <input type="text" id="searchInput" placeholder="Enter text to search...">
+	    <button class="cute-btn" id="searchButton">Search</button><button class="cute-btn" id="reloadButton" onclick = 'window.location.reload()'>Reload</button>
+	</div>
+</div>
+<div><br><br><br></div>
+<div id="msg">。</div>
+<div id="passwordOverlay">
+    <input type="password" id="passwordInput" placeholder="訊息內容" autocomplete="off">
+</div>
+<div id="secretArea">
+	<div id="showworld">
+		<div id="allT"></div>
+	</div>
+</div>
+<div id="endPage">
+	<button class="cute-btn" id="searchButton" onclick = 'window.scrollTo({top: 0,behavior: "smooth"})'>Top</button>
+</div>
+	
+
+
+
+<script defer>
+	//  clock show local time, and update every second.
+    const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone;
+
+
+    function showTime() {
+      const currentDate = new Date();
+      const options = { timeZone: timeZone, hour: '2-digit', minute: '2-digit', second: '2-digit'};
+      const timestamp = currentDate.toLocaleString('en-US', options);
+      let labelElement = document.getElementById("cnT");
+      labelElement.innerHTML = timestamp;
+    }    
+
+
+    setInterval(showTime, 1000);
+    showTime();
+</script>
+
+<script defer>
+// show a url page in a div, and update it when the url content changed.
+
+async function showPage(srcURL,divN){
+    const response = await fetch(srcURL);
+    if (!response.ok) {
+        //console.log(`無法載入檔案 (HTTP ${response.status})`);
+        document.getElementById(divN).innerHTML = `<p class="hint">提取有問題 (${response.status})</p>` ;
+        return;
+    }
+    const newHTML = await response.text();
+    document.getElementById(divN).innerHTML = newHTML ;
+}
+
+showPage("https://h.jwint.net/%E4%B9%BE%E7%87%A5%E5%8A%91%E3%80%80%E6%B0%AF%E5%8C%96%E9%88%A3.html","msg");
+
+</script>
+
+<script defer>
+	// check site timer update and continue screen.
+
+    let cntt = 1;
+    const dsurl = "https://v.jwint.net/ds2";
+    let initStr = "";
+    let nStop = 1;
+
+
+    async function Get_initStr(){
+      try {
+        const response = await fetch(dsurl,{cache:'no-store'});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        console.log(response.status);
+        const json = await response.json();
+        console.log(json);
+        initStr = json['data'];
+        
+        const currentDate = new Date();
+        const options = { timeZone: timeZone, minute: '2-digit', second: '2-digit'};
+        const timestamp = currentDate.toLocaleString('en-US', options);
+
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = " ^"+timestamp;
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+
+    function sleep(s) {
+      let ms = s * 1000;
+      return new Promise(resolve => setTimeout(resolve, ms));   
+    }
+
+
+    async function getSiteTime() {
+      try {
+        const response = await fetch(dsurl,{cache:'no-cache'});
+        if (!response.ok) {
+          throw new Error(`Response status: ${response.status}`);
+        }
+        //console.log(response.status);
+        const json = await response.json();
+        //console.log(json); 
+        if ( initStr != json['data'] ) {
+            //console.log(`initStr = ${initStr}, new data = ${json['data']} `);
+            let labelElement = document.getElementById("siteTime");
+            labelElement.innerHTML = json['data'];
+            nStop = 0;
+            await sleep(300);
+            window.location.reload();     
+        } else {
+            //console.log(`match , initStr == new data = ${json['data']} `);
+        }
+      } catch (error) {
+        console.error(error.message);
+      }
+    }
+    
+
+    function upPage(){
+      if( nStop == 0){
+        return;
+      }
+      cntt = cntt + 1 ;
+      //showTime();
+      if( !(cntt % 3)){
+        getSiteTime();
+        //getCodeTime();
+        //console.log("getSiteTime");
+        //cntt = 1 ;
+      }
+      if( cntt > 1200){
+        nStop = 0;
+        let labelElement = document.getElementById("siteTime");
+        labelElement.innerHTML = "...."; ///count down and show stop action.
+      } 
+      //updateCnt();
+      //console.log(`cntt = ${cntt}`);
+    }
+
+
+    Get_initStr();
+    setInterval(upPage, 1000);
+
+
+</script>
+
+
+
+
+<script defer>
+	// open the locked content
+const PASSWORD = "d0a4b3d376be0af335a4d748e48327cbc6a4fd9e12dbfef2cea690cf2393319f65ff1deef529a0bf49826c408ba4c757788bcf4cf9ad7b7a85ea018a57540087";
+const SALT = "f862f1d08bf480f0a6c1f8db1914330976935c513eb154813220bad9fccad8a53f96d6ca0a12cead5d5fb2a65cbbd6e27d3b31d622f38c731e18de1d669df512d565ecea212aae"
+let buffer = [];        
+const allText = `{{ content }}`;
+const MAX_BUFFER = 99;
+
+async function hashPassword(password, salt) {
+    const encoder = new TextEncoder(); 
+    const data = encoder.encode(password + salt); 
+    const hashBuffer = await crypto.subtle.digest('SHA-512', data);
+    const hashArray = new Uint8Array(hashBuffer);
+    const hashHex = Array.from(hashArray).map(byte => byte.toString(16).padStart(2, '0')).join(''); 
+    return hashHex;
+}
+
+let statePsCheck = false;  //密碼驗證狀態, if yes, show the content, otherwise not.
+async function checkPassword(inputPassword, storedSalt, storedHash) {
+    const inputHash = await hashPassword(inputPassword, storedSalt);
+    if (inputHash === storedHash) {
+        //console.log("密碼正確！");
+        statePsCheck = true;
+		return true;
+    } else {
+        //console.log("密碼錯誤！");
+		return false;
+    }
+}
+
+// show allText content when password correct, and hide the input process.
+function showContent() {
+    document.getElementById("allT").innerHTML = allText ;
+    //document.getElementsByClassName("msg")[0].style.display = "none";
+    document.getElementById("msg").style.display = "none";
+    document.getElementById("secretArea").style.display = "block";
+    document.getElementById("helloWorld").style.display = "none";
+    document.getElementById("passwordOverlay").style.display = "none";
+    document.removeEventListener("keydown", arguments.callee);
+    buffer = []; 
+}
+
+document.addEventListener("keydown", async function(e) {
+    if (e.key.length === 1) {
+        buffer.push(e.key.toLowerCase()); 
+
+        if (buffer.length > MAX_BUFFER) {
+            buffer.shift();
+        }
+        if (e.key === ' ') { 
+			e.preventDefault();
+			window.scrollTo({ top: 0, behavior: 'smooth' });
+			buffer=[]; 
+
+		}else if ( await checkPassword(buffer.join(""), SALT, PASSWORD) ) {
+			showContent();
+        }else{
+            //console.log(`目前輸入: ${buffer.join("")}`);  
+        }
+		updateDisplay();
+    }
+    if (e.key === "Backspace") {
+        buffer.pop();
+    }
+});
+
+const display = document.getElementById("helloWorld");
+function updateDisplay() { // show the key input
+    if (buffer.length === 0) {
+        display.textContent = 'Hello! your message send! wait response!';           // 沒輸入就清空
+        return;
+    }
+    // 最後一個字元明文顯示，其他用 • 代替
+    //const masked = '•'.repeat(buffer.length - 1) + buffer[buffer.length - 1];
+    //display.textContent = masked;
+    display.textContent = buffer.join("");
+}
+
+document.getElementById("helloWorld").onclick = function() {
+	document.getElementById("passwordOverlay").style.display = "flex";
+    document.getElementById("passwordInput").focus();
+    this.style.display = "none";  // 隱藏 HelloWorld
+};
+
+// display none of password input
+function disablePasswordInput() {
+    const input = document.getElementById("passwordInput");
+    input.value = "";
+    input.placeholder = "訊息內容";
+    input.style.borderBottomColor = "#00ff88";
+    document.getElementById("passwordOverlay").style.display = "none";
+    document.getElementById("helloWorld").style.display = "block";
+    buffer = []; // 清空緩衝區
+    updateDisplay();
+}
+
+document.getElementById("passwordInput").onkeydown = async function(e) {
+    if (e.key === "Enter") {
+        if (await checkPassword(this.value, SALT, PASSWORD)) {
+            showContent();
+        } else {
+            disablePasswordInput();
+        }
+    }else if (e.key === "Escape") {
+        disablePasswordInput();
+    }
+};
+
+</script>
+
+<script>
+    // 搜尋功能, 核心邏輯，包含搜尋和高亮顯示
+    let searchT = "";
+
+	document.getElementById("searchF").style.display = "none";
+	document.getElementById("icon").onclick = function() {
+        console.log('icon clicked');
+        if(statePsCheck == false){
+            return;
+        }
+		if ( document.getElementById("searchF").style.display === "none"){
+			document.getElementById("searchF").style.display = "block";
+		}else{
+			document.getElementById("searchF").style.display = "none";
+		}
+	};
+
+    // 搜尋按鈕點擊事件
+    document.getElementById('searchButton').addEventListener('click', function() {
+        const searchText = document.getElementById('searchInput').value.trim();
+        if (searchText) {
+            searchT = searchText;
+            performSearch(searchT, false); // 開始新的搜尋
+        }
+    });
+
+    // 監聽 Enter 鍵找下一個
+    document.addEventListener('keydown', function(event) {
+        if (event.key === 'Enter') {
+            const searchText = document.getElementById('searchInput').value.trim();
+            if (searchText) {
+                // 如果搜尋文字變了，重新開始；否則找下一個
+                if (searchText !== searchT) {
+                    searchT = searchText;
+                    performSearch(searchT, false);
+                } else {
+                    performSearch(searchT, true);
+                }
+                event.preventDefault(); // 防止表單提交或換行
+            }
+        }
+    });
+
+/**
+ * 核心搜尋函數
+ * @param {string} text - 要搜尋的文字
+ * @param {boolean} next - 是否搜尋下一個
+ */
+    // 記錄目前的高亮元素，用來下次搜尋前清除
+    let currentHighlight = null;
+
+    function performSearch(text, next) {
+        const container = document.getElementById('showworld');
+        const selection = window.getSelection();
+
+        // --- 步驟 1: 確保搜尋是從 container 內部開始 ---
+        // 如果目前沒選取東西，或者選取的位置不在 showworld 內
+        if (selection.rangeCount === 0 || 
+            !container.contains(selection.anchorNode)) {
+            resetCursorToStart(container);
+        }
+
+        // --- 步驟 2: 執行搜尋 ---
+        // 重點：第4個參數(Wrap Around)設為 false！
+        // 因為我們要自己控制只在 div 內循環，不讓它亂跳到頁首頁尾
+        const found = window.find(text, false, false, false, false, false, false);
+
+        // --- 步驟 3: 清除上一次的高亮 ---
+        if (currentHighlight) {
+            const parent = currentHighlight.parentNode;
+            while (currentHighlight.firstChild) {
+                parent.insertBefore(currentHighlight.firstChild, currentHighlight);
+            }
+            parent.removeChild(currentHighlight);
+            currentHighlight = null;
+        }
+
+        // --- 步驟 4: 檢查搜尋結果是否有效 ---
+        if (found) {
+            const range = selection.getRangeAt(0);
+            
+            // 檢查：找到的文字真的在 showworld 裡面嗎？
+            // (因為 window.find 有時會跨越邊界找到外面的字)
+            if (container.contains(range.commonAncestorContainer)) {
+                
+                // === 這裡執行高亮邏輯 ===
+                const span = document.createElement('span');
+                span.style.backgroundColor = "yellow";
+                
+                try {
+                    range.surroundContents(span);
+                    currentHighlight = span;
+                    
+                    // 讓該元素滾動到視野中 (如果是 div 內捲動，這行也很重要)
+                    span.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                    
+                    // 修正游標位置到高亮字之後，以便找下一個
+                    selection.collapseToEnd();
+                    
+                } catch (e) {
+                    console.warn("無法高亮 (可能跨標籤)", e);
+                }
+
+            } else {
+                // 雖然 found 為 true，但找到的字在 container 外面 (例如 footer)
+                console.log("找到的字在範圍外，視為結束");
+                handleEndOfSearch(container);
+            }
+        } else {
+            // 完全找不到 (found 為 false)
+            console.log("找不到更多結果");
+            handleEndOfSearch(container);
+        }
+    }
+
+    // 輔助函式：當搜完一輪或出界時
+    function handleEndOfSearch(container) {
+        // 1. 清除選取 (避免高亮停留在外面)
+        window.getSelection().removeAllRanges();
+        
+        // 2. 跳出提示
+        // alert('搜尋範圍結束，將回到開頭。');
+        console.log('搜尋範圍結束，將回到開頭。');
+
+        // 3. 重置游標到 container 開頭，準備下一次點擊
+        resetCursorToStart(container);
+    }
+
+    // 輔助函式：將游標重置到指定容器的開頭
+    function resetCursorToStart(element) {
+        const range = document.createRange();
+        // 將範圍設定為 element 的第一個子節點之前
+        range.setStart(element, 0); 
+        range.collapse(true); // 摺疊成游標
+
+        const selection = window.getSelection();
+        selection.removeAllRanges();
+        selection.addRange(range);
+        
+        // 如果 div 有捲軸，也滾回最上面
+        element.scrollTop = 0;
+    }
+
+</script>
+
+	
+</body>
+
+</html>

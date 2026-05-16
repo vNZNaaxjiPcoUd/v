@@ -1,0 +1,32 @@
+---
+title: Check forward pass from squarespace.com
+layout: empty
+---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="cache-control" content="no-cache" />
+    <title></title>
+</head>
+<body>
+  <div>Hello! https://checkForward.jwint.net</div>
+  <div id="show">Here</div>
+    <script>
+        function processAndRedirect() {
+            const baseUrl = "{{ page.go }}";
+            const lastPart = window.location.search.slice(1);
+            const result = lastPart.replace(/\+/g, "%20");
+            const kk1 = `${baseUrl}${result}`;
+            let okU = kk1.replace(/(?<!:)\/+/g, "/");
+            //window.location.href = okU;
+            document.getElementById("show").innerHTML = lastPart + "<br>" + okU;
+            console.log("Redirecting to:", okU);
+            console.log("Original URL:", kk1);
+            console.log("Last part:", lastPart);
+            const urlL = window.location;
+            console.log("Current URL:", urlL);
+            }
+        processAndRedirect();
+    </script>
+</body>
+</html>
