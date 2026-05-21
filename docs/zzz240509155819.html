@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" , interactive-widget=resizes-content">
-    <title>VP</title>
+    <title>List</title>
     <script src="https://h.jwint.net/static/crypto-js.min.js"></script>
     <style>
         body {
@@ -73,11 +73,11 @@
 </head> 
 <body>
     <div class="main-container">
-        <h1>VP File Manager</h1>
+        <h1>List</h1>
         <div class="input-group">
 
-            <label for="nameInput">File Name:</label>
-            <input type="text" id="nameInput" placeholder="Enter file name">
+            <label for="nameInput">Book Name:</label>
+            <input type="text" id="nameInput" placeholder="Enter book name">
 
             <label for="msgInput">Message:</label>
             <input type="text" id="msgInput" placeholder="Enter message">
@@ -147,7 +147,7 @@ function btnSave() {
     show(" === Saving file... === ");
     const name = document.getElementById("nameInput").value.trim();
     if (!name) {
-        show("Please enter a file name to save.");
+        show("Please enter a book name to save.");
         return;
     }
     let msg = document.getElementById("msgInput").value.trim(); 
@@ -161,11 +161,11 @@ function btnSave() {
     doSave(name, msg, T).then(res => {
         if (res.status === "success") {
             show(`File "${name}" saved successfully!`);
-            //console.log(`File "${name}" saved successfully!`, res);
+            //console.log(`book "${name}" saved successfully!`, res);
             setTag(res.tag);
             //console.log(`New tag for "${name}":`, getTag());
         } else {
-            show(`Error saving file: ${res.message}`);
+            show(`Error saving book: ${res.message}`);
         }
         //console.log("res:", res);
     });
@@ -179,14 +179,13 @@ function btnList() {
     const key = document.getElementById("nameInput").value.trim();
     doGetAll(key).then(res => {
         if( res.status === "error") {
-            show(`Error getting file list: ${res.message}`);
-            show(`fill your key`);
+            show(`What is your bookname`);
             return;
             
         }
-        show(" === Getting file list... === ");
-        show("Files retrieved successfully!");
-        //console.log("File List:", res);
+        show(" === Getting book list... === ");
+        //show("books retrieved successfully!");
+        //console.log("book List:", res);
         const value = res.value || [];
         value.sort((x, y) => x.orgFileName.localeCompare(y.orgFileName));
         /*
@@ -194,10 +193,10 @@ function btnList() {
             //show(JSON.stringify(file));
             show(`${file.fName} - ${file.orgFileName}`);
         });*/
-value.forEach(({ fName, orgFileName }) => {
-    // 加入 Emoji，並將 fName 設為粗體，原檔名設為灰色
-    show(`📄 <b>${fName}</b> <span style="color: gray; font-size: 0.9em;">(${orgFileName})</span>`);
-});
+        value.forEach(({ fName, orgFileName }) => {
+            // 加入 Emoji，並將 fName 設為粗體，原檔名設為灰色
+            show(`📄 <b>${fName}</b> <span style="color: gray; font-size: 0.9em;">(${orgFileName})</span>`);
+        });
         console.log("res:", res);
     });
 }   
@@ -205,11 +204,11 @@ value.forEach(({ fName, orgFileName }) => {
 //delete
 function btnDelete() {
     cleanShow();
-    show(" === Deleting file... === ");
+    show(" === Deleting book... === ");
 
     key = document.getElementById("nameInput").value.trim();
     if (!key) {
-        show("Please enter a file name to delete.");
+        show("Please enter a book name to delete.");
         return;
     }else {
         let message = CryptoJS.SHA512(CryptoJS.enc.Utf8.parse(key)).toString();
@@ -312,36 +311,10 @@ async function callApiPost(params) {
           console.log(error);
           ret = { status: "error", message: "網路請求失敗" };
       });
-      //console.log("API POST 請求已發出，等待回應...");
-      //console.log(ret);
-      //console.log("API POST 請求已發出，等待回應...",ret);
+
       return ret;
 
 }
-/*
-// 1. 儲存資料 (Save)
-async function doSave(key, value) {
-    //const res = await callApiPost({
-    const res = await callApi({
-        action: "save",
-        key: key,
-        value: value
-    });
-    //console.log("Save 結果:", res);
-    return res;
-}
-
-// 2. 讀取單一資料 (Get)
-async function doGet(key) {
-    const res = await callApi({
-        action: "get",
-        key: key
-    });
-    //console.log("doGet 結果:");
-    //console.log(res);
-    return res;
-}
-*/
 // 1. 儲存資料 (Save)
 async function doSave(key, inV, tag ) {
     const newV = {
