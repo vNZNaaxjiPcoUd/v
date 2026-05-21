@@ -187,7 +187,8 @@ function btnList() {
         //show("books retrieved successfully!");
         //console.log("book List:", res);
         const value = res.value || [];
-        value.sort((x, y) => x.orgFileName.localeCompare(y.orgFileName));
+        //value.sort((x, y) => x.orgFileName.localeCompare(y.orgFileName));
+        value.sort((x, y) => x.fName.localeCompare(y.fName));
         /*
         value.forEach(file => {
             //show(JSON.stringify(file));
