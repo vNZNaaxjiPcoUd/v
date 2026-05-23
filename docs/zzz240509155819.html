@@ -93,7 +93,7 @@
 </body>
 
 
-
+<script src="https://cdn.jsdelivr.net/npm/js-sha512@0.9.0/build/sha512.min.js"></script>
 
 <script>
 const API_URL = "https://script.google.com/macros/s/AKfycbzIAuTrBD3eI7uusVneoYF6P-f2RtqVLT2yrpHbWpghCTsfhGh6JdcMgKx2b6a3K7HX/exec"; 
@@ -172,14 +172,21 @@ function btnSave() {
     
 }   
 
+    function genKey(oriKey) {
+        // toISOString() 預設就是 UTC 時間，格式如 "2026-05-23T..."
+        // 取前 10 碼並把 "-" 替換掉，即可得到 YYYYMMDD
+        const dateString = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+        return sha512(oriKey + dateString);
+    }
+
 //list
 function btnList() {
     cleanShow();
 
-    const key = document.getElementById("nameInput").value.trim();
+    const key = genKey(document.getElementById("nameInput").value.trim());
     doGetAll(key).then(res => {
         if( res.status === "error") {
-            show(`What is your bookname`);
+            show(`What is your message`);
             return;
             
         }
