@@ -1,4 +1,4 @@
 ---
 what: IME
-go: https://www.google.com/inputtools/try/
+go: https://app.jwint.net/ime/
 ---
