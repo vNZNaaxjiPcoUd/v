@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://app.jwint.net/showVV
+go: https://n.jwint.net/r?book=vv
 what: vv:start
 dt: 240515094353
 ---
