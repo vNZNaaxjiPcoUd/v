@@ -1,4 +1,4 @@
 ---
-go: https://h.jwint.net/vp
+go: https://app.jwint.net/lNote/
 what: note:vp
 ---
