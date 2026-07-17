@@ -1,4 +1,4 @@
 ---
-go: https://v.jwint.net/chat
+go: https://app.jwint.net/chat/
 what: Chat
 ---
