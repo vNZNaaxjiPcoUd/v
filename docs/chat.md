@@ -1,4 +1,4 @@
 ---
-go: https://h.jwint.net/chat/?woMenDeLiaoTian
+go: https://app.jwint.net/chat/
 what: Chat Test
 ---
