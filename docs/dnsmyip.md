@@ -1,6 +1,6 @@
 ---
 layout: shorturl
-go: https://h.jwint.net/myip
+go: https://app.jwint.net/myip
 what: myip:Get self IP
 ---
 
